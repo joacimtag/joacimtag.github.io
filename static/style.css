@@ -1,0 +1,50 @@
+
+p {
+    font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+    color: #333333;
+}
+
+body {
+    font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+}
+
+.container {
+    width: 100%;
+    margin: 0 auto;
+    max-width: 1424px;
+    color: #333333;
+    line-height: 1.4;
+
+    background: #fdfdfd;
+    padding: 2.25% 4.5%;
+    box-sizing: border-box;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1), inset 0 0 2px rgba(0, 0, 0, 0.1125);
+    border: 1px solid #cbc9c7;
+}
+
+
+ /* unvisited link */
+a:link {
+    color: SteelBlue;
+    text-decoration: underline;
+}
+
+/* visited link */
+a:visited {
+    color: SteelBlue;
+    text-decoration: underline;
+}
+
+/* mouse over link */
+a:hover {
+    color: SteelBlue;
+    text-decoration: underline;
+}
+
+/* selected link */
+a:active {
+    color: SteelBlue;
+    text-decoration: underline;
+}
