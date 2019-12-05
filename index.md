@@ -1,5 +1,6 @@
-# Joacim Tåg
-Program Director at the Research Institute of Industrial Economics (IFN)
+---
+title: Joacim Tåg
+---
 
 <img src="http://www.joacimtag.se/static/Joacim_1_130x190.jpg" width="130" height="190" align="left" hspace="20">Joacim is Program Director and Research Fellow at the Research Institute of Industrial Economics (IFN) in Stockholm, Sweden. He holds a Ph.D. in Economics from Hanken School of Economics in Helsinki and has been a Fulbright Scholar at New York University.
 
