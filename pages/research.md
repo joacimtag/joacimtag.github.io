@@ -1,29 +1,14 @@
-<!DOCTYPE html>
-<head>
-	<title>Joacim Tåg</title>
-   <link rel="stylesheet" href="css/style.css">
-   <meta charset="utf-8">
-   <meta name="viewport" content="width=device-width, initial-scale=1">
-</head>
-<body>
-<br>
-<div class="container">
+---
+title: Home
+layout: default
+---
 
-<strong> <font size="6">Joacim Tåg</font></strong><br>
-Program Director at the Research Institute of Industrial Economics (IFN).<br><br><br>
 
-<img src="images/Joacim_1_130x190.jpg" width="130" height="190" align="left" hspace="20">Joacim is Program Director and Research Fellow at the Research Institute of Industrial Economics (IFN) in Stockholm, Sweden. He holds a Ph.D. in Economics from Hanken School of Economics in Helsinki and has been a Fulbright Scholar at New York University.  <br><br> He works on bringing Swedish registry data to the research frontier in labor and finance. A central theme is the allocation of executives and workers across firms and/or into entrepreneurship. He also studies how ownership changes in firms affect workers, and he has done work on optimal regulation of IT, telecom, and media companies. His research is detailed in over 30 publications and working papers and has been featured in major national and international newspapers. It has close to 1000 cites in Google Scholar and ranks top decile by all-time downloads worldwide in SSRN.
-<br><br>
-<strong>Links</strong><br>
-<a href="pdfs/JoacimTag_CV_Sept2019.pdf" target="_blank" rel="noopener noreferrer">Curriculum Vitae</a>, <a href="http://scholar.google.com/citations?user=Q0dCshQAAAAJ&amp;hl=en" target="_blank" rel="noopener noreferrer">Google Scholar</a>, <a href="https://ideas.repec.org/e/ptg3.html" target="_blank" rel="noopener noreferrer">RePEc</a>,&nbsp;<a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=397712" target="_blank" rel="noopener noreferrer">SSRN</a>,&nbsp;<a href="https://twitter.com/joacimtag" target="_blank" rel="noopener noreferrer">Twitter</a>.
-<br><br>
-<p> </p>
-<br>
 <strong>Publications and Working Papers</strong><br><br>
 Labor and Finance
 <ol>
  	<li>Keloharju, M., S. Knüpfer, and J. Tåg. 2019. "CEO Health"</li>
- 	<li>Keloharju, M., S. Knüpfer, and J. Tåg. 2019. "<a href="https://ssrn.com/abstract=2730207" target="_blank" rel="noopener noreferrer">What Prevents Women from Reaching the Top?</a>"</li>
+ 	<li>Keloharju, M., S. Knüpfer, and J. Tåg. 2019. "<a href="https://ssrn.com/abstract=2730207" target="_blank" rel="noopener noreferrer">What Prevents Women from Reaching the Top?</a>" Revise and Resubmit at <em>Management Science</em>.</li>
  	<li>Olsson, M. and J. Tåg. 2018. "<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3134462" target="_blank" rel="noopener noreferrer">What is the Cost of Privatization for Workers?</a>"</li>
  	<li>Olsson, M. and J. Tåg. 2017. "<a href="https://doi.org/10.1086/690712" target="_blank" rel="noopener noreferrer">Private Equity, Layoffs, and Job Polarization</a>." <em>Journal of Labor Economics</em> 35: 697–754.</li>
 </ol>
@@ -40,7 +25,7 @@ Industrial Organization
  	<li>Norbäck, P-J., L. Persson and J. Tåg. 2018. "<a href="https://doi.org/10.1016/j.iref.2017.09.012" target="_blank" rel="noopener noreferrer">Does the Debt Tax Shield Distort Ownership Efficiency?</a>" <em>International Review of Economics and Finance</em> 54: 299-310.</li>
  	<li>Basiki, S, P-J. Norbäck, L. Persson, and J. Tåg. 2017. "<a href="http://dx.doi.org/10.1016/j.euroecorev.2017.02.012" target="_blank" rel="noopener noreferrer">Cross-Border Acquisitions and Restructuring: Multinational Enterprises versus Private Equity-firms</a>."&nbsp;<em>European Economic Review&nbsp;</em>94:166–184.</li>
  	<li>Tangerås, T. and J. Tåg. 2016. "<a href="http://dx.doi.org/10.1016/j.ijindorg.2016.04.006" target="_blank" rel="noopener noreferrer">International Network Competition under Decentralized Regulation</a>." <em>International Journal of Industrial Organization&nbsp;</em>47:152–185.</li>
- 	<li>Norbäck, PJ, Persson, L and J. Tåg. 2014. "<a href="http://dx.doi.org/10.1016/j.ijindorg.2014.07.003" target="_blank" rel="noopener noreferrer">Acquisitions, Entry, and Innovation in Oligopolistic Network Industries</a>." <em>International Journal of Industrial Organization</em> 37:1–12.</li>
+ 	<li>Norbäck, PJ, Persson, L and J. Tåg. 2014.&nbsp;"<a href="http://dx.doi.org/10.1016/j.ijindorg.2014.07.003" target="_blank" rel="noopener noreferrer">Acquisitions, Entry, and Innovation in Oligopolistic Network Industries</a>." <em>International Journal of Industrial Organization</em> 37:1–12.</li>
  	<li>Economides, N. and J. Tåg. 2012. "<a href="http://dx.doi.org/10.1016/j.infoecopol.2012.01.001" target="_blank" rel="noopener noreferrer">Net Neutrality on the Internet: A Two-sided Market Analysis</a>." <em>Information Economics and Policy</em> 24:91–104.</li>
  	<li>Tåg, J. 2009. "<a href="http://dx.doi.org/10.1016/j.infoecopol.2009.02.001" target="_blank" rel="noopener noreferrer">Paying to Remove Advertisements</a>." <em>Information Economics and Policy</em>&nbsp;21: 245–252.</li>
  	<li>Tåg, J. 2009. "<a href="https://ssrn.com/abstract=1559094" target="_blank" rel="noopener noreferrer">Competing Platforms and Third Party Application Developers</a>." <em>Communication &amp; Strategies</em> 74: 95–114.</li>
@@ -55,6 +40,7 @@ Shorter Papers
 </ol>
 Other Publications
 <ol>
+    <li>Tåg, J. 2019. ”IFNs: forskningsprogram Globaliseringen och företagen 2009-2019” In <em>IFN 1939–2019 – 80 år av ekonomisk forskning</em>, edited by Magnus Henrekson, 29-48. Stockholm: Ekerlids Förlag.</li>
     <li>Koptyug, N., L. Persson and J. Tåg. 2019. “<a href="http://ssrn.com/abstract=3456584" target="_blank" rel="noopener noreferrer">Should we Worry about the Decline of the Public Corporation? A Brief Survey of the Economics and External Effects of the Stock Market</a>." <em>North American Journal of Economics and Finance</em> (forthcoming).</li>
  	<li>Norbäck, P-J., L. Persson and J. Tåg. 2018. "<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3128858" target="_blank" rel="noopener noreferrer">Private Equity Buyouts: Anti- or Pro-Competitive?</a>." <em>CPI Antitrust Chronicle</em> 1: 31–34.</li>
  	<li>Olsson, M. and J. Tåg. 2017. "<a href="https://www.nationalekonomi.se/sites/default/files/NEFfiler/45-8-mojt.pdf" target="_blank" rel="noopener">Påverkar riskkapitalinvesteringar anställda och samhällsekonomin?</a>" <i>Ekonomisk Debatt</i>, 8/2017: 26-36.</li>
@@ -68,14 +54,21 @@ Other Publications
  	<li>Tåg, J. 2009. "<a href="http://www.joacimtag.se/static/Tag2009_EST.pdf" target="_blank" rel="noopener noreferrer">Policies och Regleringar i Telekommunikations-, Media- och Teknologiindustrierna</a>." <em>Ekonomiska Samfundets&nbsp;</em><i>Tidskrift</i>&nbsp;2/09:83–87.</li>
  	<li>Tåg, J. 2008. "<a href="http://www.joacimtag.se/static/Tag2008-Essays-on-Platforms.pdf" target="_blank" rel="noopener noreferrer">Essays on Platforms: Business Strategies, Regulation and Policy in Telecommunications, Media and Technology Industries</a>." Ph.D. diss., Hanken School of Economics.</li>
 </ol>
-<br>
-<strong>Contact Details</strong><br><br>
-Mail: Research Institute of Industrial Economics, Box 55665, SE-102 15 Stockholm, Sweden<br>
-Phone: +46 (0)8 665 4524<br>
-Fax: +46 (0)8 665 4599<br>
-E-mail: joacim.tag(at)ifn.se<br>
-Web at IFN: <a href="http://www.ifn.se/joacimt">http://www.ifn.se/joacimt</a>
-</div>
-<br>
-</body>
-</html>
+
+<!---
+### All Publications and Working Papers
+
+Labor and Finance
+* Keloharju, M., S. Knüpfer, and J. Tåg. 2019. "CEO Health"
+* Keloharju, M., S. Knüpfer, and J. Tåg. 2019. "[What Prevents Women from Reaching the Top?](https://ssrn.com/abstract=2730207)"
+* Olsson, M. and J. Tåg. 2018. "[What is the Cost of Privatization for Workers?](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3134462)
+
+
+### Copied from Zotero 
+
+* Åstebro, Thomas, and Joacim Tåg. “Gross, Net, and New Job Creation by Entrepreneurs.” Journal of Business Venturing Insights 8 (November 2017): 64–70. https://doi.org/10.1016/j.jbvi.2017.06.001.
+* Colonnelli, Emanuele, Joacim Tåg, Michael Webb, and Stefanie Wolter. “A Cross-Country Comparison of Dynamics in the Large Firm Wage Premium.” AEA Papers and Proceedings 108 (2018): 323–27. https://doi.org/10.1257/pandp.20181067.
+* Koptyug, Nikita, Lars Persson, and Joacim Tåg. “Should We Worry About the Decline of the Public Corporation? A Brief Survey of the Economics and External Effects of the Stock Market.” The North American Journal of Economics and Finance, August 2019, 101061. https://doi.org/10.1016/j.najef.2019.101061.
+* Norbäck, Pehr-Johan, Lars Persson, and Joacim Tåg. “Private Equity Buyouts: Anti- or Pro-Competitive?” SSRN Electronic Journal, 2018. https://doi.org/10.2139/ssrn.3128858.
+* Olsson, Martin, and Joacim Tåg. “Are Foreign Private Equity Buyouts Bad for Workers?” Economics Letters 172 (November 2018): 1–4. https://doi.org/10.1016/j.econlet.2018.08.002.
+* Rider, Christopher I., Peter Thompson, Aleksandra Kacperczyk, and Joacim Tåg. “Experience and Entrepreneurship: A Career Transition Perspective.” ILR Review 72, no. 5 (October 2019): 1149–81. https://doi.org/10.1177/0019793919852919.
