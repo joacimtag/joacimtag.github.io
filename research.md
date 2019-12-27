@@ -49,7 +49,7 @@ layout: default
  	<li>Economides, N. and J. Tåg. 2012. "<a href="http://dx.doi.org/10.1016/j.infoecopol.2012.08.004" target="_blank" rel="noopener noreferrer">Modelling the welfare effects of network neutrality regulation: A response to Caves' comment</a>."&nbsp;<em>Information Economics and Policy</em>&nbsp;24:293.</li>
  	<li>Tåg, J. 2012. "<a href="http://dx.doi.org/10.1093/oxfordhb/9780195391589.013.0011" target="_blank" rel="noopener noreferrer">The Real Effects of Private Equity Buyouts</a>." In <em>The Oxford Handbook of Private Equity</em>, edited by Douglas Cumming, 269–299. Oxford: Oxford University Press.</li>
  	<li>Persson, L. and Tåg, J. 2010. "<a href="http://www.jstor.org/stable/29779721" target="_blank" rel="noopener noreferrer">Book Review: Antitrust and Regulation in the EU and US: Legal and Economic Perspectives</a>." <em>Journal of Economic Literature</em> 48:1051–105.</li>
- 	<li>Tåg, J. 2009. "<a href="/assets/pictures/Tag2009_EST.pdf" target="_blank" rel="noopener noreferrer">Policies och Regleringar i Telekommunikations-, Media- och Teknologiindustrierna</a>." <em>Ekonomiska Samfundets&nbsp;</em><i>Tidskrift</i>&nbsp;2/09:83–87.</li>
- 	<li>Tåg, J. 2008. "<a href="/assets/pictures/
+ 	<li>Tåg, J. 2009. "<a href="/assets/pdfs/Tag2009_EST.pdf" target="_blank" rel="noopener noreferrer">Policies och Regleringar i Telekommunikations-, Media- och Teknologiindustrierna</a>." <em>Ekonomiska Samfundets&nbsp;</em><i>Tidskrift</i>&nbsp;2/09:83–87.</li>
+ 	<li>Tåg, J. 2008. "<a href="/assets/pdfs/
 	 Tag2008-Essays-on-Platforms.pdf" target="_blank" rel="noopener noreferrer">Essays on Platforms: Business Strategies, Regulation and Policy in Telecommunications, Media and Technology Industries</a>." Ph.D. diss., Hanken School of Economics.</li>
 </ol>
