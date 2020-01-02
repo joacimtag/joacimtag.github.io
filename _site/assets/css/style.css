@@ -1,0 +1,137 @@
+/* Main styling */
+
+body {
+  margin:1em auto;
+  max-width:60em;
+  padding:1em;
+
+  font-family: Baskerville, Garamond, Palatino, "Palatino Linotype", "Hoefler Text", "Times New Roman", serif;
+  color: #454545;
+  line-height:1.4;
+  font-size:16px;
+  text-align:left;
+
+}
+
+p {
+  color: #454545;
+}
+
+h1,h2,h3 { line-height:1.2;}
+
+.container {
+  background: White;
+  width: 100%;
+  margin: 40px auto;
+  margin-top: 50px;
+  max-width: 1400px;
+
+  color: #454545;
+  line-height:1.4;
+  font-size:16px;
+  text-align:left;
+}
+
+/* unvisited link */
+a:link {
+  color: #0051c9;
+  text-decoration: underline;
+}
+
+/* visited link */
+a:visited {
+  color: #7d013e;
+  text-decoration: underline;
+}
+
+/* mouse over link */
+a:hover {
+  color: #0051c9;
+  text-decoration: underline;
+}
+
+/* selected link */
+a:active {
+  color: #0051c9;
+  text-decoration: underline;
+}
+
+/* Lists */
+ul {
+  list-style: circle outside ; 
+}
+
+ol {
+  list-style: decimal outside; 
+}
+
+ol,ul,li, ul ul, ul ol, ol ol, ol ul {
+  margin: 0.2rem 0.2rem 0.2rem 0.2rem;
+}
+
+
+
+/* Navgation */
+
+/* Add a black background color to the top navigation */
+.topnav {
+  background-color: White;
+  overflow: hidden;
+
+  /*color: Black;
+  text-align: left;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 30px;*/
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+float: left;
+color: Black;
+text-align: center;
+padding: 14px 16px;
+text-decoration: none;
+font-size: 17px;
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+background-color: White;
+color: black;
+}
+
+/* Add a color to the active/current link */
+.topnav a.active {
+background-color: #454545;
+color: White;
+}
+
+/* Right-aligned section inside the top navigation */
+.topnav-right {
+float: right;
+}
+
+.topnav-left {
+  float: left;
+  text-align: center;
+  font-size: 35px;
+}
+
+@media print{
+  body{
+    max-width:none
+  }
+}
+
+hr.linesty{
+  border: 0;
+  height: 1px;
+  background: #333;
+  background-image: linear-gradient(to right, #ccc, #333, #ccc);
+}
+
+.footr {
+  float: center;
+  text-align: right;
+}
