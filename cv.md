@@ -2,9 +2,6 @@
 title: Contact
 layout: default
 ---
-### CV - Joacim Tåg
-
-### December 2019
 
 ### Contact details
 **Mail:** Research Institute of Industrial Economics, Box 55665, SE-102 15 Stockholm, Sweden<br>
