@@ -1,9 +1,9 @@
 ---
-title: Contact
+title: CV
 layout: default
 ---
 
-### Contact details
+### Contact
 - **Mail:** Research Institute of Industrial Economics, Box 55665, SE-102 15 Stockholm, Sweden<br>
 - **Phone:** +46 (0)8 665 4524<br>
 - **E-mail:** joacim.tag@ifn.se<br>
@@ -13,6 +13,7 @@ layout: default
 ### Positions
 - **2011--** Program Director, Research Institute of Industrial Economics (IFN), Stockholm
 - **2008--** Research Fellow, Research Institute of Industrial Economics (IFN), Stockholm
+
 - **2006--2008** Graduate School Fellow, Finnish Doctoral Program in Economics, Helsinki
 - **2006--2007** Visiting Scholar, Stern School of Business, New York University, New York
 - **2005--2005** Teaching Assistant, Hanken School of Economics, Helsinki
