@@ -3,24 +3,28 @@ title: CV
 layout: default
 ---
 
-### Contact
+## Contact
 - **Mail:** Research Institute of Industrial Economics, Box 55665, SE-102 15 Stockholm, Sweden<br>
 - **Phone:** +46 (0)8 665 4524<br>
 - **E-mail:** joacim.tag@ifn.se<br>
 - **Web:** www.joacimtag.se <br>
 
+## Positions
 
-### Positions
+### Current
 - **2011--** Program Director, Research Institute of Industrial Economics (IFN), Stockholm
 - **2008--** Research Fellow, Research Institute of Industrial Economics (IFN), Stockholm
 
+### Past
 - **2006--2008** Graduate School Fellow, Finnish Doctoral Program in Economics, Helsinki
 - **2006--2007** Visiting Scholar, Stern School of Business, New York University, New York
 - **2005--2005** Teaching Assistant, Hanken School of Economics, Helsinki
 
-### Education
+## Education
 - **2005--2008** D.Sc. in Economics, Hanken School of Economics, Helsinki
 - **2001--2005** B.Sc and M.Sc. in Economics, Hanken School of Economics, Helsinki
+
+## Publications
 
 ### Working papers
 1. Hellmann, T., A. Montag, and J. Tåg. 2019. "Foreign Investors and Domestic Company Growth: Evidence from US Venture Capital Investments in Sweden."
@@ -31,7 +35,7 @@ layout: default
 
 1. Ljungqvist, A., L. Persson, and J. Tåg. 2018. “The Incredible Shrinking Stock Market: On the Political Economy Consequences of Excessive Delistings”
 
-### Publications in peer-reviewed international journals
+### Peer-reviewed international journals
 
 1. Nikita Koptyug, N,  L. Persson, and J. Tåg. 2019 “Should We Worry about the Decline of the Public Corporation? A Brief Survey of the Economics and External Effects of the Stock Market” Forthcoming in North American Journal of Economics and Finance.
 
@@ -67,7 +71,7 @@ layout: default
 
 1. Tåg, J. 2009. “Competing Platforms and Third Party Application Developers.” Communication & Strategies 74: 95–114.
 
-**Other publications**
+### Other
 
 1. Tåg, J. 2019. ”IFNs: forskningsprogram Globaliseringen och företagen 2009-2019” In IFN 1939–2019 – 80 år av ekonomisk forskning, edited by Magnus Henrekson, 29-48. Stockholm: Ekerlids Förlag.
 
@@ -93,6 +97,8 @@ layout: default
 
 1. Tåg, J. 2008. “Essays on Platforms: Business Strategies, Regulation and Policy in Telecommunications, Media and Technology Industries.” PhD diss., Economics and Society, Hanken School of Economics.
 
+## Grants and Awards
+
 ### Grants
 
 * **2019** CEIBS Cathay Cross-border Private Equity Research Fund (participant)
@@ -112,42 +118,34 @@ layout: default
 * **2009** Society of Swedish Literature in Finland prize for PhD Thesis
 * **2005** Yrjö Jahnsson Foundation Master’s Thesis Award
 
-### Research stays
-- **2012** University of Illinois at Urbana-Champaign, Apr. 21-27, Urbana-Champaign. 
-- **2012** Einaudi Institute for Economics and Finance, Apr. 12-20, Rome.
-- **2010** Stern School of Business, New York University, Feb. 14-28, New York.
-- **2008** Research Institute of Industrial Economics (IFN), Jan. 1-Sep. 1, Stockholm. 
-- **2008** Microsoft Research Redmond. Jul. 30-Aug. 7, Seattle.
 
+## Presentations
 
-### Conference presentations
-
-* 2nd Joint BOE/FED/ECB Conference on Gender and Career Progression (2019), Labor and Finance Group Conference at Chicago Booth (2019), 2nd Nordic Initiative in Corporate Economics Conference (2019), IFN( 2019), Registerforskardagen (2018), National Conference of Swedish Economists (2018, 2016, 2011, 2010), European Economic Association (2009-2013, 2018), SOLE (2018), AEA (2018, 2012), AFA (2018, 2017), Uppsala Conference on Gender and Labor Markets (2017), 1st Ecole Hoteliere de Lausanne Annual Private Markets Research Conference (2017), IFN Stockholm Conference (2017, 2015, 2013, 2012, 2011, 2010, 2009), The Fifth Oxford Residence Week for Entrepreneurship Scholars (2016), Ninth LBS Private Equity Symposium (2016), Third International ZEW Conference on the Dynamics of Entrepreneurship (2016), CSEF-EIEF-SITE Conference on Finance and Labor (2015), Darden and Cambridge Judge Entrepreneurship and Innovation Research Conference (2015), Conference on Entrepreneurship and Finance in memory of Ola Bengtsson (2015), SIFR Conference on The Financial Economics of Innovation and Entrepreneurship (2014, co-presenter), FOM Working Group Conference (2013, co-presenter), CEPR Workshop on the Economics of Entrepreneurship (2013), Swedish Economic Forum (2013), SHOF Workshop (2012), EFA (2012), KWC Finance Conference (2011), Conference on the Economics of ICT (2011), EARIE (2011, 2009, 2008, 2007), International Economic Association (2011), Entreprenörskapsforum/IFN workshop on Entrepreneurship, Industrial Development and Growth (2011),  ZEW Conference on the Economics of ICT (2010, 2008), CAF Summer Research Conference (2009), SNEE Conference on European Integration in Swedish Economic Research (2009), NET Institute Conference (2009), IIOC (2009), Ung Forskardag (2009), FDPE Microeconomics and IO Workshop (2008, 2007, 2006, 2005), The 36th Research Conference on Communication, Information and Internet Policy (2008, co-presenter) NYU/CeDER Workshop on the Economics of IT (2006).
-
-### Invited seminars
+### Invited
 
 * Aalto University (2019), Lund University (2019), CSEF (2018), Örebro University (2018), Ministry of Finance (2018), Stockholm Business School (2017), Swedish House of Finance (2017), Oxford University (2016, co-presenter), Stockholm University (2016), Uppsala University (2016, 2014), Linnaeus University (2016), IFN (2016, 2014, 2007), CBS (2015), University of Mannheim (2015), HECER (2014), Lund University (2014), Statistics Sweden (2014), RATIO (2013), NHH (2013), University of Illinois at Urbana-Champaign (2012), EIEF (2012), University of Gothenburg (2012), KTH (2011) SIFR (2011), DG Competition (2010), SSE (2010), ParisTech Telecom (2010), Microsoft Research (2008).
 
-### Conference discussions or participation 
+### Conferences
+
+* 2nd Joint BOE/FED/ECB Conference on Gender and Career Progression (2019), Labor and Finance Group Conference at Chicago Booth (2019), 2nd Nordic Initiative in Corporate Economics Conference (2019), IFN( 2019), Registerforskardagen (2018), National Conference of Swedish Economists (2018, 2016, 2011, 2010), European Economic Association (2009-2013, 2018), SOLE (2018), AEA (2018, 2012), AFA (2018, 2017), Uppsala Conference on Gender and Labor Markets (2017), 1st Ecole Hoteliere de Lausanne Annual Private Markets Research Conference (2017), IFN Stockholm Conference (2017, 2015, 2013, 2012, 2011, 2010, 2009), The Fifth Oxford Residence Week for Entrepreneurship Scholars (2016), Ninth LBS Private Equity Symposium (2016), Third International ZEW Conference on the Dynamics of Entrepreneurship (2016), CSEF-EIEF-SITE Conference on Finance and Labor (2015), Darden and Cambridge Judge Entrepreneurship and Innovation Research Conference (2015), Conference on Entrepreneurship and Finance in memory of Ola Bengtsson (2015), SIFR Conference on The Financial Economics of Innovation and Entrepreneurship (2014, co-presenter), FOM Working Group Conference (2013, co-presenter), CEPR Workshop on the Economics of Entrepreneurship (2013), Swedish Economic Forum (2013), SHOF Workshop (2012), EFA (2012), KWC Finance Conference (2011), Conference on the Economics of ICT (2011), EARIE (2011, 2009, 2008, 2007), International Economic Association (2011), Entreprenörskapsforum/IFN workshop on Entrepreneurship, Industrial Development and Growth (2011),  ZEW Conference on the Economics of ICT (2010, 2008), CAF Summer Research Conference (2009), SNEE Conference on European Integration in Swedish Economic Research (2009), NET Institute Conference (2009), IIOC (2009), Ung Forskardag (2009), FDPE Microeconomics and IO Workshop (2008, 2007, 2006, 2005), The 36th Research Conference on Communication, Information and Internet Policy (2008, co-presenter) NYU/CeDER Workshop on the Economics of IT (2006).
+
+### Conference discussions or attendance
 
 * KWC Conference on Entrepreneurial Finance (2019), CSEF Conference on Finance, Labor and Inquality (2019), SBS Conference on Board Diversity Quotas (2018), Labor and Finance Group Conference (2018), 28th Mitsui Finance Symposium (2018), IFN Stockholm Conference (2018, 2014, 2008), Nordic Initiative in Corporate Economics (2018), EFA (2017, 2016), FOM Working Group Conference (2017, 2016, 2015), CEPR Workshop on Entrepreneurship Economics (2017, 2015), SHOF Workshop (2016, 2013, 2012),CSEF-EIEF-SITE Conference on Finance and Labor (2016), Swedish House of Finance Corporate Finance Symposium (2016), CEPR Conference on Entrepreneurial Finance (2014), HEC Conference on Entrepreneurship (2013), CEPR Finance and Real Economy Conference (2012), SIFR Conference on the Governance of Financial Intermediaries (2009), Google Workshop (2009), IFN Nordic Workshop on Electricity Economics (2008), NET Institute Conference (2008), SIFR Workshop on the Economics of the Private Equity Market (2007), AEA Meetings (2007), 4th Workshop on Media Economics (2006), NYU IO-Day (2006), GESY Summer School Bronnbach (2005), ENCORE Summer School (2005).
 
-### Editorial boards
-* Journal of Business Venturing (2017-)
+## Professional service
 
-### Reviews
+### Editorial boards
+* **2017--** Journal of Business Venturing
+
+### Referee reports
 * Canadian Journal of Economics, Economic Inquiry, Economic Journal, Games and Economic Behavior, Information Economics and Policy, Information Systems Research, International Journal of Industrial Organization, Journal of Business Venturing, Journal of Economic Behaviour and Organization, Journal of Economic Geography, Journal of Economics & Management Strategy, Journal of the European Economic Association, Journal of Labor Economics, Journal of Media Economics, Management Science, Review of Network Economics, Small Business Economics, Strategic Entrepreneurship Journal, Strategic Management Journal, Telecommunications Policy, Quarterly Journal of Economics. 
 
-### Grant application reviews
+### Grant evaluations
 * European Research Council
 * National Science Foundation
 
-### Conferences organized
-* IFN Internal Workshop (2019)
-* CEPR Workshop on Entrepreneurship Economics (2016)
-* IFN Stockholm Conference (2015, 2013, 2012, 2011, 2010, 2009)
-
-### Scientific committee memberships
+### Scientific comittee memberships
 * The 2020 Labor and Finance Group Conference in Stockholm (2020)
 * CSEF and RCFS Conference on Labor, Finance, and Inequality (2019)
 * SBS Conference on Board Diversity Quotas (2018)
@@ -163,15 +161,15 @@ layout: default
 * Sebastian Escobar (Uppsala University, licentiate, 2016)
 
 
-### Teaching
+## Teaching
 
-**Lund University, Lund.**
-* **2013:** Lecturer, IO and Corporate Finance Theory, PhD level course. 
+### Lund University
+* **2013** Lecturer, IO and Corporate Finance Theory, PhD level course
 
-**Stockholm School of Economics, Stockholm.**
-* **2010:** Lecturer, 4301-Corporate Finance Theory, MSc level course. 
+###  Stockholm School of Economics
+* **2010** Lecturer, 4301-Corporate Finance Theory, MSc level course
 
-**Hanken School of Economics, Helsinki.**
+### Hanken School of Economics
 * **2008** Teaching Assistant, Economics of Strategy
 * **2008** Teaching Assistant, Strategic Competition
 * **2007** Teaching Assistant, Microeconomic Analysis 
@@ -180,14 +178,10 @@ layout: default
 * **2004** Teaching Assistant, Principles of Economics
 
 
-### Pedagogical Training
-* **2019:** Doctoral Supervision, Lund University (1.5 ETCS)
-* **2005:**  MBA Teachers’ Program, Aalto University (7.5 ETCS)
+## Media
 
+### Policy seminars
 
-### Media
-
-**Participation in policy seminars** 
 * IIES/SNS International Policy Talks: Könsskillnader på arbetsmarknaden – hur kan glastaket förklaras? (SNS 2019)
 * Så får du kapital till din affärsidé (Entreprenör/Fplus 2017)
 * Ägarens roll i företagen (Mälardalens högskola/Industrihistoriska föreningen 2017)
@@ -198,7 +192,7 @@ layout: default
 * Riskkapitalet i praktiken – så påverkas företag och samhälle (SNS Måndagsklubb 2013)
 * Riskkapital och Beskattning (IFN 2012)
 
-**Opinion pieces**
+### Opinion pieces 
 1. Tåg, J. Dessa egenskaper har toppchefer, Vaasa Insider, November 2019.
 2. Hellmann, T., A. Montag, and J. Tåg. Foreign Investors and Domestic Company Growth: Evidence from US Venture Capital Investments in Sweden, Tuck Center Forum for PE & VC, June 2019.
 3. Norbäck, PJ. L. Person and J. Tåg, Private Equity Buyouts: Anti- or Pro-Competitive?, Tuck Center Forum for PE & VC, June 2019.
@@ -212,7 +206,7 @@ layout: default
 11. Bandyopadhyay, S., Cheng, H.K., Guo H., Holladay, J.S. and Tåg, J., Building a better net?, Politico, September 2010.
 12. Henrekson, M and J. Tåg, Henrekson & Tåg vill höja teveavgiften, Arena #5, November 2009. 
 
-**Interviews and research mentions**
+### Interviews and research mentions
 * Affärsvärlden: Forskare: Mix bluffar om jobben (December 2011).
 * Arbetsmarknaden: Oklara jobbeffekter av riskkapitalism (March 2012).
 * Botnia Insider: Dessa egenskaper har toppchefer (November 2019).
@@ -251,3 +245,17 @@ layout: default
 * World Finance: The slow death of global stock markets (April 2019).
 * Yle: Forskning visar: Kvinnliga chefer mer kompetenta än manliga - trots det halkar de efter i karriären (October 2019), Den artificiella intelligensen kommer med enorma omställningar för samhället (June 2018)
 * Yle Radio Vega: Kryptovalutor (Vega Eftermiddag & Kvanthopp, October 2017), Kvinnor i näringslivet (Vega Eftermiddag, March 2017), Automatisering (Vega Eftermiddag, March 2017), Varför går det bättre för Sverige än Finland? (Vega Dag, April 2017), Kvinnor i näringslivet (Vega Eftermiddag, October 2018).
+
+
+## Other
+
+### Pedagogical Training
+* **2019:** Doctoral Supervision, Lund University (1.5 ETCS)
+* **2005:**  MBA Teachers’ Program, Aalto University (7.5 ETCS)
+
+### Research stays
+- **2012** University of Illinois at Urbana-Champaign, Apr. 21-27, Urbana-Champaign. 
+- **2012** Einaudi Institute for Economics and Finance, Apr. 12-20, Rome.
+- **2010** Stern School of Business, New York University, Feb. 14-28, New York.
+- **2008** Research Institute of Industrial Economics (IFN), Jan. 1-Sep. 1, Stockholm. 
+- **2008** Microsoft Research Redmond. Jul. 30-Aug. 7, Seattle.
