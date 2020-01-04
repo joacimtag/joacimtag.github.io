@@ -58,7 +58,7 @@ a:active {
 
 /* Lists */
 ul {
-  list-style: circle outside ; 
+  list-style: none outside ; 
 }
 
 ol {

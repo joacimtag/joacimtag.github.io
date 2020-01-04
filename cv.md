@@ -4,134 +4,119 @@ layout: default
 ---
 
 ### Contact details
-**Mail:** Research Institute of Industrial Economics, Box 55665, SE-102 15 Stockholm, Sweden<br>
-**Phone:** 		+46 (0)8 665 4524<br>
-**E-mail:** 		joacim.tag@ifn.se<br>
-**Web:** 		http://www.joacimtag.se <br>
-**Web at IFN:** 	http://www.ifn.se/joacimt<br>
+- **Mail:** Research Institute of Industrial Economics, Box 55665, SE-102 15 Stockholm, Sweden<br>
+- **Phone:** +46 (0)8 665 4524<br>
+- **E-mail:** joacim.tag@ifn.se<br>
+- **Web:** www.joacimtag.se <br>
 
 
-### Current positions
-* **2011-**  Program Director, Research Institute of Industrial Economics (IFN), Stockholm
-* **2008-** 	Research Fellow, Research Institute of Industrial Economics (IFN), Stockholm
-
-### Past positions
-* **2006-2008**	Graduate School Fellow, Finnish Doctoral Program in Economics, Helsinki
-* **2006-2007**	Visiting Scholar, Stern School of Business, New York University, New York
-* **2005-2005**		Teaching Assistant, Hanken School of Economics, Helsinki
-
+### Positions
+- **2011--** Program Director, Research Institute of Industrial Economics (IFN), Stockholm
+- **2008--** Research Fellow, Research Institute of Industrial Economics (IFN), Stockholm
+- **2006--2008** Graduate School Fellow, Finnish Doctoral Program in Economics, Helsinki
+- **2006--2007** Visiting Scholar, Stern School of Business, New York University, New York
+- **2005--2005** Teaching Assistant, Hanken School of Economics, Helsinki
 
 ### Education
-* **2005-2008** 	D.Sc. in Economics, Hanken School of Economics, Helsinki
-* **2001-2005** 	B.Sc and M.Sc. in Economics, Hanken School of Economics, Helsinki
+- **2005--2008** D.Sc. in Economics, Hanken School of Economics, Helsinki
+- **2001--2005** B.Sc and M.Sc. in Economics, Hanken School of Economics, Helsinki
 
+### Working papers
+1. Hellmann, T., A. Montag, and J. Tåg. 2019. "Foreign Investors and Domestic Company Growth: Evidence from US Venture Capital Investments in Sweden."
 
-### Research Stays
+1. Keloharju, M., S. Knüpfer, and J. Tåg. 2019. “What Prevents Female Executives from Reaching the Top?“
 
-**2012** 		
-* University of Illinois at Urbana-Champaign, Apr. 21-27, Urbana-Champaign. 
-* Einaudi Institute for Economics and Finance, Apr. 12-20, Rome.
+1. Olsson, M. and J. Tåg. 2018. “What is the Cost of Privatization for Workers?”
 
-**2010** 		
-* Stern School of Business, New York University, Feb. 14-28, New York.
+1. Ljungqvist, A., L. Persson, and J. Tåg. 2018. “The Incredible Shrinking Stock Market: On the Political Economy Consequences of Excessive Delistings”
 
-**2008**
-* Research Institute of Industrial Economics (IFN), Jan. 1-Sep. 1, Stockholm. 
-* Microsoft Research Redmond. Jul. 30-Aug. 7, Seattle.
+### Publications in peer-reviewed international journals
 
+1. Nikita Koptyug, N,  L. Persson, and J. Tåg. 2019 “Should We Worry about the Decline of the Public Corporation? A Brief Survey of the Economics and External Effects of the Stock Market” Forthcoming in North American Journal of Economics and Finance.
 
-### Publications
+1. Rider, C. P. Thompson, A. Kacperczyk, and J. Tåg. 2019. “Experience and Entrepreneurship: A Career Transition Perspective.” ILR Review 72: 1149-1181. 
 
-**Working papers**
+1. Olsson, M. and J. Tåg. 2018. “Are Foreign Private Equity Buyouts Bad for Workers?” Economics Letters 172: 1-4.
 
-1.	Hellmann, T., A. Montag, and J. Tåg. 2019. "Foreign Investors and Domestic Company Growth: Evidence from US Venture Capital Investments in Sweden."
+1. Colonnelli, E, J. Tåg, Webb, M, and S. Wolter. 2018. A Cross-Country Comparison of Dynamics in the Large Firm Wage Premium.” AEA Papers and Proceedings 108: 323–27.
 
-2.	Keloharju, M., S. Knüpfer, and J. Tåg. 2019. “What Prevents Female Executives from Reaching the Top?“
+1. Norbäck, P-J., L. Persson and J. Tåg. 2018. “Threatening to Buy: Private Equity Buyouts and Antitrust Policy.” Economics Letters 164: 31–34.
 
-3.	Olsson, M. and J. Tåg. 2018. “What is the Cost of Privatization for Workers?.”
+1. Norbäck, P-J., L. Persson and J. Tåg. 2018. “Does the Debt Tax Shield Distort Ownership Efficiency?” International Review of Economics and Finance 54: 299-310.
 
-4.	Ljungqvist, A., L. Persson, and J. Tåg. 2018. “The Incredible Shrinking Stock Market: On the Political Economy Consequences of Excessive Delistings.”
+1. Åstebro, T and J. Tåg. 2017. “Gross, Net, and New Job Creation by Entrepreneurs.” Journal of Business Venturing Insights 8:64-70.
 
-**Published articles in international journals**
+1. Basiki, S, P-J. Norbäck, L. Persson, and J. Tåg. 2017. “Cross-Border Acquisitions and Restructuring: Multinational Enterprises versus Private Equity-firms.” European Economic Review 94:166–184.
 
-1.	Nikita Koptyug, N,  L. Persson, and J. Tåg. 2019 “Should We Worry about the Decline of the Public Corporation? A Brief Survey of the Economics and External Effects of the Stock Market” Forthcoming in North American Journal of Economics and Finance.
+1. Olsson, M. and J. Tåg. 2017. “Private Equity, Layoffs, and Job Polarization.” Journal of Labor Economics 35:697-754.
 
-2.	Rider, C. P. Thompson, A. Kacperczyk, and J. Tåg. 2019. “Experience and Entrepreneurship: A Career Transition Perspective.” ILR Review 72: 1149-1181. 
+1. Tåg, J., T. Åstebro, and P. Thompson. 2016. “Hierarchies and Entrepreneurship.” European Economic Review 89:129–147.
 
-3.	Olsson, M. and J. Tåg. 2018. “Are Foreign Private Equity Buyouts Bad for Workers?” Economics Letters 172: 1-4.
+1. Tangerås, T. and J. Tåg. 2016. “International Network Competition under Decentralized Regulation.” International Journal of Industrial Organization 47:152–185.
 
-4.	Colonnelli, E, J. Tåg, Webb, M, and S. Wolter. 2018. A Cross-Country Comparison of Dynamics in the Large Firm Wage Premium.” AEA Papers and Proceedings 108: 323–27.
+1. Norbäck, PJ, Persson, L and J. Tåg. 2014. “Acquisitions, Entry, and Innovation in Oligopolistic Network Industries.” International Journal of Industrial Organization 37:1–12.
 
-5.	Norbäck, P-J., L. Persson and J. Tåg. 2018. “Threatening to Buy: Private Equity Buyouts and Antitrust Policy.” Economics Letters 164: 31–34.
+1. Tåg, J. 2013. “Production Hierarchies in Sweden.” Economics Letters 121:210–213.
 
-6.	Norbäck, P-J., L. Persson and J. Tåg. 2018. “Does the Debt Tax Shield Distort Ownership Efficiency?” International Review of Economics and Finance 54: 299-310.
+1. Lerner, J. and J. Tåg. 2013. “Institutions and Venture Capital.” Industrial and Corporate Change 22:153–182.
 
-7.	Åstebro, T and J. Tåg. 2017. “Gross, Net, and New Job Creation by Entrepreneurs.” Journal of Business Venturing Insights 8:64-70.
+1. Economides, N. and J. Tåg. 2012. “Net Neutrality on the Internet: A Two-sided Market Analysis.” Information Economics and Policy 24:91–104.
 
-8.	Basiki, S, P-J. Norbäck, L. Persson, and J. Tåg. 2017. “Cross-Border Acquisitions and Restructuring: Multinational Enterprises versus Private Equity-firms.” European Economic Review 94:166–184.
+1. Tåg, J. 2009. “Paying to Remove Advertisements.” Information Economics and Policy 21: 245–252.
 
-9.	Olsson, M. and J. Tåg. 2017. “Private Equity, Layoffs, and Job Polarization.” Journal of Labor Economics 35:697-754.
-
-10.	Tåg, J., T. Åstebro, and P. Thompson. 2016. “Hierarchies and Entrepreneurship.” European Economic Review 89:129–147.
-
-11.	Tangerås, T. and J. Tåg. 2016. “International Network Competition under Decentralized Regulation.” International Journal of Industrial Organization 47:152–185.
-
-12.	Norbäck, PJ, Persson, L and J. Tåg. 2014. “Acquisitions, Entry, and Innovation in Oligopolistic Network Industries.” International Journal of Industrial Organization 37:1–12.
-
-13.	Tåg, J. 2013. “Production Hierarchies in Sweden.” Economics Letters 121:210–213.
-
-14.	Lerner, J. and J. Tåg. 2013. “Institutions and Venture Capital.” Industrial and Corporate Change 22:153–182.
-
-15.	Economides, N. and J. Tåg. 2012. “Net Neutrality on the Internet: A Two-sided Market Analysis.” Information Economics and Policy 24:91–104.
-
-16.	Tåg, J. 2009. “Paying to Remove Advertisements.” Information Economics and Policy 21: 245–252.
-
-17.	Tåg, J. 2009. “Competing Platforms and Third Party Application Developers.” Communication & Strategies 74: 95–114.
+1. Tåg, J. 2009. “Competing Platforms and Third Party Application Developers.” Communication & Strategies 74: 95–114.
 
 **Other publications**
 
-1.	Tåg, J. 2019. ”IFNs: forskningsprogram Globaliseringen och företagen 2009-2019” In IFN 1939–2019 – 80 år av ekonomisk forskning, edited by Magnus Henrekson, 29-48. Stockholm: Ekerlids Förlag.
+1. Tåg, J. 2019. ”IFNs: forskningsprogram Globaliseringen och företagen 2009-2019” In IFN 1939–2019 – 80 år av ekonomisk forskning, edited by Magnus Henrekson, 29-48. Stockholm: Ekerlids Förlag.
 
-2.	Norbäck, P-J., L. Persson and J. Tåg. 2018. “Private Equity Buyouts: Anti- or Pro-Competitive?.” CPI Antitrust Chronicle 1: 31–34.
+1. Norbäck, P-J., L. Persson and J. Tåg. 2018. “Private Equity Buyouts: Anti- or Pro-Competitive?.” CPI Antitrust Chronicle 1: 31–34.
 
-3.	Olsson, M. and J. Tåg. 2017. “Påverkar riskkapitalinvesteringar anställda och samhällsekonomin?” Ekonomisk Debatt, 8/2017: 26-36.
+1. Olsson, M. and J. Tåg. 2017. “Påverkar riskkapitalinvesteringar anställda och samhällsekonomin?” Ekonomisk Debatt, 8/2017: 26-36.
 
-4.	Koptyug, N., L. Persson, R. Svensson, and J. Tåg. 2017. “Aktiemarknadens betydelse för näringslivet och samhällsekonomin.” Ekonomisk Debatt 7/2017:6-17.
+1. Koptyug, N., L. Persson, R. Svensson, and J. Tåg. 2017. “Aktiemarknadens betydelse för näringslivet och samhällsekonomin.” Ekonomisk Debatt 7/2017:6-17.
 
-5.	Tåg, J. 2016. “Forskningsprogrammet Globaliseringen och företagen.” Slutredovisning avseende juli 2011 – juni 2016.
+1. Tåg, J. 2016. “Forskningsprogrammet Globaliseringen och företagen.” Slutredovisning avseende juli 2011 – juni 2016.
 
-6.	Economides, N. and J. Tåg. 2013. “Net Neutrality and Net Management Regulation: Quality of Service, Price Discrimination, and Exclusive Contracts.” In Research Handbook on Governance of the Internet, edited by Ian Brown, 121–143. Cheltenham: Edward Elgar.
+1. Economides, N. and J. Tåg. 2013. “Net Neutrality and Net Management Regulation: Quality of Service, Price Discrimination, and Exclusive Contracts.” In Research Handbook on Governance of the Internet, edited by Ian Brown, 121–143. Cheltenham: Edward Elgar.
 
-7.	Tåg, J. 2013. “Riskkapital till entreprenörer: Vilken roll spelar finansmarknaderna, skattepolitiken och arbetsmarknadsregleringarna?” In Swedish Economic Forum Report 2013: Institutioner och Incitament för Innovation, edited by Pontus Braunerhjelm, 31–44. Stockholm: Entreprenörskapsforum.
+1. Tåg, J. 2013. “Riskkapital till entreprenörer: Vilken roll spelar finansmarknaderna, skattepolitiken och arbetsmarknadsregleringarna?” In Swedish Economic Forum Report 2013: Institutioner och Incitament för Innovation, edited by Pontus Braunerhjelm, 31–44. Stockholm: Entreprenörskapsforum.
 
-8.	Economides, N. and J. Tåg. 2012. “Modelling the welfare effects of network neutrality regulation: A response to Caves’s comment.” Information Economics and Policy 24:293.
+1. Economides, N. and J. Tåg. 2012. “Modelling the welfare effects of network neutrality regulation: A response to Caves’s comment.” Information Economics and Policy 24:293.
 
-9.	Tåg, J. 2012. “The Real Effects of Private Equity Buyouts.” In The Oxford Handbook of Private Equity, edited by Douglas Cumming, 269–299. Oxford: Oxford University Press.
+1. Tåg, J. 2012. “The Real Effects of Private Equity Buyouts.” In The Oxford Handbook of Private Equity, edited by Douglas Cumming, 269–299. Oxford: Oxford University Press.
 
-10.	Persson, L. and Tåg, J. 2010. “Book Review: Antitrust and Regulation in the EU and US: Legal and Economic Perspectives.” Journal of Economic Literature 48:1051–1053.
+1. Persson, L. and Tåg, J. 2010. “Book Review: Antitrust and Regulation in the EU and US: Legal and Economic Perspectives.” Journal of Economic Literature 48:1051–1053.
 
-11.	Tåg, J. 2009. “Policies och Regleringar i Telekommunikations-, Media- och Teknologiindustrierna.” Ekonomiska Samfundets Tidskrift 2/09:83–87.
+1. Tåg, J. 2009. “Policies och Regleringar i Telekommunikations-, Media- och Teknologiindustrierna.” Ekonomiska Samfundets Tidskrift 2/09:83–87.
 
-12.	Tåg, J. 2008. “Essays on Platforms: Business Strategies, Regulation and Policy in Telecommunications, Media and Technology Industries.” PhD diss., Economics and Society, Hanken School of Economics.
+1. Tåg, J. 2008. “Essays on Platforms: Business Strategies, Regulation and Policy in Telecommunications, Media and Technology Industries.” PhD diss., Economics and Society, Hanken School of Economics.
 
 ### Grants
 
-* CEIBS Cathay Cross-border Private Equity Research Fund (2019, participant)
-* Torsten Söderbergs Stiftelse (2018)
-* Marianne and Marcus Wallenberg Foundation (2016, participant)
-* Svenska Fondhandlare-föreningens Understödsfond (2015, participant)
-* Vinnova (2011, participant)
-* Marianne and Marcus Wallenberg Foundation (2011, participant)
-* Jan Wallander and Tom Hedelius Foundation (2011, participant)
-* OMX Nasdaq Foundation (2009, participant)
-* NET Institute (2008)
-* Hanken Foundation (2006)
-* ASLA-Fulbright (2006)
+* **2019** CEIBS Cathay Cross-border Private Equity Research Fund (participant)
+* **2018** Torsten Söderbergs Stiftelse (PI)
+* **2016** Marianne and Marcus Wallenberg Foundation (participant)
+* **2015** Svenska Fondhandlare-föreningens Understödsfond (participant)
+* **2011** Vinnova (participant)
+* **2011** Marianne and Marcus Wallenberg Foundation (participant)
+* **2011** Jan Wallander and Tom Hedelius Foundation (participant)
+* **2009** OMX Nasdaq Foundation (participant)
+* **2008** NET Institute (PI)
+* **2006** Hanken Foundation (PI)
+* **2006** ASLA-Fulbright (PI)
 
 ### Awards
 
-* Society of Swedish Literature in Finland prize for PhD Thesis (2009)
-* Yrjö Jahnsson Foundation Master’s Thesis Award (2005)
+* **2009** Society of Swedish Literature in Finland prize for PhD Thesis
+* **2005** Yrjö Jahnsson Foundation Master’s Thesis Award
+
+### Research stays
+- **2012** University of Illinois at Urbana-Champaign, Apr. 21-27, Urbana-Champaign. 
+- **2012** Einaudi Institute for Economics and Finance, Apr. 12-20, Rome.
+- **2010** Stern School of Business, New York University, Feb. 14-28, New York.
+- **2008** Research Institute of Industrial Economics (IFN), Jan. 1-Sep. 1, Stockholm. 
+- **2008** Microsoft Research Redmond. Jul. 30-Aug. 7, Seattle.
 
 
 ### Conference presentations
