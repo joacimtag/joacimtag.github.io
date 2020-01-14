@@ -145,14 +145,22 @@ layout: default
 * European Research Council
 * National Science Foundation
 
+### Conferences organized
+* **2020** [The Stockholm Labor and Finance Group Conference](https://www.ifn.se/eng/events/conferences-courses/lfg), Stockholm
+* **2013** [IFN Stockholm Conference on Industrial Organization and Corporate Finance](https://www.ifn.se/eng/events/vaxholm/past-conferences/ifnc2013), Stockholm
+* **2012** [IFN Stockholm Conference on Globalization, Organization and the Ownership of Firms](https://www.ifn.se/eng/events/vaxholm/past-conferences/ifnc2012), Stockholm
+* **2011** [IFN Stockholm Conference on Entrepreneurship, Firm Growth and Ownership Change](https://www.ifn.se/eng/events/vaxholm/past-conferences/ifnc2011), Stockholm
+* **2011** [European Finance Association Annual Meeting](http://efa2011.efa-online.org/fisher.osu.edu/blogs/efa2011/index.html), Stockholm
+* **2010** [IFN Stockholm Conference on Innovation, Ownership and Competition Policy](https://www.ifn.se/eng/events/vaxholm/past-conferences/ownership_1), Stockholm
+* **2009** [IFN Stockholm Conference on the Economics of Ownership, Organization, and Industrial Development](https://www.ifn.se/eng/events/vaxholm/past-conferences/ownership), Stockholm
+
 ### Scientific comittee memberships
-* The 2020 Labor and Finance Group Conference in Stockholm (2020)
-* CSEF and RCFS Conference on Labor, Finance, and Inequality (2019)
-* SBS Conference on Board Diversity Quotas (2018)
-* Fourth International ZEW Conference on the Dynamics of Entrepreneurship (2018)
-* FMA European Conference (2017)
-* Third International ZEW Conference on the Dynamics of Entrepreneurship (2016)
-* IFN Stockholm Conference (2015, 2013, 2012, 2011, 2010, 2009), EFA (2011)
+* **2020** CSEF and RCFS Conference on Labor, Finance, and Inequality, Capri
+* **2019** [CSEF and RCFS Conference on Labor, Finance, and Inequality](http://www.csef.it/Conference-on-Finance-Labor-and), Capri
+* **2018** SBS Conference on Board Diversity Quotas, Stockholm
+* **2018** Fourth International ZEW Conference on the Dynamics of Entrepreneurship, Manneheim
+* **2017** FMA European Conference, Lisbon
+* **2016** Third International ZEW Conference on the Dynamics of Entrepreneurship, Mannheim
 
 ### Dissertation reviews
 * Mehmet Caglar Kaya (Lund University, doctorate, 2019)
