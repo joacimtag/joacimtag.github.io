@@ -258,8 +258,8 @@ layout: default
 ## Other
 
 ### Pedagogical Training
-* **2019:** Doctoral Supervision, Lund University (1.5 ETCS)
-* **2005:**  MBA Teachers’ Program, Aalto University (7.5 ETCS)
+* **2019** Doctoral Supervision, Lund University (1.5 ETCS)
+* **2005**  MBA Teachers’ Program, Aalto University (7.5 ETCS)
 
 ### Research stays
 - **2012** University of Illinois at Urbana-Champaign, Apr. 21-27, Urbana-Champaign. 
