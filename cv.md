@@ -12,6 +12,7 @@ layout: default
 ## Positions
 
 ### Current
+- **2019--** Associate Professor/Docent, Lund University, Lund
 - **2011--** Program Director, Research Institute of Industrial Economics (IFN), Stockholm
 - **2008--** Research Fellow, Research Institute of Industrial Economics (IFN), Stockholm
 
@@ -163,11 +164,10 @@ layout: default
 * **2016** Third International ZEW Conference on the Dynamics of Entrepreneurship, Mannheim
 
 ### Dissertation reviews
-* Mehmet Caglar Kaya (Lund University, doctorate, 2019)
-* Daniel Jahnson (Uppsala University, doctorate, 2019)
-* Osmis Habte (Lund University, doctorate, 2018)
-* Sebastian Escobar (Uppsala University, licentiate, 2016)
-
+* **2019** Mehmet Caglar Kaya, Lund University, doctorate.
+* **2019** Daniel Jahnson, Uppsala University, doctorate.
+* **2018** Osmis Habte, Lund University, doctorate.
+* **2016** Sebastian Escobar, Uppsala University, licentiate.
 
 ## Teaching
 
