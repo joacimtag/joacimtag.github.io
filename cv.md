@@ -122,27 +122,17 @@ layout: default
 
 ## Presentations
 
-### Invited
+### Invited presentations
 
 * NHH Bergen (2020), Aalto University (2019), Lund University (2019), CSEF (2018), Örebro University (2018), Ministry of Finance (2018), Stockholm Business School (2017), Swedish House of Finance (2017), Oxford University (2016, co-presenter), Stockholm University (2016), Uppsala University (2016, 2014), Linnaeus University (2016), IFN (2016, 2014, 2007), CBS (2015), University of Mannheim (2015), HECER (2014), Lund University (2014), Statistics Sweden (2014), RATIO (2013), NHH (2013), University of Illinois at Urbana-Champaign (2012), EIEF (2012), University of Gothenburg (2012), KTH (2011) SIFR (2011), DG Competition (2010), SSE (2010), ParisTech Telecom (2010), Microsoft Research (2008).
 
-### Conferences
+### Conference presentations
 
 * IFN Workshop of Firms and Labor (2020), 2nd Joint BOE/FED/ECB Conference on Gender and Career Progression (2019), Labor and Finance Group Conference at Chicago Booth (2019), 2nd Nordic Initiative in Corporate Economics Conference (2019), IFN Workshop of Firms and Labor (2019), Registerforskardagen (2018), National Conference of Swedish Economists (2018, 2016, 2011, 2010), European Economic Association (2009-2013, 2018), SOLE (2018), AEA (2018, 2012), AFA (2018, 2017), Uppsala Conference on Gender and Labor Markets (2017), 1st Ecole Hoteliere de Lausanne Annual Private Markets Research Conference (2017), IFN Stockholm Conference (2017, 2015, 2013, 2012, 2011, 2010, 2009), The Fifth Oxford Residence Week for Entrepreneurship Scholars (2016), Ninth LBS Private Equity Symposium (2016), Third International ZEW Conference on the Dynamics of Entrepreneurship (2016), CSEF-EIEF-SITE Conference on Finance and Labor (2015), Darden and Cambridge Judge Entrepreneurship and Innovation Research Conference (2015), Conference on Entrepreneurship and Finance in memory of Ola Bengtsson (2015), SIFR Conference on The Financial Economics of Innovation and Entrepreneurship (2014, co-presenter), FOM Working Group Conference (2013, co-presenter), CEPR Workshop on the Economics of Entrepreneurship (2013), Swedish Economic Forum (2013), SHOF Workshop (2012), EFA (2012), KWC Finance Conference (2011), Conference on the Economics of ICT (2011), EARIE (2011, 2009, 2008, 2007), International Economic Association (2011), Entreprenörskapsforum/IFN workshop on Entrepreneurship, Industrial Development and Growth (2011),  ZEW Conference on the Economics of ICT (2010, 2008), CAF Summer Research Conference (2009), SNEE Conference on European Integration in Swedish Economic Research (2009), NET Institute Conference (2009), IIOC (2009), Ung Forskardag (2009), FDPE Microeconomics and IO Workshop (2008, 2007, 2006, 2005), The 36th Research Conference on Communication, Information and Internet Policy (2008, co-presenter) NYU/CeDER Workshop on the Economics of IT (2006).
 
 ### Conference discussions or attendance
 
-* KWC Conference on Entrepreneurial Finance (2019), CSEF Conference on Finance, Labor and Inquality (2019), SBS Conference on Board Diversity Quotas (2018), Labor and Finance Group Conference (2018), 28th Mitsui Finance Symposium (2018), IFN Stockholm Conference (2018, 2014, 2008), Nordic Initiative in Corporate Economics (2018), EFA (2017, 2016), FOM Working Group Conference (2017, 2016, 2015), CEPR Workshop on Entrepreneurship Economics (2017, 2015), SHOF Workshop (2016, 2013, 2012),CSEF-EIEF-SITE Conference on Finance and Labor (2016), Swedish House of Finance Corporate Finance Symposium (2016), CEPR Conference on Entrepreneurial Finance (2014), HEC Conference on Entrepreneurship (2013), CEPR Finance and Real Economy Conference (2012), SIFR Conference on the Governance of Financial Intermediaries (2009), Google Workshop (2009), IFN Nordic Workshop on Electricity Economics (2008), NET Institute Conference (2008), SIFR Workshop on the Economics of the Private Equity Market (2007), AEA Meetings (2007), 4th Workshop on Media Economics (2006), NYU IO-Day (2006), GESY Summer School Bronnbach (2005), ENCORE Summer School (2005).
-
-### Policy seminars
-
-* **2019** IIES/SNS International Policy Talks: Könsskillnader på arbetsmarknaden – hur kan glastaket förklaras?, SNS, Stockholm
-* **2017** Så får du kapital till din affärsidé, Entreprenör/Fplus, Stockholm
-* **2017** Ägarens roll i företagen, Mälardalens högskola/Industrihistoriska förening, Västerås
-* **2015** Aktiva ägare skapar job, Svenska riskkapitalföreningen, Stockholm
-* **2014** Entreprenören som försvann?, IFN, Stockholm
-* **2013** Riskkapitaliserna bygger landet, Timbro, Stockholm
-* **2013** Riskkapitalet i praktiken – så påverkas företag och samhälle, SNS Måndagsklubb, Stockholm
+* KWC Conference on Entrepreneurial Finance (2019), BI Corporate Governance Conference(2019), CSEF Conference on Finance, Labor and Inquality (2019), SBS Conference on Board Diversity Quotas (2018), Labor and Finance Group Conference (2018), 28th Mitsui Finance Symposium (2018), IFN Stockholm Conference (2018, 2014, 2008), Nordic Initiative in Corporate Economics (2018), EFA (2017, 2016), FOM Working Group Conference (2017, 2016, 2015), CEPR Workshop on Entrepreneurship Economics (2017, 2015), SHOF Workshop (2016, 2013, 2012),CSEF-EIEF-SITE Conference on Finance and Labor (2016), Swedish House of Finance Corporate Finance Symposium (2016), CEPR Conference on Entrepreneurial Finance (2014), HEC Conference on Entrepreneurship (2013), CEPR Finance and Real Economy Conference (2012), SIFR Conference on the Governance of Financial Intermediaries (2009), Google Workshop (2009), IFN Nordic Workshop on Electricity Economics (2008), NET Institute Conference (2008), SIFR Workshop on the Economics of the Private Equity Market (2007), AEA Meetings (2007), 4th Workshop on Media Economics (2006), NYU IO-Day (2006), GESY Summer School Bronnbach (2005), ENCORE Summer School (2005).
 
 ## Professional service
 
@@ -173,11 +163,6 @@ layout: default
 * **2016** Third International ZEW Conference on the Dynamics of Entrepreneurship, Mannheim
 * **2011** [European Finance Association Annual Meeting](http://efa2011.efa-online.org/fisher.osu.edu/blogs/efa2011/index.html), Stockholm
 
-### Policy seminars organized
-* **2029** What Prevents Women from Reaching the Top? - A Seminar for All-China Women's Federation, IFN
-* **2017** Könskvotering och kvinnor i ledningsgrupper — vad säger forskningen?, IFN
-* **2012** Riskkapital och Beskattning, IFN
-
 ### Dissertation reviews
 * **2019** Mehmet Caglar Kaya, Lund University, doctorate.
 * **2019** Daniel Jahnson, Uppsala University, doctorate.
@@ -202,6 +187,21 @@ layout: default
 
 
 ## Media
+
+### Policy seminars organized
+* **2029** What Prevents Women from Reaching the Top? - A Seminar for All-China Women's Federation, IFN
+* **2017** Könskvotering och kvinnor i ledningsgrupper — vad säger forskningen?, IFN
+* **2012** Riskkapital och Beskattning, IFN
+
+### Policy seminar presentations
+
+* **2019** IIES/SNS International Policy Talks: Könsskillnader på arbetsmarknaden – hur kan glastaket förklaras?, SNS, Stockholm
+* **2017** Så får du kapital till din affärsidé, Entreprenör/Fplus, Stockholm
+* **2017** Ägarens roll i företagen, Mälardalens högskola/Industrihistoriska förening, Västerås
+* **2015** Aktiva ägare skapar job, Svenska riskkapitalföreningen, Stockholm
+* **2014** Entreprenören som försvann?, IFN, Stockholm
+* **2013** Riskkapitaliserna bygger landet, Timbro, Stockholm
+* **2013** Riskkapitalet i praktiken – så påverkas företag och samhälle, SNS Måndagsklubb, Stockholm
 
 ### Opinion pieces 
 1. Tåg, J. Dessa egenskaper har toppchefer, Vaasa Insider, November 2019.
