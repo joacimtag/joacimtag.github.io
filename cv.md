@@ -189,7 +189,7 @@ layout: default
 ## Media
 
 ### Policy seminars organized
-* **2029** What Prevents Women from Reaching the Top? - A Seminar for All-China Women's Federation, IFN
+* **2019** What Prevents Women from Reaching the Top? - A Seminar for All-China Women's Federation, IFN
 * **2017** Könskvotering och kvinnor i ledningsgrupper — vad säger forskningen?, IFN
 * **2012** Riskkapital och Beskattning, IFN
 
