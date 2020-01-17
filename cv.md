@@ -6,8 +6,8 @@ layout: default
 ## Contact
 - **Mail:** Research Institute of Industrial Economics, Box 55665, SE-102 15 Stockholm, Sweden<br>
 - **Phone:** +46 (0)8 665 4524<br>
-- **E-mail:** joacim.tag@ifn.se<br>
-- **Web:** www.joacimtag.se <br>
+- **E-mail:** [joacim.tag@ifn.se](mailto: joacim.tag@ifn.se)<br>
+- **Web:** [www.joacimtag.se](www.joacimtag.se) <br>
 
 ## Positions
 
@@ -151,7 +151,6 @@ layout: default
 * **2013** [IFN Stockholm Conference on Industrial Organization and Corporate Finance](https://www.ifn.se/eng/events/vaxholm/past-conferences/ifnc2013), Stockholm
 * **2012** [IFN Stockholm Conference on Globalization, Organization and the Ownership of Firms](https://www.ifn.se/eng/events/vaxholm/past-conferences/ifnc2012), Stockholm
 * **2011** [IFN Stockholm Conference on Entrepreneurship, Firm Growth and Ownership Change](https://www.ifn.se/eng/events/vaxholm/past-conferences/ifnc2011), Stockholm
-* **2011** [European Finance Association Annual Meeting](http://efa2011.efa-online.org/fisher.osu.edu/blogs/efa2011/index.html), Stockholm
 * **2010** [IFN Stockholm Conference on Innovation, Ownership and Competition Policy](https://www.ifn.se/eng/events/vaxholm/past-conferences/ownership_1), Stockholm
 * **2009** [IFN Stockholm Conference on the Economics of Ownership, Organization, and Industrial Development](https://www.ifn.se/eng/events/vaxholm/past-conferences/ownership), Stockholm
 
@@ -162,6 +161,7 @@ layout: default
 * **2018** Fourth International ZEW Conference on the Dynamics of Entrepreneurship, Manneheim
 * **2017** FMA European Conference, Lisbon
 * **2016** Third International ZEW Conference on the Dynamics of Entrepreneurship, Mannheim
+* **2011** [European Finance Association Annual Meeting](http://efa2011.efa-online.org/fisher.osu.edu/blogs/efa2011/index.html), Stockholm
 
 ### Dissertation reviews
 * **2019** Mehmet Caglar Kaya, Lund University, doctorate.
@@ -190,15 +190,15 @@ layout: default
 
 ### Policy seminars
 
-* IIES/SNS International Policy Talks: Könsskillnader på arbetsmarknaden – hur kan glastaket förklaras? (SNS 2019)
-* Så får du kapital till din affärsidé (Entreprenör/Fplus 2017)
-* Ägarens roll i företagen (Mälardalens högskola/Industrihistoriska föreningen 2017)
-* Könskvotering och kvinnor i ledningsgrupper — vad säger forskningen? (IFN 2017)
-* Aktiva ägare skapar job (Svenska riskkapitalföreningen 2015)
-* Entreprenören som försvann? (IFN 2014)
-* Riskkapitaliserna bygger landet (Timbro 2013)
-* Riskkapitalet i praktiken – så påverkas företag och samhälle (SNS Måndagsklubb 2013)
-* Riskkapital och Beskattning (IFN 2012)
+* **2019** IIES/SNS International Policy Talks: Könsskillnader på arbetsmarknaden – hur kan glastaket förklaras?, SNS
+* **2017** Så får du kapital till din affärsidé, Entreprenör/Fplus
+* **2017** Ägarens roll i företagen, Mälardalens högskola/Industrihistoriska förening
+* **2017** Könskvotering och kvinnor i ledningsgrupper — vad säger forskningen?, IFN
+* **2015** Aktiva ägare skapar job, Svenska riskkapitalföreningen
+* **2014** Entreprenören som försvann?, IFN
+* **2013** Riskkapitaliserna bygger landet, Timbro
+* **2013** Riskkapitalet i praktiken – så påverkas företag och samhälle, SNS Måndagsklubb
+* **2012** Riskkapital och Beskattning, IFN
 
 ### Opinion pieces 
 1. Tåg, J. Dessa egenskaper har toppchefer, Vaasa Insider, November 2019.
@@ -259,11 +259,11 @@ layout: default
 
 ### Pedagogical Training
 * **2019** Doctoral Supervision, Lund University (1.5 ETCS)
-* **2005**  MBA Teachers’ Program, Aalto University (7.5 ETCS)
+* **2005** MBA Teachers’ Program, Aalto University (7.5 ETCS)
 
 ### Research stays
-- **2012** University of Illinois at Urbana-Champaign, Apr. 21-27, Urbana-Champaign. 
-- **2012** Einaudi Institute for Economics and Finance, Apr. 12-20, Rome.
-- **2010** Stern School of Business, New York University, Feb. 14-28, New York.
-- **2008** Research Institute of Industrial Economics (IFN), Jan. 1-Sep. 1, Stockholm. 
-- **2008** Microsoft Research Redmond. Jul. 30-Aug. 7, Seattle.
+- **2012** University of Illinois at Urbana-Champaign, Apr. 21-27, Urbana-Champaign
+- **2012** Einaudi Institute for Economics and Finance, Apr. 12-20, Rome
+- **2010** Stern School of Business, New York University, Feb. 14-28, New York
+- **2008** Research Institute of Industrial Economics (IFN), Jan. 1-Sep. 1, Stockholm
+- **2008** Microsoft Research Redmond. Jul. 30-Aug. 7, Seattle
