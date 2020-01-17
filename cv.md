@@ -124,11 +124,11 @@ layout: default
 
 ### Invited
 
-* Aalto University (2019), Lund University (2019), CSEF (2018), Örebro University (2018), Ministry of Finance (2018), Stockholm Business School (2017), Swedish House of Finance (2017), Oxford University (2016, co-presenter), Stockholm University (2016), Uppsala University (2016, 2014), Linnaeus University (2016), IFN (2016, 2014, 2007), CBS (2015), University of Mannheim (2015), HECER (2014), Lund University (2014), Statistics Sweden (2014), RATIO (2013), NHH (2013), University of Illinois at Urbana-Champaign (2012), EIEF (2012), University of Gothenburg (2012), KTH (2011) SIFR (2011), DG Competition (2010), SSE (2010), ParisTech Telecom (2010), Microsoft Research (2008).
+* NHH Bergen (2020), Aalto University (2019), Lund University (2019), CSEF (2018), Örebro University (2018), Ministry of Finance (2018), Stockholm Business School (2017), Swedish House of Finance (2017), Oxford University (2016, co-presenter), Stockholm University (2016), Uppsala University (2016, 2014), Linnaeus University (2016), IFN (2016, 2014, 2007), CBS (2015), University of Mannheim (2015), HECER (2014), Lund University (2014), Statistics Sweden (2014), RATIO (2013), NHH (2013), University of Illinois at Urbana-Champaign (2012), EIEF (2012), University of Gothenburg (2012), KTH (2011) SIFR (2011), DG Competition (2010), SSE (2010), ParisTech Telecom (2010), Microsoft Research (2008).
 
 ### Conferences
 
-* 2nd Joint BOE/FED/ECB Conference on Gender and Career Progression (2019), Labor and Finance Group Conference at Chicago Booth (2019), 2nd Nordic Initiative in Corporate Economics Conference (2019), IFN( 2019), Registerforskardagen (2018), National Conference of Swedish Economists (2018, 2016, 2011, 2010), European Economic Association (2009-2013, 2018), SOLE (2018), AEA (2018, 2012), AFA (2018, 2017), Uppsala Conference on Gender and Labor Markets (2017), 1st Ecole Hoteliere de Lausanne Annual Private Markets Research Conference (2017), IFN Stockholm Conference (2017, 2015, 2013, 2012, 2011, 2010, 2009), The Fifth Oxford Residence Week for Entrepreneurship Scholars (2016), Ninth LBS Private Equity Symposium (2016), Third International ZEW Conference on the Dynamics of Entrepreneurship (2016), CSEF-EIEF-SITE Conference on Finance and Labor (2015), Darden and Cambridge Judge Entrepreneurship and Innovation Research Conference (2015), Conference on Entrepreneurship and Finance in memory of Ola Bengtsson (2015), SIFR Conference on The Financial Economics of Innovation and Entrepreneurship (2014, co-presenter), FOM Working Group Conference (2013, co-presenter), CEPR Workshop on the Economics of Entrepreneurship (2013), Swedish Economic Forum (2013), SHOF Workshop (2012), EFA (2012), KWC Finance Conference (2011), Conference on the Economics of ICT (2011), EARIE (2011, 2009, 2008, 2007), International Economic Association (2011), Entreprenörskapsforum/IFN workshop on Entrepreneurship, Industrial Development and Growth (2011),  ZEW Conference on the Economics of ICT (2010, 2008), CAF Summer Research Conference (2009), SNEE Conference on European Integration in Swedish Economic Research (2009), NET Institute Conference (2009), IIOC (2009), Ung Forskardag (2009), FDPE Microeconomics and IO Workshop (2008, 2007, 2006, 2005), The 36th Research Conference on Communication, Information and Internet Policy (2008, co-presenter) NYU/CeDER Workshop on the Economics of IT (2006).
+* IFN Workshop of Firms and Labor (2020), 2nd Joint BOE/FED/ECB Conference on Gender and Career Progression (2019), Labor and Finance Group Conference at Chicago Booth (2019), 2nd Nordic Initiative in Corporate Economics Conference (2019), IFN Workshop of Firms and Labor (2019), Registerforskardagen (2018), National Conference of Swedish Economists (2018, 2016, 2011, 2010), European Economic Association (2009-2013, 2018), SOLE (2018), AEA (2018, 2012), AFA (2018, 2017), Uppsala Conference on Gender and Labor Markets (2017), 1st Ecole Hoteliere de Lausanne Annual Private Markets Research Conference (2017), IFN Stockholm Conference (2017, 2015, 2013, 2012, 2011, 2010, 2009), The Fifth Oxford Residence Week for Entrepreneurship Scholars (2016), Ninth LBS Private Equity Symposium (2016), Third International ZEW Conference on the Dynamics of Entrepreneurship (2016), CSEF-EIEF-SITE Conference on Finance and Labor (2015), Darden and Cambridge Judge Entrepreneurship and Innovation Research Conference (2015), Conference on Entrepreneurship and Finance in memory of Ola Bengtsson (2015), SIFR Conference on The Financial Economics of Innovation and Entrepreneurship (2014, co-presenter), FOM Working Group Conference (2013, co-presenter), CEPR Workshop on the Economics of Entrepreneurship (2013), Swedish Economic Forum (2013), SHOF Workshop (2012), EFA (2012), KWC Finance Conference (2011), Conference on the Economics of ICT (2011), EARIE (2011, 2009, 2008, 2007), International Economic Association (2011), Entreprenörskapsforum/IFN workshop on Entrepreneurship, Industrial Development and Growth (2011),  ZEW Conference on the Economics of ICT (2010, 2008), CAF Summer Research Conference (2009), SNEE Conference on European Integration in Swedish Economic Research (2009), NET Institute Conference (2009), IIOC (2009), Ung Forskardag (2009), FDPE Microeconomics and IO Workshop (2008, 2007, 2006, 2005), The 36th Research Conference on Communication, Information and Internet Policy (2008, co-presenter) NYU/CeDER Workshop on the Economics of IT (2006).
 
 ### Conference discussions or attendance
 
@@ -174,6 +174,7 @@ layout: default
 * **2011** [European Finance Association Annual Meeting](http://efa2011.efa-online.org/fisher.osu.edu/blogs/efa2011/index.html), Stockholm
 
 ### Policy seminars organized
+* **2029** What Prevents Women from Reaching the Top? - A Seminar for All-China Women's Federation, IFN
 * **2017** Könskvotering och kvinnor i ledningsgrupper — vad säger forskningen?, IFN
 * **2012** Riskkapital och Beskattning, IFN
 
@@ -219,6 +220,7 @@ layout: default
 ### Interviews and research mentions
 * Affärsvärlden: Forskare: Mix bluffar om jobben (December 2011).
 * Arbetsmarknaden: Oklara jobbeffekter av riskkapitalism (March 2012).
+* Bloomberg TV: The Incredible Shrinking Stock Market (April 2019)
 * Botnia Insider: Dessa egenskaper har toppchefer (November 2019).
 * BI Business Review: Hvorfor blir ikke kvinner toppledere? (October 2017)
 * Breakit.se: Därför blir kvinnor inte toppchefer lika ofta (och så kan det förändras) (March 2019)
@@ -270,10 +272,20 @@ layout: default
 - **2008** Research Institute of Industrial Economics (IFN), Jan. 1-Sep. 1, Stockholm
 - **2008** Microsoft Research Redmond. Jul. 30-Aug. 7, Seattle
 
-<!--
 ### Departmental service
 
-- **2020** Research presentation for boardmembers, Stockholm
-- **2020** Research presentation for potential financiers, Höganäs
+- **2018-** Founder and chair of the Firms and Labor Research Group (FAME)
+- **2017-2019** Recruitment committee member
+- **2009-2018** Responsible for setting up and maintaining the IFN Corporate Database
+- **2009-2011** Responsible for the seminar series
 
--->
+### Internal presentations
+
+- **2020** Research presentation for the board, Stockholm
+- **2020** Research presentation for potential financiers, Höganäs
+- **2019** Research presentation for Tillväxtanalys, Stockholm
+- **2019** Research presentation at Karolinska Institutet, Stockholm
+- **2019** Roundtable with a team from the French embassy, Stockholm
+- **2019** Research presentation for potential financiers, Stockholm
+- **2014** Presentation at IFN Open House for PhD students, Stockholm
+- **2011** Research roundtable with Prins Daniel, Stockholm
