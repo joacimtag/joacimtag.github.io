@@ -274,7 +274,7 @@ layout: default
 
 ### Departmental service
 
-- **2018-** Founder and chair of the Firms and Labor Research Group (FAME)
+- **2018-** Founder and chair of the Firms, Labor, and Entrepreneurship Research Group (FAME)
 - **2009-** Arranged with affiliations for Matti Keloharju, Samuli Knupfer, Kaveh Majlesi, Marco Pagano, and Annalisa Scognamiglio
 - **2017-2019** Recruitment committee member
 - **2009-2018** Responsible for setting up and maintaining the IFN Corporate Database
