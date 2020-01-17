@@ -134,6 +134,16 @@ layout: default
 
 * KWC Conference on Entrepreneurial Finance (2019), CSEF Conference on Finance, Labor and Inquality (2019), SBS Conference on Board Diversity Quotas (2018), Labor and Finance Group Conference (2018), 28th Mitsui Finance Symposium (2018), IFN Stockholm Conference (2018, 2014, 2008), Nordic Initiative in Corporate Economics (2018), EFA (2017, 2016), FOM Working Group Conference (2017, 2016, 2015), CEPR Workshop on Entrepreneurship Economics (2017, 2015), SHOF Workshop (2016, 2013, 2012),CSEF-EIEF-SITE Conference on Finance and Labor (2016), Swedish House of Finance Corporate Finance Symposium (2016), CEPR Conference on Entrepreneurial Finance (2014), HEC Conference on Entrepreneurship (2013), CEPR Finance and Real Economy Conference (2012), SIFR Conference on the Governance of Financial Intermediaries (2009), Google Workshop (2009), IFN Nordic Workshop on Electricity Economics (2008), NET Institute Conference (2008), SIFR Workshop on the Economics of the Private Equity Market (2007), AEA Meetings (2007), 4th Workshop on Media Economics (2006), NYU IO-Day (2006), GESY Summer School Bronnbach (2005), ENCORE Summer School (2005).
 
+### Policy seminars
+
+* **2019** IIES/SNS International Policy Talks: Könsskillnader på arbetsmarknaden – hur kan glastaket förklaras?, SNS, Stockholm
+* **2017** Så får du kapital till din affärsidé, Entreprenör/Fplus, Stockholm
+* **2017** Ägarens roll i företagen, Mälardalens högskola/Industrihistoriska förening, Västerås
+* **2015** Aktiva ägare skapar job, Svenska riskkapitalföreningen, Stockholm
+* **2014** Entreprenören som försvann?, IFN, Stockholm
+* **2013** Riskkapitaliserna bygger landet, Timbro, Stockholm
+* **2013** Riskkapitalet i praktiken – så påverkas företag och samhälle, SNS Måndagsklubb, Stockholm
+
 ## Professional service
 
 ### Editorial boards
@@ -146,7 +156,7 @@ layout: default
 * European Research Council
 * National Science Foundation
 
-### Conferences organized
+### Academic conferences organized
 * **2020** [The Stockholm Labor and Finance Group Conference](https://www.ifn.se/eng/events/conferences-courses/lfg), Stockholm
 * **2013** [IFN Stockholm Conference on Industrial Organization and Corporate Finance](https://www.ifn.se/eng/events/vaxholm/past-conferences/ifnc2013), Stockholm
 * **2012** [IFN Stockholm Conference on Globalization, Organization and the Ownership of Firms](https://www.ifn.se/eng/events/vaxholm/past-conferences/ifnc2012), Stockholm
@@ -162,6 +172,10 @@ layout: default
 * **2017** FMA European Conference, Lisbon
 * **2016** Third International ZEW Conference on the Dynamics of Entrepreneurship, Mannheim
 * **2011** [European Finance Association Annual Meeting](http://efa2011.efa-online.org/fisher.osu.edu/blogs/efa2011/index.html), Stockholm
+
+### Policy seminars organized
+* **2017** Könskvotering och kvinnor i ledningsgrupper — vad säger forskningen?, IFN
+* **2012** Riskkapital och Beskattning, IFN
 
 ### Dissertation reviews
 * **2019** Mehmet Caglar Kaya, Lund University, doctorate.
@@ -187,18 +201,6 @@ layout: default
 
 
 ## Media
-
-### Policy seminars
-
-* **2019** IIES/SNS International Policy Talks: Könsskillnader på arbetsmarknaden – hur kan glastaket förklaras?, SNS
-* **2017** Så får du kapital till din affärsidé, Entreprenör/Fplus
-* **2017** Ägarens roll i företagen, Mälardalens högskola/Industrihistoriska förening
-* **2017** Könskvotering och kvinnor i ledningsgrupper — vad säger forskningen?, IFN
-* **2015** Aktiva ägare skapar job, Svenska riskkapitalföreningen
-* **2014** Entreprenören som försvann?, IFN
-* **2013** Riskkapitaliserna bygger landet, Timbro
-* **2013** Riskkapitalet i praktiken – så påverkas företag och samhälle, SNS Måndagsklubb
-* **2012** Riskkapital och Beskattning, IFN
 
 ### Opinion pieces 
 1. Tåg, J. Dessa egenskaper har toppchefer, Vaasa Insider, November 2019.
@@ -267,3 +269,11 @@ layout: default
 - **2010** Stern School of Business, New York University, Feb. 14-28, New York
 - **2008** Research Institute of Industrial Economics (IFN), Jan. 1-Sep. 1, Stockholm
 - **2008** Microsoft Research Redmond. Jul. 30-Aug. 7, Seattle
+
+<!--
+### Departmental service
+
+- **2020** Research presentation for boardmembers, Stockholm
+- **2020** Research presentation for potential financiers, Höganäs
+
+-->
