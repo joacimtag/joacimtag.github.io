@@ -164,10 +164,10 @@ layout: default
 * **2011** [European Finance Association Annual Meeting](http://efa2011.efa-online.org/fisher.osu.edu/blogs/efa2011/index.html), Stockholm
 
 ### Dissertation reviews
-* **2019** Mehmet Caglar Kaya, Lund University, doctorate.
-* **2019** Daniel Jahnson, Uppsala University, doctorate.
-* **2018** Osmis Habte, Lund University, doctorate.
-* **2016** Sebastian Escobar, Uppsala University, licentiate.
+* **2019** Mehmet Caglar Kaya, Lund University, doctorate
+* **2019** Daniel Jahnson, Uppsala University, doctorate
+* **2018** Osmis Habte, Lund University, doctorate
+* **2016** Sebastian Escobar, Uppsala University, licentiate
 
 ## Teaching
 
