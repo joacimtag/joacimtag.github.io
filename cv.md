@@ -252,7 +252,7 @@ layout: default
 * Sveriges Radio: Ny studie spräcker myten om riskkapitalister (January 2018).
 * Talouselämä: Jäljet johtavat sylttytehtaalle (February 2016).
 * Vasabladet: Diskriminering kan ge kvinnor lägre lön (March 2016).
-* Vaasa Insider: Vasabördige forskaren Joacim Tåg: ”Ett extremt slöseri av talang att inte flera kvinnor får toppositioner” (December 2018), Dessa egenskaper har toppchefer (November 2019).
+* Vaasa Insider: Vasabördige forskaren Joacim Tåg: ”Ett extremt slöseri av talang att inte flera kvinnor får toppositioner” (December 2018), Dessa egenskaper har toppchefer (November 2019), [Vasabördige Joacim Tåg utnämnd till docent i nationalekonomi vid Lunds universtitet](https://www.vaasainsider.fi/forskning-utbildning/vasabordige-joacim-tag-utnamnd-till-docent-i-nationalekonomi-vid-lunds-universitet/) (January 2020)
 * Vetenskapsradion: Vad händer när välfärden får gå med vinst? (January 2013).
 * World Finance: The slow death of global stock markets (April 2019).
 * Yle: Forskning visar: Kvinnliga chefer mer kompetenta än manliga - trots det halkar de efter i karriären (October 2019), Den artificiella intelligensen kommer med enorma omställningar för samhället (June 2018)
