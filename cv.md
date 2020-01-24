@@ -12,8 +12,8 @@ layout: default
 ## Positions
 
 ### Current
-- **2019--** Associate Professor/Docent, Lund University, Lund
-- **2011--** Program Director, Research Institute of Industrial Economics (IFN), Stockholm
+- **2019--** [Associate Professor (Docent)](https://portal.research.lu.se/portal/en/persons/joacim-taag(0a797d65-9b2e-46ff-91aa-2307a568303e).html), Lund University, Lund
+- **2011--** [Program Director](https://www.ifn.se/eng/people/research-faculty/joacimt), Research Institute of Industrial Economics (IFN), Stockholm
 - **2008--** Research Fellow, Research Institute of Industrial Economics (IFN), Stockholm
 
 ### Past
@@ -276,7 +276,7 @@ layout: default
 
 - **2018-** Founder and chair of the Firms, Labor, and Entrepreneurship Research Group (FAME)
 - **2009-** Arranged with affiliations for Matti Keloharju, Samuli Knupfer, Kaveh Majlesi, Marco Pagano, and Annalisa Scognamiglio
-- **2017-2019** Recruitment committee member
+- **2017-** Recruitment committee member
 - **2009-2018** Responsible for setting up and maintaining the IFN Corporate Database
 - **2009-2011** Responsible for the seminar series
 
