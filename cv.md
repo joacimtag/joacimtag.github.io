@@ -164,6 +164,7 @@ layout: default
 * **2011** [European Finance Association Annual Meeting](http://efa2011.efa-online.org/fisher.osu.edu/blogs/efa2011/index.html), Stockholm
 
 ### Dissertation reviews
+* **2020** Johan Mellberg, NHH, doctorate (scheduled)
 * **2019** Mehmet Caglar Kaya, Lund University, doctorate
 * **2019** Daniel Jahnson, Uppsala University, doctorate
 * **2018** Osmis Habte, Lund University, doctorate
@@ -282,11 +283,11 @@ layout: default
 
 ### Internal presentations
 
-- **2020** Research presentation for the board, Stockholm
-- **2020** Research presentation for potential financiers, Höganäs
+- **2020** Research presentation for potential financiers, Höganäs (scheduled)
+- **2020** Research presentation for the board, Stockholm (scheduled)
 - **2019** Research presentation for Tillväxtanalys, Stockholm
 - **2019** Research presentation at Karolinska Institutet, Stockholm
-- **2019** Roundtable with a team from the French embassy, Stockholm
+- **2019** Roundtable with a team from the French Embassy, Stockholm
 - **2019** Research presentation for potential financiers, Stockholm
 - **2014** Presentation at IFN Open House for PhD students, Stockholm
 - **2011** Research roundtable with Prins Daniel, Stockholm
