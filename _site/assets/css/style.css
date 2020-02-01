@@ -35,13 +35,13 @@ h1,h2,h3 { line-height:1.2;}
 /* unvisited link */
 a:link {
   color: #454545;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 /* visited link */
 a:visited {
   color: #454545;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 /* mouse over link */
