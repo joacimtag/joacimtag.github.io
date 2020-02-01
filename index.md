@@ -25,7 +25,7 @@ Colonnelli, E, J. Tåg, Webb, M, and S. Wolter. 2018. <a href="https://www.aeawe
 * We provide stylized facts on the existence and dynamics of the large firm wage premium for Brazil, Germany, Sweden, and the UK. The large firm premium exists in all these countries, but we find no clear evidence of common cross-country industry trends in the premium. 
 
 Olsson, M. and J. Tåg. 2017. "<a href="https://doi.org/10.1086/690712" target="_blank" rel="noopener noreferrer">Private Equity, Layoffs, and Job Polarization</a>." <em>Journal of Labor Economics</em> 35: 697–754.
-* We argue that ownership change is one driver of job polarization. Using Sweden as a laboratory, we show that private equity buyouts in low productive firms are coupled with productivity enhancing investments in automation and offshoring. As a result, workers performing routine or offshorable job tasks in these firms tend to get laid off. 
+* We argue that ownership change is one driver of job polarization by showing that private equity buyouts in low productive firms are coupled with productivity enhancing investments in automation and offshoring. As a result, workers performing routine or offshorable job tasks in these firms tend to get laid off. 
 * <em>Media coverage</em>: Affärsvärlden, Dagens Industri, Dagens Nyheter, Sveriges Radio, Svenska Dagbladet.
 
 Tåg, J., T. Åstebro, and P. Thompson. 2016. "<a href="http://dx.doi.org/10.1016/j.euroecorev.2016.06.007" target="_blank" rel="noopener noreferrer">Hierarchies and Entrepreneurship</a>." <em>European Economic Review</em> 89:129–147.
