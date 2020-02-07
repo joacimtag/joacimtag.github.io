@@ -271,7 +271,7 @@ layout: default
 - **2012** Einaudi Institute for Economics and Finance, Apr. 12-20, Rome
 - **2010** Stern School of Business, New York University, Feb. 14-28, New York
 - **2008** Research Institute of Industrial Economics (IFN), Jan. 1-Sep. 1, Stockholm
-- **2008** Microsoft Research Redmond. Jul. 30-Aug. 7, Seattle
+- **2008** Microsoft Research Redmond, Jul. 30-Aug. 7, Seattle
 
 ### Departmental service
 
@@ -284,7 +284,7 @@ layout: default
 ### Internal presentations
 
 - **2020** Research presentation for potential financiers, Höganäs (scheduled)
-- **2020** Research presentation for the board, Stockholm (scheduled)
+- **2020** Research presentation for the board, Stockholm
 - **2019** Research presentation for Tillväxtanalys, Stockholm
 - **2019** Research presentation at Karolinska Institutet, Stockholm
 - **2019** Roundtable with a team from the French Embassy, Stockholm
