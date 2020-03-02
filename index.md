@@ -27,7 +27,7 @@ Tåg, J., T. Åstebro, and P. Thompson. 2016. "<a href="http://dx.doi.org/10.101
 ### News and Events
 * **2019-12-19** Appointed Associate Professor/Docent at Lund University
 * **2020-03-26** Presentation at the IFN Firms and Labor Workshop in Stockholm
-* **2020-06-10** Discussion at the NICE conference in Copenhagen
+* **2020-06-10** Discussion at the 3rd Nordic Initiative in Corporate Economics Conference in Copenhagen
 * **2020-06-12** Member of the Scientific Committee of the 2020 CSEF and RCFS Conference on Labor, Finance, and Inequality in Capri
 * **2020-08-17** Organizing the first European workshop of the Labor and Finance Group at IFN. More information [here](https://www.ifn.se/eng/events/conferences-courses/lfg).
 * **2020-09-02** Seminar at NHH in Bergen
