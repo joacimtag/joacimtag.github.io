@@ -8,7 +8,7 @@ layout: default
 
 He currently works on bringing Swedish registry data to the research frontier in labor and finance. A central theme is the allocation of executives and workers across firms or into entrepreneurship. He also studies how ownership changes in firms affect workers, and he has previously done work on optimal regulation of IT, telecom, and media companies. His research is detailed in over 30 publications and working papers and has been featured in major national and international newspapers. It has over 1000 cites in [Google Scholar](http://scholar.google.com/citations?user=Q0dCshQAAAAJ&amp;hl=en) and ranks top decile by all-time downloads worldwide in [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=397712). You can follow him on [Twitter](https://twitter.com/joacimtag).
 
-### Selected Research
+### Selected Recent Research
 
 Keloharju, M., S. Knüpfer, and J. Tåg. 2019. "<a href="https://ssrn.com/abstract=2730207" target="_blank" rel="noopener noreferrer">What Prevents Women from Reaching the Top?</a>" Revise and Resubmit at <em>Management Science</em>.
 * We show that women are about one-half as likely to be large-company CEOs and about one-third less likely to be high earners than men. A wide range of observables do not explain the lack of women in top executive positions. Instead, slow career progression in the five years after the first childbirth explains most of the female disadvantage. 
