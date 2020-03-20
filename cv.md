@@ -38,7 +38,7 @@ layout: default
 
 ### Peer-reviewed international journals
 
-1. Nikita Koptyug, N,  L. Persson, and J. Tåg. 2019 “Should We Worry about the Decline of the Public Corporation? A Brief Survey of the Economics and External Effects of the Stock Market” Forthcoming in North American Journal of Economics and Finance.
+1. Nikita Koptyug, N,  L. Persson, and J. Tåg. 2020 “Should We Worry about the Decline of the Public Corporation? A Brief Survey of the Economics and External Effects of the Stock Market” North American Journal of Economics and Finance 51: 101061.
 
 1. Rider, C. P. Thompson, A. Kacperczyk, and J. Tåg. 2019. “Experience and Entrepreneurship: A Career Transition Perspective.” ILR Review 72: 1149-1181. 
 
