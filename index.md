@@ -26,8 +26,7 @@ Olsson, M. and J. Tåg. 2017. "<a href="https://doi.org/10.1086/690712" target="
 * <em>Presentations</em>: EEA, EFA, EIEF, IFN, KTH, NHH, LU, Ratio, SHOF, KU, GU, and Illinois.
 
 ### News and Events
-* **2019-12-19** Appointed Associate Professor/Docent at Lund University
-* **2020-03-25** New working paper out: <a href="http://ssrn.com/abstract=3560071" target="_blank" rel="noopener noreferrer">CEO Health and Corporate Governance</a> joint with Matti Keloharju and Samuli Knüpfer
+* **2020-03-25** New working paper: <a href="http://ssrn.com/abstract=3560071" target="_blank" rel="noopener noreferrer">CEO Health and Corporate Governance</a> joint with Matti Keloharju and Samuli Knüpfer
 <!--* **2020-03-26** Presentation at the IFN Firms and Labor Workshop in Stockholm -->
 * **2020-06-10** Discussion at the 3rd Nordic Initiative in Corporate Economics Conference in Copenhagen
 * **2020-06-12** Member of the Scientific Committee of the 2020 CSEF and RCFS Conference on Labor, Finance, and Inequality in Capri
