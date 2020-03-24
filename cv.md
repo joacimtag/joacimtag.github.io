@@ -28,7 +28,10 @@ layout: default
 ## Publications
 
 ### Working papers
-1. Hellmann, T., A. Montag, and J. Tåg. 2019. "Foreign Investors and Domestic Company Growth: Evidence from US Venture Capital Investments in Sweden."
+
+1. Keloharju, M., S. Knüpfer, and J. Tåg. 2020. "CEO Health and Corporate Governance" 
+
+1. Hellmann, T., A. Montag, and J. Tåg. 2019. "Foreign Investors and Domestic Company Growth: Evidence from US Venture Capital Investments in Sweden"
 
 1. Keloharju, M., S. Knüpfer, and J. Tåg. 2019. “What Prevents Female Executives from Reaching the Top?“
 

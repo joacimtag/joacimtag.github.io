@@ -10,6 +10,11 @@ He currently works on bringing Swedish registry data to the research frontier in
 
 ### Selected Recent Research
 
+Keloharju, M., S. Knüpfer, and J. Tåg. 2020. "<a href="http://ssrn.com/abstract=3560071" target="_blank" rel="noopener noreferrer">CEO Health and Corporate Governance</a>" 
+* Using comprehensive medical data we analyze the role of a CEO health in corporate governance. CEOs are significantly healthier than the population and other high- skill professionals, in particular in mental health. Health at appointment predicts turnover, suggesting boards respond to health problems and correct mismatches that occurred at the time of appointment. Health-related corporate governance appears to work imperfectly, however, as we find CEO health also associates with firm policies requiring an active CEO role.
+
+* <em>Presentations</em>: Aalto, BI, HU-Berlin, IFN, KI, LU, TSE, Bologna, Hannover, FEIBS, and the LFG Workshop at Booth.
+
 Keloharju, M., S. Knüpfer, and J. Tåg. 2019. "<a href="https://ssrn.com/abstract=2730207" target="_blank" rel="noopener noreferrer">What Prevents Women from Reaching the Top?</a>" Revise and Resubmit at <em>Management Science</em>.
 * We show that women are about one-half as likely to be large-company CEOs and about one-third less likely to be high earners than men. A wide range of observables do not explain the lack of women in top executive positions. Instead, slow career progression in the five years after the first childbirth explains most of the female disadvantage. 
 * <em>Media coverage</em>: Dagens Nyheter, Dagens Samhälle, Expressen, HBS Working Knowledge, Helsingin Sanomat, Huvudstadsbladet, Iltalehti, Nordic Business Report, Svenska Dagbladet, Talouselämä, Yle.
