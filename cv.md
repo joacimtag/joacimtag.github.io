@@ -273,14 +273,14 @@ layout: default
 * **2019** Doctoral Supervision, Lund University (1.5 ETCS)
 * **2005** MBA Teachers’ Program, Aalto University (7.5 ETCS)
 
-### Research stays
+### Research Stays
 - **2012** University of Illinois at Urbana-Champaign, Apr. 21-27, Urbana-Champaign
 - **2012** Einaudi Institute for Economics and Finance, Apr. 12-20, Rome
 - **2010** Stern School of Business, New York University, Feb. 14-28, New York
 - **2008** Research Institute of Industrial Economics (IFN), Jan. 1-Sep. 1, Stockholm
 - **2008** Microsoft Research Redmond, Jul. 30-Aug. 7, Seattle
 
-### Departmental service
+### Departmental Service
 
 - **2018-** Founder and chair of the Firms, Labor, and Entrepreneurship Research Group (FAME)
 - **2017-** Recruitment committee member
@@ -288,7 +288,7 @@ layout: default
 - **2009-2018** Responsible for setting up and maintaining the IFN Corporate Database
 - **2009-2011** Responsible for the seminar series
 
-### Internal presentations
+### Internal Presentations
 
 - **2020** Research presentation for potential financiers, Höganäs (scheduled)
 - **2020** Research presentation for the board, Stockholm
