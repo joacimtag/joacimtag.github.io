@@ -158,7 +158,6 @@ layout: default
 * **2009** [IFN Stockholm Conference on the Economics of Ownership, Organization, and Industrial Development](https://www.ifn.se/eng/events/vaxholm/past-conferences/ownership), Stockholm
 
 ### Scientific comittee memberships
-* **2020** CSEF and RCFS Conference on Labor, Finance, and Inequality, Capri
 * **2019** [CSEF and RCFS Conference on Labor, Finance, and Inequality](http://www.csef.it/Conference-on-Finance-Labor-and), Capri
 * **2018** SBS Conference on Board Diversity Quotas, Stockholm
 * **2018** Fourth International ZEW Conference on the Dynamics of Entrepreneurship, Manneheim
@@ -176,6 +175,7 @@ layout: default
 
 ### Grading comittee membership
 * **2020-05-14** Polina Knutsson, Lund University, doctorate
+* **2020-06-09** Niklas Blomqvist, Stockholm University, doctorate
 
 ## Teaching
 
