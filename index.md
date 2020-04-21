@@ -31,4 +31,4 @@ Olsson, M. and J. Tåg. 2017. "<a href="https://doi.org/10.1086/690712" target="
 <!--* **2020-03-26** Presentation at the IFN Firms and Labor Workshop in Stockholm -->
 * **2020-06-10** Discussion at the 3rd Nordic Initiative in Corporate Economics Conference in Copenhagen
 * **2020-08-17** Organizing the first European workshop of the Labor and Finance Group at IFN. More information [here](https://www.ifn.se/eng/events/conferences-courses/lfg).
-* **2020-09-02** Seminar at NHH in Bergen
+<!--*  * **2020-09-02** Seminar at NHH in Bergen -->
