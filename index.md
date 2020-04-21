@@ -11,7 +11,8 @@ He currently works on bringing Swedish registry data to the research frontier in
 ### Selected Recent Research
 
 Keloharju, M., S. Knüpfer, and J. Tåg. 2020. "<a href="http://ssrn.com/abstract=3560071" target="_blank" rel="noopener noreferrer">CEO Health and Corporate Governance</a>" 
-* Using comprehensive medical data we analyze the role of a CEO health in corporate governance. CEOs are significantly healthier than the population and other high- skill professionals, in particular in mental health. Health at appointment predicts turnover, suggesting boards respond to health problems and correct mismatches that occurred at the time of appointment. Health-related corporate governance appears to work imperfectly, however, as we find CEO health also associates with firm policies requiring an active CEO role.
+* Boards hire and fire CEOs based on imperfect information. Using comprehensive data on 28 cohorts in Sweden, we analyze the role of CEO health in corporate governance. Boards hire CEOs who are healthier than other high-skill professionals, in particular in mental health. After hiring, CEOs’ health develops similarly to a control group of executives. Health predicts turnover, measured at appointment and during tenure. These results are consistent with boards appointing CEOs with health robust enough to withstand the pressures of the job, correcting mismatches occurring at the time of appointment, and responding expediently to health shocks.
+
 
 * <em>Presentations</em>: Aalto, BI, HU-Berlin, IFN, KI, LU, TSE, Bologna, Hannover, FEIBS, and the LFG Workshop at Booth.
 
