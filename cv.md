@@ -29,77 +29,79 @@ layout: default
 
 ### Working papers
 
-1. Keloharju, M., S. Knüpfer, and J. Tåg. 2020. "CEO Health and Corporate Governance" 
+1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. 2020. “CEO Health and Corporate Governance.” *SSRN Electronic Journal*, April. [https://doi.org/10.2139/ssrn.3560071](https://doi.org/10.2139/ssrn.3560071).
 
-1. Hellmann, T., A. Montag, and J. Tåg. 2019. "Foreign Investors and Domestic Company Growth: Evidence from US Venture Capital Investments in Sweden"
+1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. 2019. “What Prevents Women from Reaching the Top?” *SSRN Electronic Journal*, April. [https://doi.org/10.2139/ssrn.2730207](https://doi.org/10.2139/ssrn.2730207).
 
-1. Keloharju, M., S. Knüpfer, and J. Tåg. 2019. “What Prevents Female Executives from Reaching the Top?“
+1. Hellmann, Thomas F., Alexander Montag, and Joacim Tåg. 2019. “Foreign Investors and Domestic Company Growth: Evidence from US Venture Capital Investments in Sweden.” *SSRN Electronic Journal*, April. [https://doi.org/10.2139/ssrn.3372976](https://doi.org/10.2139/ssrn.3372976).
 
-1. Olsson, M. and J. Tåg. 2018. “What is the Cost of Privatization for Workers?”
+1. Olsson, Martin, and Joacim Tåg. 2018. “What Is the Cost of Privatization for Workers?” *SSRN Electronic Journal*, December. [https://doi.org/10.2139/ssrn.3134462](https://doi.org/10.2139/ssrn.3134462).
 
-1. Ljungqvist, A., L. Persson, and J. Tåg. 2018. “The Incredible Shrinking Stock Market: On the Political Economy Consequences of Excessive Delistings”
+1. Ljungqvist, Alexander, Lars Persson, and Joacim Tåg. 2018. “The Incredible Shrinking Stock Market: On the Political Economy Consequences of Excessive Delistings.” *SSRN Electronic Journal*, February. [https://doi.org/10.2139/ssrn.2714916](https://doi.org/10.2139/ssrn.2714916).
 
 ### Peer-reviewed international journals
 
-1. Nikita Koptyug, N,  L. Persson, and J. Tåg. 2020 “Should We Worry about the Decline of the Public Corporation? A Brief Survey of the Economics and External Effects of the Stock Market” North American Journal of Economics and Finance 51: 101061.
+1. Koptyug, Nikita, Lars Persson, and Joacim Tåg. 2020. “Should We Worry About the Decline of the Public Corporation? A Brief Survey of the Economics and External Effects of the Stock Market.” *The North American Journal of Economics and Finance*, no. 51: 101061. [https://doi.org/10.1016/j.najef.2019.101061](https://doi.org/10.1016/j.najef.2019.101061).
 
-1. Rider, C. P. Thompson, A. Kacperczyk, and J. Tåg. 2019. “Experience and Entrepreneurship: A Career Transition Perspective.” ILR Review 72: 1149-1181. 
+1. Rider, Christopher I., Peter Thompson, Aleksandra Kacperczyk, and Joacim Tåg. 2019. “Experience and Entrepreneurship: A Career Transition Perspective.” *ILR Review* 72 (5): 1149–81. [https://doi.org/10.1177/0019793919852919](https://doi.org/10.1177/0019793919852919).
 
-1. Olsson, M. and J. Tåg. 2018. “Are Foreign Private Equity Buyouts Bad for Workers?” Economics Letters 172: 1-4.
+1. Olsson, Martin, and Joacim Tåg. 2018. “Are Foreign Private Equity Buyouts Bad for Workers?” *Economics Letters* 172 (November): 1–4. [https://doi.org/10.1016/j.econlet.2018.08.002](https://doi.org/10.1016/j.econlet.2018.08.002).
 
-1. Colonnelli, E, J. Tåg, Webb, M, and S. Wolter. 2018. A Cross-Country Comparison of Dynamics in the Large Firm Wage Premium.” AEA Papers and Proceedings 108: 323–27.
+1. Norbäck, Pehr-Johan, Lars Persson, and Joacim Tåg. 2018. “Does the Debt Tax Shield Distort Ownership Efficiency?” *International Review of Economics & Finance* 54 (March): 299–310. [https://doi.org/10.1016/j.iref.2017.09.012](https://doi.org/10.1016/j.iref.2017.09.012).
 
-1. Norbäck, P-J., L. Persson and J. Tåg. 2018. “Threatening to Buy: Private Equity Buyouts and Antitrust Policy.” Economics Letters 164: 31–34.
+1. Norbäck, Pehr-Johan, Lars Persson, and Joacim Tåg. 2018. “Threatening to Buy: Private Equity Buyouts and Antitrust Policy.” *Economics Letters* 164 (March): 31–34. [https://doi.org/10.1016/j.econlet.2017.12.027](https://doi.org/10.1016/j.econlet.2017.12.027).
 
-1. Norbäck, P-J., L. Persson and J. Tåg. 2018. “Does the Debt Tax Shield Distort Ownership Efficiency?” International Review of Economics and Finance 54: 299-310.
+1. Colonnelli, Emanuele, Joacim Tåg, Michael Webb, and Stefanie Wolter. 2018. “A Cross-Country Comparison of Dynamics in the Large Firm Wage Premium.” *AEA Papers and Proceedings* 108 (May): 323–27. [https://doi.org/10.1257/pandp.20181067](https://doi.org/10.1257/pandp.20181067).
 
-1. Åstebro, T and J. Tåg. 2017. “Gross, Net, and New Job Creation by Entrepreneurs.” Journal of Business Venturing Insights 8:64-70.
+1. Olsson, Martin, and Joacim Tåg. 2017. “Private Equity, Layoffs, and Job Polarization.” *Journal of Labor Economics* 35 (3): 697–754. [https://doi.org/10.1086/690712](https://doi.org/10.1086/690712).
 
-1. Basiki, S, P-J. Norbäck, L. Persson, and J. Tåg. 2017. “Cross-Border Acquisitions and Restructuring: Multinational Enterprises versus Private Equity-firms.” European Economic Review 94:166–184.
+1. Åstebro, Thomas, and Joacim Tåg. 2017. “Gross, Net, and New Job Creation by Entrepreneurs.” *Journal of Business Venturing Insights* 8 (November): 64–70. [https://doi.org/10.1016/j.jbvi.2017.06.001](https://doi.org/10.1016/j.jbvi.2017.06.001).
 
-1. Olsson, M. and J. Tåg. 2017. “Private Equity, Layoffs, and Job Polarization.” Journal of Labor Economics 35:697-754.
+1. Baziki, Selva Bahar, Pehr-Johan Norbäck, Lars Persson, and Joacim Tåg. 2017. “Cross-Border Acquisitions and Restructuring: Multinational Enterprises and Private Equity-Firms.” *European Economic Review* 94 (May): 166–84. [https://doi.org/10.1016/j.euroecorev.2017.02.012](https://doi.org/10.1016/j.euroecorev.2017.02.012).
 
-1. Tåg, J., T. Åstebro, and P. Thompson. 2016. “Hierarchies and Entrepreneurship.” European Economic Review 89:129–147.
+1. Tåg, Joacim, Thomas Åstebro, and Peter Thompson. 2016. “Hierarchies and Entrepreneurship.” *European Economic Review* 89 (October): 129–47. [https://doi.org/10.1016/j.euroecorev.2016.06.007](https://doi.org/10.1016/j.euroecorev.2016.06.007).
 
-1. Tangerås, T. and J. Tåg. 2016. “International Network Competition under Decentralized Regulation.” International Journal of Industrial Organization 47:152–185.
+1. Tangerås, Thomas P., and Joacim Tåg. 2016. “International Network Competition Under National Regulation.” *International Journal of Industrial Organization* 47 (July): 152–85. [https://doi.org/10.1016/j.ijindorg.2016.04.006](https://doi.org/10.1016/j.ijindorg.2016.04.006).
 
-1. Norbäck, PJ, Persson, L and J. Tåg. 2014. “Acquisitions, Entry, and Innovation in Oligopolistic Network Industries.” International Journal of Industrial Organization 37:1–12.
+1. Norbäck, Pehr-Johan, Lars Persson, and Joacim Tåg. 2014. “Acquisitions, Entry, and Innovation in Oligopolistic Network Industries.” *International Journal of Industrial Organization* 37 (November): 1–12. [https://doi.org/10.1016/j.ijindorg.2014.07.003](https://doi.org/10.1016/j.ijindorg.2014.07.003).
 
-1. Tåg, J. 2013. “Production Hierarchies in Sweden.” Economics Letters 121:210–213.
+1. Tåg, Joacim. 2013. “Production Hierarchies in Sweden.” *Economics Letters* 121 (2): 210–13. [https://doi.org/10.1016/j.econlet.2013.08.001](https://doi.org/10.1016/j.econlet.2013.08.001).
 
-1. Lerner, J. and J. Tåg. 2013. “Institutions and Venture Capital.” Industrial and Corporate Change 22:153–182.
+1. Lerner, J., and J. Tag. 2013. “Institutions and Venture Capital.” *Industrial and Corporate Change* 22 (1): 153–82. [https://doi.org/10.1093/icc/dts050](https://doi.org/10.1093/icc/dts050).
 
-1. Economides, N. and J. Tåg. 2012. “Net Neutrality on the Internet: A Two-sided Market Analysis.” Information Economics and Policy 24:91–104.
+1. Economides, Nicholas, and Joacim Tåg. 2012. “Network Neutrality on the Internet: A Two-Sided Market Analysis.” *Information Economics and Policy* 24 (2): 91–104. [https://doi.org/10.1016/j.infoecopol.2012.01.001](https://doi.org/10.1016/j.infoecopol.2012.01.001).
 
-1. Tåg, J. 2009. “Paying to Remove Advertisements.” Information Economics and Policy 21: 245–252.
+1. Tåg, Joacim. 2009. “Paying to Remove Advertisements.” *Information Economics and Policy* 21 (4): 245–52. [https://doi.org/10.1016/j.infoecopol.2009.02.001](https://doi.org/10.1016/j.infoecopol.2009.02.001).
 
-1. Tåg, J. 2009. “Competing Platforms and Third Party Application Developers.” Communication & Strategies 74: 95–114.
+1. Tåg, Joacim. 2009. “Competing Platforms and Third Party Application Developers.” *Communications & Strategies* 74 (2): 95–114. [PDF](/assets/pdfs/Tag2009.pdf)
 
 ### Other
 
-1. Tåg, J. 2019. ”IFNs: forskningsprogram Globaliseringen och företagen 2009-2019” In IFN 1939–2019 – 80 år av ekonomisk forskning, edited by Magnus Henrekson, 29-48. Stockholm: Ekerlids Förlag.
+1. Tåg, Joacim. 2019. “IFN:s forskningsprogram globaliseringen och företagen 2009–2019.” In *IFN 1939–2019 – 80 år av ekonomisk forskning*, edited by Magnus Henrekson, 29–48. Stockholm: Ekerlids Förlag. [PDF](/assets/pdfs/Tag2019.pdf)
 
-1. Norbäck, P-J., L. Persson and J. Tåg. 2018. “Private Equity Buyouts: Anti- or Pro-Competitive?.” CPI Antitrust Chronicle 1: 31–34.
+1. Norbäck, Pehr-Johan, Lars Persson, and Joacim Tåg. 2018. “Private Equity Buyouts: Anti- or Pro-Competitive?” *CPI Antitrust Chronicle* 1 (January): 31–36. [SSRN](https://doi.org/10.2139/ssrn.3128858).
 
-1. Olsson, M. and J. Tåg. 2017. “Påverkar riskkapitalinvesteringar anställda och samhällsekonomin?” Ekonomisk Debatt, 8/2017: 26-36.
+1. Olsson, Martin, and Joacim Tåg. 2017. “Påverkar riskkapitalinvesteringar anställda och samhällsekonomin?” *Ekonomisk Debatt* 8: 26–36. [PDF](https://www.nationalekonomi.se/sites/default/files/NEFfiler/45-8-mojt.pdf)
 
-1. Koptyug, N., L. Persson, R. Svensson, and J. Tåg. 2017. “Aktiemarknadens betydelse för näringslivet och samhällsekonomin.” Ekonomisk Debatt 7/2017:6-17.
+1. Koptyug, Nikita, Lars Persson, Roger Svensson, and Joacim Tåg. 2017. “Aktiemarknadens betydelse för näringslivet och samhällsekonomin.” *Ekonomisk Debatt* 7: 6–17. [PDF](https://www.nationalekonomi.se/sites/default/files/NEFfiler/45-7-nklprsjt.pdf)
 
-1. Tåg, J. 2016. “Forskningsprogrammet Globaliseringen och företagen.” Slutredovisning avseende juli 2011 – juni 2016.
+1. Tåg, Joacim. 2016. Forskningsprogrammet Globaliseringen och företagen. Stockholm: IFN.
 
-1. Economides, N. and J. Tåg. 2013. “Net Neutrality and Net Management Regulation: Quality of Service, Price Discrimination, and Exclusive Contracts.” In Research Handbook on Governance of the Internet, edited by Ian Brown, 121–143. Cheltenham: Edward Elgar.
+1. Economides, Nicholas, and Joacim Tåg. 2013. “Network Neutrality and Network Management Regulation: Quality of Service, Price Discrimination, and Exclusive Contracts.” In *Research Handbook on Governance of the Internet*, edited by Ian Brown, 121–43. Cheltenham: Edward Elgar. [SSRN](https://dx.doi.org/10.2139/ssrn.2045623)
 
-1. Tåg, J. 2013. “Riskkapital till entreprenörer: Vilken roll spelar finansmarknaderna, skattepolitiken och arbetsmarknadsregleringarna?” In Swedish Economic Forum Report 2013: Institutioner och Incitament för Innovation, edited by Pontus Braunerhjelm, 31–44. Stockholm: Entreprenörskapsforum.
+1. Tåg, Joacim. 2013. “Riskkapital till entreprenörer: Vilken roll spelar finansmarknaderna, skattepolitiken och arbetsmarknadsregleringarna?” In *Swedish Economic Forum Report 2013: Institutioner och Incitament för Innovation*, edited by Pontus Braunerhjelm, 121–43. Stockholm: Entreprenörskapsforum. [PDF](/assets/pdfs/Tag2013.pdf)
 
-1. Economides, N. and J. Tåg. 2012. “Modelling the welfare effects of network neutrality regulation: A response to Caves’s comment.” Information Economics and Policy 24:293.
+1. Economides, Nicholas, and Joacim Tåg. 2012. “Modelling the Welfare Effects of Network Neutrality Regulation: A Response to Caves’s Comment.” *Information Economics and Policy* 24 (3–4): 293. [https://doi.org/10.1016/j.infoecopol.2012.08.004](https://doi.org/10.1016/j.infoecopol.2012.08.004).
 
-1. Tåg, J. 2012. “The Real Effects of Private Equity Buyouts.” In The Oxford Handbook of Private Equity, edited by Douglas Cumming, 269–299. Oxford: Oxford University Press.
+1. Tåg, Joacim. 2012. “Real Effects of Private Equity.” In *The Oxford Handbook of Private Equity*, edited by Douglas Cumming, 269–99. Oxford: Oxford University Press. [SSRN](https://dx.doi.org/10.2139/ssrn.1674759)
 
-1. Persson, L. and Tåg, J. 2010. “Book Review: Antitrust and Regulation in the EU and US: Legal and Economic Perspectives.” Journal of Economic Literature 48:1051–1053.
+1. Tåg, Joacim. 2011. “Utköpsbolagens roll i näringslivet.” IFN Newsletter 2: 1–5. [PDF](/assets/pdfs/Tag2011.pdf)
 
-1. Tåg, J. 2009. “Policies och Regleringar i Telekommunikations-, Media- och Teknologiindustrierna.” Ekonomiska Samfundets Tidskrift 2/09:83–87.
+1. Persson, Lars, and Joacim Tåg. 2010. “Book Review: Antitrust and Regulation in the EU and US: Legal and Economic Perspectives.” *Journal of Economic Literature* 48 (4): 1028–59. [https://doi.org/10.1257/jel.48.4.1028](https://doi.org/10.1257/jel.48.4.1028).
 
-1. Tåg, J. 2008. “Essays on Platforms: Business Strategies, Regulation and Policy in Telecommunications, Media and Technology Industries.” PhD diss., Economics and Society, Hanken School of Economics.
+1. Tåg, Joacim. 2009. “Essays on Platforms: Business Strategies, Regulation and Policy in Telecommunications, Media and Technology Industries.” Helsinki: Hanken School of Economics. [http://urn.fi/URN:ISBN:978-952-232-009-4](http://urn.fi/URN:ISBN:978-952-232-009-4).
+
+1. Tåg, Joacim. 2009. “Policies och regleringar i telekommunikations-, media- och teknologiindustrierna.” *Ekonomiska Samfundets Tidskrift* 2/09: 83–87. [PDF](/assets/pdfs/Tag2009_EST.pdf)
 
 ## Grants and Awards
 
