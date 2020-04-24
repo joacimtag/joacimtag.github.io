@@ -85,7 +85,7 @@ layout: default
 
 1. Koptyug, Nikita, Lars Persson, Roger Svensson, and Joacim Tåg. 2017. “Aktiemarknadens betydelse för näringslivet och samhällsekonomin.” *Ekonomisk Debatt* 7: 6–17. [PDF](https://www.nationalekonomi.se/sites/default/files/NEFfiler/45-7-nklprsjt.pdf)
 
-1. Tåg, Joacim. 2016. Forskningsprogrammet Globaliseringen och företagen. Stockholm: IFN.
+1. Tåg, Joacim. 2016. Forskningsprogrammet Globaliseringen och företagen. Stockholm: IFN. [PDF](/assets/pdfs/Tag2016.pdf)
 
 1. Economides, Nicholas, and Joacim Tåg. 2013. “Network Neutrality and Network Management Regulation: Quality of Service, Price Discrimination, and Exclusive Contracts.” In *Research Handbook on Governance of the Internet*, edited by Ian Brown, 121–43. Cheltenham: Edward Elgar. [SSRN](https://dx.doi.org/10.2139/ssrn.2045623)
 
