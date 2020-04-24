@@ -169,7 +169,7 @@ layout: default
 
 ### Dissertation reviews
 
-* **2020-09-03** Johan Mellberg, NHH, doctorate
+* **2020-06-24** Johan Mellberg, NHH, doctorate
 * **2019-09-30** Mehmet Caglar Kaya, Lund University, doctorate
 * **2019-06-26** Daniel Jahnson, Uppsala University, doctorate
 * **2018-04-13** Osmis Habte, Lund University, doctorate
