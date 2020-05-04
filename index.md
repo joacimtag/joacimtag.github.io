@@ -14,7 +14,7 @@ Keloharju, M., S. Knüpfer, and J. Tåg. 2020. "<a href="http://ssrn.com/abstrac
 * Boards hire and fire CEOs based on imperfect information. Using comprehensive data on 28 cohorts in Sweden, we analyze the role of CEO health in corporate governance. Boards hire CEOs who are healthier than other high-skill professionals, in particular in mental health. After hiring, CEOs’ health develops similarly to a control group of executives. Health predicts turnover, measured at appointment and during tenure. These results are consistent with boards appointing CEOs with health robust enough to withstand the pressures of the job, correcting mismatches occurring at the time of appointment, and responding expediently to health shocks.
 
 
-* <em>Presentations</em>: Aalto, BI, HU-Berlin, IFN, KI, LU, TSE, Bologna, Hannover, FEIBS, and the LFG Workshop at Booth.
+* <em>Presentations</em>: Aalto, BI, EFA (scheduled), HU-Berlin, IFN, KI, LU, TSE, Bologna, Hannover, FEIBS, and the LFG Workshop at Booth.
 
 Keloharju, M., S. Knüpfer, and J. Tåg. 2019. "<a href="https://ssrn.com/abstract=2730207" target="_blank" rel="noopener noreferrer">What Prevents Women from Reaching the Top?</a>" Revise and Resubmit at <em>Management Science</em>.
 * We show that women are about one-half as likely to be large-company CEOs and about one-third less likely to be high earners than men. A wide range of observables do not explain the lack of women in top executive positions. Instead, slow career progression in the five years after the first childbirth explains most of the female disadvantage. 
@@ -31,4 +31,5 @@ Olsson, M. and J. Tåg. 2017. "<a href="https://doi.org/10.1086/690712" target="
 <!--* **2020-03-26** Presentation at the IFN Firms and Labor Workshop in Stockholm -->
 * **2020-06-10** Discussion at the 3rd Nordic Initiative in Corporate Economics Conference in Copenhagen
 * **2020-08-17** Organizing the first European workshop of the Labor and Finance Group at IFN. More information [here](https://www.ifn.se/eng/events/conferences-courses/lfg).
+* **2020-08-20**  <a href="http://ssrn.com/abstract=3560071" target="_blank" rel="noopener noreferrer">CEO Health and Corporate Governance</a> to be presented at EFA 2020.
 <!--*  * **2020-09-02** Seminar at NHH in Bergen -->
