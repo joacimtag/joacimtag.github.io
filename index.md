@@ -29,7 +29,8 @@ Olsson, M. and J. Tåg. 2017. "<a href="https://doi.org/10.1086/690712" target="
 ### News and Events
 * **2020-03-25** New working paper: <a href="http://ssrn.com/abstract=3560071" target="_blank" rel="noopener noreferrer">CEO Health and Corporate Governance</a> joint with Matti Keloharju and Samuli Knüpfer
 <!--* **2020-03-26** Presentation at the IFN Firms and Labor Workshop in Stockholm -->
-* **2020-06-10** Discussion at the 3rd Nordic Initiative in Corporate Economics Conference in Copenhagen
+<!--** **2020-06-10** Discussion at the 3rd Nordic Initiative in Corporate Economics Conference in Copenhagen -->
+* **2020-05-27** Presentating at the IFN Labor, Firms and Entrepreneurship Workshop.
 * **2020-08-17** Organizing the first European workshop of the Labor and Finance Group at IFN. More information [here](https://www.ifn.se/eng/events/conferences-courses/lfg).
-* **2020-08-20**  <a href="http://ssrn.com/abstract=3560071" target="_blank" rel="noopener noreferrer">CEO Health and Corporate Governance</a> to be presented at EFA 2020.
+* **2020-08-20**  Presenting <a href="http://ssrn.com/abstract=3560071" target="_blank" rel="noopener noreferrer">CEO Health and Corporate Governance</a> at EFA 2020.
 <!--*  * **2020-09-02** Seminar at NHH in Bergen -->

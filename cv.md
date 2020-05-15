@@ -195,7 +195,6 @@ layout: default
 * **2006** Teaching Assistant, Economics of Strategy
 * **2004** Teaching Assistant, Principles of Economics
 
-
 ## Media
 
 ### Policy seminars organized
