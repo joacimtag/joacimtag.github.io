@@ -283,15 +283,15 @@ layout: default
 
 ### Departmental Service
 
+- **2020-** Seminar series organizer
 - **2018-** Founder and chair of the Firms, Labor, and Entrepreneurship Research Group (FAME)
 - **2017-** Recruitment committee member
 - **2009-** Arranged with affiliations for Matti Keloharju, Samuli Knupfer, Kaveh Majlesi, Marco Pagano, and Annalisa Scognamiglio
 - **2009-2018** Responsible for setting up and maintaining the IFN Corporate Database
-- **2009-2011** Responsible for the seminar series
+- **2009-2011** Seminar series organizer
 
 ### Internal Presentations
 
-- **2020** Research presentation for potential financiers, Höganäs (scheduled)
 - **2020** Research presentation for the board, Stockholm
 - **2019** Research presentation for Tillväxtanalys, Stockholm
 - **2019** Research presentation at Karolinska Institutet, Stockholm
