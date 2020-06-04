@@ -111,25 +111,20 @@ layout: default
 * **2018** Torsten Söderbergs Stiftelse (PI)
 * **2016** Marianne and Marcus Wallenberg Foundation (participant)
 * **2015** Svenska Fondhandlare-föreningens Understödsfond (participant)
-* **2011** Vinnova (participant)
-* **2011** Marianne and Marcus Wallenberg Foundation (participant)
-* **2011** Jan Wallander and Tom Hedelius Foundation (participant)
+* **2011** Vinnova (participant), Marianne and Marcus Wallenberg Foundation (participant), Jan Wallander and Tom Hedelius Foundation (participant)
 * **2009** OMX Nasdaq Foundation (participant)
 * **2008** NET Institute (PI)
-* **2006** Hanken Foundation (PI)
-* **2006** ASLA-Fulbright (PI)
+* **2006** Hanken Foundation (PI), ASLA-Fulbright (PI)
 
 ### Awards
 
 * **2009** Society of Swedish Literature in Finland prize for PhD Thesis
 * **2005** Yrjö Jahnsson Foundation Master’s Thesis Award
 
-
 ## Presentations
 
 ### Invited presentations
 
-* **2020** NHH Bergen
 * **2019** Aalto University, Lund University
 * **2018** CSEF, Örebro University, Ministry of Finance 
 * **2017** Stockholm Business School, Swedish House of Finance
@@ -164,7 +159,7 @@ layout: default
 
 ### Conference discussions or attendance
 
-* **2020** Nordic Initiative in Corporate Economics Conference (scheduled), Labor and Finance Group Conference
+* **2020** Nordic Initiative in Corporate Economics Conference (scheduled), Labor and Finance Group Conference (scheduled)
 * **2019** KWC Conference on Entrepreneurial Finance, BI Corporate Governance Conference, SEF Conference on Finance, Labor and Inquality
 * **2018** SBS Conference on Board Diversity Quotas, Labor and Finance Group Conference, 28th Mitsui Finance Symposium, IFN Stockholm Conference, Nordic Initiative in Corporate Economics
 * **2017** EFA, FOM Working Group Conference, CEPR Workshop on Entrepreneurship Economics
@@ -188,8 +183,7 @@ layout: default
 * Canadian Journal of Economics, Economic Inquiry, Economic Journal, Games and Economic Behavior, Information Economics and Policy, Information Systems Research, International Journal of Industrial Organization, Journal of Business Venturing, Journal of Economic Behaviour and Organization, Journal of Economic Geography, Journal of Economics & Management Strategy, Journal of the European Economic Association, Journal of Labor Economics, Journal of Media Economics, Management Science, Review of Network Economics, Small Business Economics, Strategic Entrepreneurship Journal, Strategic Management Journal, Telecommunications Policy, Quarterly Journal of Economics. 
 
 ### Grant evaluations
-* European Research Council
-* National Science Foundation
+* European Research Council, National Science Foundation
 
 ### Academic conferences organized
 * **2020** [The Stockholm Labor and Finance Group Conference](https://www.ifn.se/eng/events/conferences-courses/lfg), Stockholm
@@ -209,31 +203,27 @@ layout: default
 
 ### Dissertation reviews
 
-* **2020-06-24** Johan Mellberg, NHH, doctorate
-* **2019-09-30** Mehmet Caglar Kaya, Lund University, doctorate
-* **2019-06-26** Daniel Jahnson, Uppsala University, doctorate
-* **2018-04-13** Osmis Habte, Lund University, doctorate
-* **2016-06-03** Sebastian Escobar, Uppsala University, licentiate
+* **2020** Johan Mellberg (NHH, doctorate)
+* **2019** Mehmet Caglar Kaya (Lund University, doctorate), Daniel Jahnson (Uppsala University, doctorate)
+* **2018** Osmis Habte (Lund University, doctorate)
+* **2016** Sebastian Escobar (Uppsala University, licentiate)
 
 ### Grading comittee membership
-* **2020-06-09** Niklas Blomqvist, Stockholm University, doctorate
-* **2020-05-14** Polina Knutsson, Lund University, doctorate
+* **2020** Niklas Blomqvist (Stockholm University, doctorate), Polina Knutsson (Lund University, doctorate)
 
 ## Teaching
 
 ### Lund University
-* **2013** Lecturer, IO and Corporate Finance Theory, PhD level course
+* **2013** IO and Corporate Finance Theory (Lecturer, PhD level course)
 
 ###  Stockholm School of Economics
-* **2010** Lecturer, 4301-Corporate Finance Theory, MSc level course
+* **2010** Corporate Finance Theory (Lecturer, MSc level course)
 
 ### Hanken School of Economics
-* **2008** Teaching Assistant, Economics of Strategy
-* **2008** Teaching Assistant, Strategic Competition
-* **2007** Teaching Assistant, Microeconomic Analysis 
-* **2007** Teaching Assistant, Strategic Competition
-* **2006** Teaching Assistant, Economics of Strategy
-* **2004** Teaching Assistant, Principles of Economics
+* **2008** Economics of Strategy (TA), Strategic Competition (TA)
+* **2007** Microeconomic Analysis (TA), Strategic Competition (TA)
+* **2006** Economics of Strategy (TA)
+* **2004** Principles of Economics (TA)
 
 ## Media
 
