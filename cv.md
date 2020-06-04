@@ -129,20 +129,60 @@ layout: default
 
 ### Invited presentations
 
-* NHH Bergen (2020), Aalto University (2019), Lund University (2019), CSEF (2018), Örebro University (2018), Ministry of Finance (2018), Stockholm Business School (2017), Swedish House of Finance (2017), Oxford University (2016, co-presenter), Stockholm University (2016), Uppsala University (2016, 2014), Linnaeus University (2016), IFN (2016, 2014, 2007), CBS (2015), University of Mannheim (2015), HECER (2014), Lund University (2014), Statistics Sweden (2014), RATIO (2013), NHH (2013), University of Illinois at Urbana-Champaign (2012), EIEF (2012), University of Gothenburg (2012), KTH (2011) SIFR (2011), DG Competition (2010), SSE (2010), ParisTech Telecom (2010), Microsoft Research (2008).
+* **2020** NHH Bergen
+* **2019** Aalto University, Lund University
+* **2018** CSEF, Örebro University, Ministry of Finance 
+* **2017** Stockholm Business School, Swedish House of Finance
+* **2016** Oxford University, Stockholm University, Uppsala University, Linnaeus University, IFN
+* **2015** CBS, University of Mannheim
+* **2014** Uppsala University, IFN, HECER, Lund University, Statistics Sweden
+* **2013** NHH Bergen, RATIO
+* **2012** University of Illinois at Urbana-Champaign, EIEF, University of Gothenburg
+* **2011** SIFR, KTH
+* **2010** DG Competition, SSE, ParisTech Telecom
+* **2008** Microsoft Research
+* **2007** IFN
 
 ### Conference presentations
 
-* EFA(2020), IFN Workshop of Firms and Labor (2020), 2nd Joint BOE/FED/ECB Conference on Gender and Career Progression (2019), Labor and Finance Group Conference at Chicago Booth (2019), 2nd Nordic Initiative in Corporate Economics Conference (2019), IFN Workshop of Firms and Labor (2019), Registerforskardagen (2018), National Conference of Swedish Economists (2018, 2016, 2011, 2010), European Economic Association (2009-2013, 2018), SOLE (2018), AEA (2018, 2012), AFA (2018, 2017), Uppsala Conference on Gender and Labor Markets (2017), 1st Ecole Hoteliere de Lausanne Annual Private Markets Research Conference (2017), IFN Stockholm Conference (2017, 2015, 2013, 2012, 2011, 2010, 2009), The Fifth Oxford Residence Week for Entrepreneurship Scholars (2016), Ninth LBS Private Equity Symposium (2016), Third International ZEW Conference on the Dynamics of Entrepreneurship (2016), CSEF-EIEF-SITE Conference on Finance and Labor (2015), Darden and Cambridge Judge Entrepreneurship and Innovation Research Conference (2015), Conference on Entrepreneurship and Finance in memory of Ola Bengtsson (2015), SIFR Conference on The Financial Economics of Innovation and Entrepreneurship (2014, co-presenter), FOM Working Group Conference (2013, co-presenter), CEPR Workshop on the Economics of Entrepreneurship (2013), Swedish Economic Forum (2013), SHOF Workshop (2012), EFA (2012), KWC Finance Conference (2011), Conference on the Economics of ICT (2011), EARIE (2011, 2009, 2008, 2007), International Economic Association (2011), Entreprenörskapsforum/IFN workshop on Entrepreneurship, Industrial Development and Growth (2011),  ZEW Conference on the Economics of ICT (2010, 2008), CAF Summer Research Conference (2009), SNEE Conference on European Integration in Swedish Economic Research (2009), NET Institute Conference (2009), IIOC (2009), Ung Forskardag (2009), FDPE Microeconomics and IO Workshop (2008, 2007, 2006, 2005), The 36th Research Conference on Communication, Information and Internet Policy (2008, co-presenter) NYU/CeDER Workshop on the Economics of IT (2006).
+* **2020** EFA (scheduled), IFN Workshop of Firms and Labor Markets
+* **2019** 2nd Joint BOE/FED/ECB Conference on Gender and Career Progression, Labor and Finance Group Conference at Chicago Booth, 2nd Nordic Initiative in Corporate Economics Conference, IFN Workshop of Firms and Labor Markets
+* **2018** EEA, SOLE, AFA, ASSA, Registerforskardagen, National Conference of Swedish Economists
+* **2017** AFA, Uppsala Conference on Gender and Labor Markets, 1st Ecole Hoteliere de Lausanne Annual Private Markets Research Conference, IFN Stockholm Conference
+* **2016** National Conference of Swedish Economists, The Fifth Oxford Residence Week for Entrepreneurship Scholars, Ninth LBS Private Equity Symposium, Third International ZEW Conference on the Dynamics of Entrepreneurship 
+* **2015** IFN Stockholm Conference, CSEF-EIEF-SITE Conference on Finance and Labor, Darden and Cambridge Judge Entrepreneurship and Innovation Research Conference, Conference on Entrepreneurship and Finance in memory of Ola Bengtsson
+* **2014** SIFR Conference on The Financial Economics of Innovation and Entrepreneurship, 
+* **2013** EEA, FOM Working Group Conference, CEPR Workshop on the Economics of Entrepreneurship, Swedish Economic Forum, IFN Stockholm Conference 
+* **2012** EFA, EEA, ASSA, IFN Stockholm Conference, SHOF Workshop
+* **2011** EEA, EARIE, National Conference of Swedish Economists, IFN Stockholm Conference, KWC Finance Conference, Entreprenörskapsforum/IFN workshop on Entrepreneurship, Industrial Development and Growth
+* **2010** EEA, National Conference of Swedish Economists, IFN Stockholm Conference, Conference on the Economics of ICT, International Economic Association, ZEW Conference on the Economics of ICT 
+* **2009** EEA, EARIE, IIOC, IFN Stockholm Conference, CAF Summer Research Conference, SNEE Conference on European Integration in Swedish Economic Research, NET Institute Conference, Ung Forskardag
+* **2008** EARIE, ZEW Conference on the Economics of ICT, FDPE Microeconomics and IO Workshop, The 36th Research Conference on Communication, Information and Internet Policy 
+* **2007** EARIE, FDPE Microeconomics and IO Workshop 
+* **2006** FDPE Microeconomics and IO Workshop, NYU/CeDER Workshop on the Economics of IT 
+* **2005** FDPE Microeconomics and IO Workshop 
 
 ### Conference discussions or attendance
 
-* 3rd Nordic Initiative in Corporate Economics Conference (2020), KWC Conference on Entrepreneurial Finance (2019), BI Corporate Governance Conference(2019), CSEF Conference on Finance, Labor and Inquality (2019), SBS Conference on Board Diversity Quotas (2018), Labor and Finance Group Conference (2018), 28th Mitsui Finance Symposium (2018), IFN Stockholm Conference (2018, 2014, 2008), Nordic Initiative in Corporate Economics (2018), EFA (2017, 2016), FOM Working Group Conference (2017, 2016, 2015), CEPR Workshop on Entrepreneurship Economics (2017, 2015), SHOF Workshop (2016, 2013, 2012),CSEF-EIEF-SITE Conference on Finance and Labor (2016), Swedish House of Finance Corporate Finance Symposium (2016), CEPR Conference on Entrepreneurial Finance (2014), HEC Conference on Entrepreneurship (2013), CEPR Finance and Real Economy Conference (2012), SIFR Conference on the Governance of Financial Intermediaries (2009), Google Workshop (2009), IFN Nordic Workshop on Electricity Economics (2008), NET Institute Conference (2008), SIFR Workshop on the Economics of the Private Equity Market (2007), AEA Meetings (2007), 4th Workshop on Media Economics (2006), NYU IO-Day (2006), GESY Summer School Bronnbach (2005), ENCORE Summer School (2005).
+* **2020** Nordic Initiative in Corporate Economics Conference (scheduled), Labor and Finance Group Conference
+* **2019** KWC Conference on Entrepreneurial Finance, BI Corporate Governance Conference, SEF Conference on Finance, Labor and Inquality
+* **2018** SBS Conference on Board Diversity Quotas, Labor and Finance Group Conference, 28th Mitsui Finance Symposium, IFN Stockholm Conference, Nordic Initiative in Corporate Economics
+* **2017** EFA, FOM Working Group Conference, CEPR Workshop on Entrepreneurship Economics
+* **2016** EFA, FOM Working Group Conference
+* **2015** FOM Working Group Conference, CEPR Workshop on Entrepreneurship Economics
+* **2014** IFN Stockholm Conference, CEPR Conference on Entrepreneurial Finance
+* **2013** HEC Conference on Entrepreneurship
+* **2012** CEPR Finance and Real Economy Conference
+* **2009** SIFR Conference on the Governance of Financial Intermediaries, Google Workshop
+* **2008** IFN Stockholm Conference, IFN Nordic Workshop on Electricity Economics, NET Institute Conference
+* **2007** ASSA, SIFR Workshop on the Economics of the Private Equity Market
+* **2006** 4th Workshop on Media Economics, NYU IO-Day
+* **2005** GESY Summer School Bronnbach, ENCORE Summer School
 
 ## Professional service
 
 ### Editorial boards
-* **2017--** Journal of Business Venturing
+* **2017-** Journal of Business Venturing
 
 ### Referee reports
 * Canadian Journal of Economics, Economic Inquiry, Economic Journal, Games and Economic Behavior, Information Economics and Policy, Information Systems Research, International Journal of Industrial Organization, Journal of Business Venturing, Journal of Economic Behaviour and Organization, Journal of Economic Geography, Journal of Economics & Management Strategy, Journal of the European Economic Association, Journal of Labor Economics, Journal of Media Economics, Management Science, Review of Network Economics, Small Business Economics, Strategic Entrepreneurship Journal, Strategic Management Journal, Telecommunications Policy, Quarterly Journal of Economics. 
