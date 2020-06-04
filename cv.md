@@ -176,8 +176,8 @@ layout: default
 * **2016-06-03** Sebastian Escobar, Uppsala University, licentiate
 
 ### Grading comittee membership
-* **2020-05-14** Polina Knutsson, Lund University, doctorate
 * **2020-06-09** Niklas Blomqvist, Stockholm University, doctorate
+* **2020-05-14** Polina Knutsson, Lund University, doctorate
 
 ## Teaching
 
