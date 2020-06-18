@@ -281,7 +281,7 @@ layout: default
 * HBS Working Knowledge: Researchers prove C-suite gender gap—but can’t explain it (March 2016).
 * Helsingin Sanomat: Mies- ja naisjohtajien palkkaeroa eivät selitä ominaisuudet vaan syrjintä (February 2016).
 * Huvudstadsbladet: Finland behöver fler kvinnliga företagare (April 2019).
-* IFNs Poddradio: Familjebildning påverkar kvinnliga chefers karriär (October 2017)
+* IFNs Poddradio: Vd:ars hälsa en styrelsefråga (2020), Familjebildning påverkar kvinnliga chefers karriär (October 2017)
 * Iltalehti: Suomalaistutkimus todistaa – lasikatto on totta (February 2016).
 * Metro: Expert: Svårt för Sverige att hävda sig (August 2012)
 * Nordic Business Report: What Sweden can teach us about equal opportunity and gender gaps (April 2016)
