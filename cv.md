@@ -242,7 +242,7 @@ layout: default
 * **2013** Riskkapitaliserna bygger landet, Timbro, Stockholm
 * **2013** Riskkapitalet i praktiken – så påverkas företag och samhälle, SNS Måndagsklubb, Stockholm
 
-### Opinion pieces 
+### Op-eds
 1. Tåg, J. Dessa egenskaper har toppchefer, Vaasa Insider, November 2019.
 2. Hellmann, T., A. Montag, and J. Tåg. Foreign Investors and Domestic Company Growth: Evidence from US Venture Capital Investments in Sweden, Tuck Center Forum for PE & VC, June 2019.
 3. Norbäck, PJ. L. Person and J. Tåg, Private Equity Buyouts: Anti- or Pro-Competitive?, Tuck Center Forum for PE & VC, June 2019.
