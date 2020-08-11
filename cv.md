@@ -245,29 +245,17 @@ layout: default
 ### Op-eds
 
 1. Tåg, Joacim. “Dessa egenskaper har toppchefer.” *Botnia Insider*, November 28, 2019.
-
 1. Tåg, Joacim. “Dessa egenskaper har toppchefer.” *Vaasa Insider*, November 11, 2019.
-
 1. Hellmann, Thomas, Alexander Montag, and Joacim Tåg. “Foreign Investors and Domestic Company Growth: Evidence from US Venture Capital Investments in Sweden.” *Tuck Center Forum for PE & VC*, April 11, 2019.
-
 1. Norbäck, Pehr-Johan, Lars Persson, and Joacim Tåg. “Private Equity Buyouts: Anti- or Pro-Competitive?” *Tuck Center Forum for PE & VC*, June 2019.
-
 1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. “Så når fler kvinnor toppen.” *Dagens Industri*, October 19, 2018.
-
 1. Tåg, Joacim. “Så viktig är Teslas batterifabrik för Österbotten.” *Vaasa Insider*, July 2018.
-
 1. Ljungqvist, Alexander, Lars Persson, and Joacim Tåg. “Private Equity’s Unintended Dark Side.” *CLS Blue Sky Blog*, February 17, 2016.
-
 1. Olsson, Martin, and Joacim Tåg. “Private Equity: Transformation or Tax Evasion?” *IFN Newsletter*, January 2015.
-
 1. Lerner, Josh, and Joacim Tåg. “Mer måste göras nu för framtida tillväxt.” *Svenska Dagbladet*, July 13, 2012.
-
 1. Jordahl, Henrik, and Joacim Tåg. “Riskkapitalbolag är bra ägare.” *Svenska Dagbladet*, November 2011.
-
 1. Tåg, Joacim. “Utköpsbolagens roll i näringslivet.” *IFN Newsletter*, 2011.
-
 1. Guo, Hong, Hsing K Cheng, Scott Holladay, Joacim Tåg, and Subhajyoti Bandyopadhyay. “Building a Better Net?” *Politico*, September 22, 2010.
-
 1. Henrekson, Magnus, and Joacim Tåg. “Henrekson & Tåg vill höja teveavgiften.” *Arena*, November 2009.
 
 
