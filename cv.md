@@ -159,7 +159,7 @@ layout: default
 
 ### Conference discussions or attendance
 
-* **2020** Nordic Initiative in Corporate Economics Conference (scheduled), Labor and Finance Group Conference (scheduled)
+* **2020** Labor and Finance Group Conference (scheduled)
 * **2019** KWC Conference on Entrepreneurial Finance, BI Corporate Governance Conference, SEF Conference on Finance, Labor and Inquality
 * **2018** SBS Conference on Board Diversity Quotas, Labor and Finance Group Conference, 28th Mitsui Finance Symposium, IFN Stockholm Conference, Nordic Initiative in Corporate Economics
 * **2017** EFA, FOM Working Group Conference, CEPR Workshop on Entrepreneurship Economics
@@ -257,19 +257,6 @@ layout: default
 1. Tåg, Joacim. “Utköpsbolagens roll i näringslivet.” *IFN Newsletter*, 2011.
 1. Guo, Hong, Hsing K Cheng, Scott Holladay, Joacim Tåg, and Subhajyoti Bandyopadhyay. “Building a Better Net?” *Politico*, September 22, 2010.
 1. Henrekson, Magnus, and Joacim Tåg. “Henrekson & Tåg vill höja teveavgiften.” *Arena*, November 2009.
-
-
-
-
-
-
-
-
- 
-
-
-
-
 
 ### Interviews and research mentions
 * Affärsvärlden: Forskare: Mix bluffar om jobben (December 2011).
