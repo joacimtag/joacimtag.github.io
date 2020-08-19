@@ -27,9 +27,6 @@ Olsson, M. and J. Tåg. 2017. "<a href="https://doi.org/10.1086/690712" target="
 * <em>Presentations</em>: EEA, EFA, EIEF, IFN, KTH, NHH, LU, Ratio, SHOF, KU, GU, and Illinois.
 
 ### News and Events
-* **2020-06-24** [IFN Podcast](https://ifnpodcast.libsyn.com/vdars-hlsa-en-styrelsefrga) out covering <a href="http://ssrn.com/abstract=3560071" target="_blank" rel="noopener noreferrer">CEO Health and Corporate Governance</a> (in Swedish).
-* **2020-07-29**  [Expressen](https://www.expressen.se/dinapengar/paren-som-drar-in-mest-pengar-sok-dar-du-bor/) covers <a href="https://ssrn.com/abstract=2730207" target="_blank" rel="noopener noreferrer">What Prevents Women from Reaching the Top?</a> (in Swedish).
-* **2020-08-17** Organizing the first European workshop of the Labor and Finance Group at IFN. More information [here](https://www.ifn.se/eng/events/conferences-courses/lfg).
-* **2020-08-20**  Presenting <a href="http://ssrn.com/abstract=3560071" target="_blank" rel="noopener noreferrer">CEO Health and Corporate Governance</a> at EFA 2020.
+* **2020-08-21**  Presenting <a href="http://ssrn.com/abstract=3560071" target="_blank" rel="noopener noreferrer">CEO Health and Corporate Governance</a> at EFA 2020.
 * **2021-01-03**  <a href="http://ssrn.com/abstract=3560071" target="_blank" rel="noopener noreferrer">CEO Health and Corporate Governance</a> scheduled to be presented at AFA 2021.
 
