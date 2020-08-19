@@ -159,7 +159,7 @@ layout: default
 
 ### Conference discussions or attendance
 
-* **2020** Labor and Finance Group Conference
+* **2020** Labor and Finance Group Conference, EEA
 * **2019** KWC Conference on Entrepreneurial Finance, BI Corporate Governance Conference, SEF Conference on Finance, Labor and Inquality
 * **2018** SBS Conference on Board Diversity Quotas, Labor and Finance Group Conference, 28th Mitsui Finance Symposium, IFN Stockholm Conference, Nordic Initiative in Corporate Economics
 * **2017** EFA, FOM Working Group Conference, CEPR Workshop on Entrepreneurship Economics
