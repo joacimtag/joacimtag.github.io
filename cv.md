@@ -159,7 +159,7 @@ layout: default
 
 ### Conference discussions or attendance
 
-* **2020** Labor and Finance Group Conference (scheduled)
+* **2020** Labor and Finance Group Conference
 * **2019** KWC Conference on Entrepreneurial Finance, BI Corporate Governance Conference, SEF Conference on Finance, Labor and Inquality
 * **2018** SBS Conference on Board Diversity Quotas, Labor and Finance Group Conference, 28th Mitsui Finance Symposium, IFN Stockholm Conference, Nordic Initiative in Corporate Economics
 * **2017** EFA, FOM Working Group Conference, CEPR Workshop on Entrepreneurship Economics
@@ -186,7 +186,7 @@ layout: default
 * European Research Council, National Science Foundation
 
 ### Academic conferences organized
-* **2020** [The Stockholm Labor and Finance Group Conference](https://www.ifn.se/eng/events/conferences-courses/lfg), Stockholm
+* **2020** [Labor and Finance Group Conference](https://www.ifn.se/eng/events/conferences-courses/lfg), Stockholm
 * **2013** [IFN Stockholm Conference on Industrial Organization and Corporate Finance](https://www.ifn.se/eng/events/vaxholm/past-conferences/ifnc2013), Stockholm
 * **2012** [IFN Stockholm Conference on Globalization, Organization and the Ownership of Firms](https://www.ifn.se/eng/events/vaxholm/past-conferences/ifnc2012), Stockholm
 * **2011** [IFN Stockholm Conference on Entrepreneurship, Firm Growth and Ownership Change](https://www.ifn.se/eng/events/vaxholm/past-conferences/ifnc2011), Stockholm
