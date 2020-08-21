@@ -25,8 +25,3 @@ Olsson, M. and J. Tåg. 2017. "<a href="https://doi.org/10.1086/690712" target="
 * We argue that ownership change is one driver of job polarization by showing that private equity buyouts of low productive firms are coupled with productivity enhancing investments in automation and offshoring. As a result, workers performing routine or offshorable job tasks in these firms tend to get laid off. 
 * <em>Media coverage</em>: Affärsvärlden, Dagens Industri, Dagens Nyheter, Sveriges Radio, Svenska Dagbladet.
 * <em>Presentations</em>: EEA, EFA, EIEF, IFN, KTH, NHH, LU, Ratio, SHOF, KU, GU, and Illinois.
-
-### News and Events
-* **2020-08-21**  Presenting <a href="http://ssrn.com/abstract=3560071" target="_blank" rel="noopener noreferrer">CEO Health and Corporate Governance</a> at EFA 2020.
-* **2021-01-03**  <a href="http://ssrn.com/abstract=3560071" target="_blank" rel="noopener noreferrer">CEO Health and Corporate Governance</a> scheduled to be presented at AFA 2021.
-
