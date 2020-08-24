@@ -3,7 +3,7 @@ title: CV
 layout: default
 ---
 
-# Joacim Tåg
+<p style="font-size:300%;" align="center">Joacim Tåg</p>
 
 ## Contact
 - **Mail:** Research Institute of Industrial Economics, Box 55665, SE-102 15 Stockholm, Sweden<br>
