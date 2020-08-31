@@ -278,7 +278,7 @@ layout: default
 * The Economist: Private Equity: The barbarian establishment (October 2016)
 * Entreprenör: Jakten på kapitalet: vem satsar på din affärsidé? (April 2013).
 * Expressen: Forskare: Diskriminering är enda förklaringen (February 2016), Paren som drar in mest pengar (July 2020).
-* fPlus: Forskning: Därför är amerikanskt riskkapital det bästa för Sverige  (May 2019), Familjebildning hindrar kvinnor att nå toppen (October 2018).
+* fPlus: Forskare: Därför mår din chef bättre än du (August 2020), Forskning: Därför är amerikanskt riskkapital det bästa för Sverige  (May 2019), Familjebildning hindrar kvinnor att nå toppen (October 2018).
 * Forbes: Researchers can’t scientifically explain the corporate gender gap (March 2016).
 * Forskning.no: Hvorfor blir ikke kvinner toppledere? (October 2017).
 * Gefle Dagblad: Riskkapital tryggar anställningen (March 2012), Faxanders flyttlass är på plats (October 2012), Ovako ägs av skandalbolag (November 2011), Flytten gör Sandvik Attraktivare (September 2011).
