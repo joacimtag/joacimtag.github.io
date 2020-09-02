@@ -69,7 +69,7 @@ layout: default
 
 1. Tåg, Joacim. 2013. “Production Hierarchies in Sweden.” *Economics Letters* 121 (2): 210–13. [https://doi.org/10.1016/j.econlet.2013.08.001](https://doi.org/10.1016/j.econlet.2013.08.001).
 
-1. Lerner, J., and J. Tag. 2013. “Institutions and Venture Capital.” *Industrial and Corporate Change* 22 (1): 153–82. [https://doi.org/10.1093/icc/dts050](https://doi.org/10.1093/icc/dts050).
+1. Lerner, J., and J. Tåg. 2013. “Institutions and Venture Capital.” *Industrial and Corporate Change* 22 (1): 153–82. [https://doi.org/10.1093/icc/dts050](https://doi.org/10.1093/icc/dts050).
 
 1. Economides, Nicholas, and Joacim Tåg. 2012. “Network Neutrality on the Internet: A Two-Sided Market Analysis.” *Information Economics and Policy* 24 (2): 91–104. [https://doi.org/10.1016/j.infoecopol.2012.01.001](https://doi.org/10.1016/j.infoecopol.2012.01.001).
 
