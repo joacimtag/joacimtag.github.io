@@ -301,7 +301,6 @@ layout: default
 * Yle: Forskning visar: Kvinnliga chefer mer kompetenta än manliga - trots det halkar de efter i karriären (October 2019), Den artificiella intelligensen kommer med enorma omställningar för samhället (June 2018)
 * Yle Radio Vega: Kryptovalutor (Vega Eftermiddag & Kvanthopp, October 2017), Kvinnor i näringslivet (Vega Eftermiddag, March 2017), Automatisering (Vega Eftermiddag, March 2017), Varför går det bättre för Sverige än Finland? (Vega Dag, April 2017), Kvinnor i näringslivet (Vega Eftermiddag, October 2018).
 
-
 ## Other
 
 ### Pedagogical Training
