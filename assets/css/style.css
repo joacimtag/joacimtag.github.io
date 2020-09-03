@@ -164,7 +164,8 @@ hr.linesty{
   table, pre { page-break-inside:avoid }
   ul, ol, dl  { page-break-before:avoid }
   a {
-      page-break-inside:avoid
+      page-break-inside:avoid;
+      text-decoration: none;
   }
 
 /* Exclude these from print */
