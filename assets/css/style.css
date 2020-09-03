@@ -177,4 +177,28 @@ hr.linesty{
   p, address, li, dt, dd, blockquote {
   font-size: 10pt
   }
+
+  /* unvisited link */
+  a:link {
+    color: #454545;
+    text-decoration: none;
+  }
+
+  /* visited link */
+  a:visited {
+    color: #454545;
+    text-decoration: none;
+  }
+
+  /* mouse over link */
+  a:hover {
+    color: #0051c9;
+    text-decoration: none;
+  }
+
+  /* selected link */
+  a:active {
+    color: #0051c9;
+    text-decoration: none;
+  }
 }
