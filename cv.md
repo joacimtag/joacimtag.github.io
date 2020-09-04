@@ -261,45 +261,69 @@ layout: default
 1. Henrekson, Magnus, and Joacim Tåg. “Henrekson & Tåg vill höja teveavgiften.” *Arena*, November 2009.
 
 ### Interviews and research mentions
-* Affärsvärlden: Forskare: Mix bluffar om jobben (December 2011).
-* Arbetsmarknaden: Oklara jobbeffekter av riskkapitalism (March 2012).
-* Bloomberg TV: The Incredible Shrinking Stock Market (April 2019)
-* Botnia Insider: Dessa egenskaper har toppchefer (November 2019).
-* BI Business Review: Hvorfor blir ikke kvinner toppledere? (October 2017)
-* Breakit.se: Därför blir kvinnor inte toppchefer lika ofta (och så kan det förändras) (March 2019)
-* Civilekonomen: Studie: Därför bromsas kvinnors chefskarriärer (December 2017)
-* Computer Sweden: Nätneutralitet lönar sig (October 2009)
-* Connoisseur: Riskkapitalister – Onda utsugare eller goda affärsänglar (December 2014).
-* Dagens Næringsliv: Gründere ikke best på nye jobber (November 2016)
-* Dagens Industri: Miljardregn över Nordic Capital (22 November 2013), Säkrare att jobba på köpt bolag (March 2012),
-* Forskare: Riskbolagen skapar inte fler jobb (December 2011).
-* Dagens Nyheter: Ojämlik familjebildning hindrar kvinnliga chefer från toppen (October 2018), Diskriminering bakom löneskillnad (February 2016), Svensk bingo nere för räkning (Augusti 2013).
-* Dagens Samhälle: Kan vi ha en vuxen debatt om riskkapitalbranschen? (February 2018), Kaos om de flyr välfärden (November 2013).
-* The Economist: Private Equity: The barbarian establishment (October 2016)
-* Entreprenör: Jakten på kapitalet: vem satsar på din affärsidé? (April 2013).
-* Expressen: Forskare: Diskriminering är enda förklaringen (February 2016), Paren som drar in mest pengar (July 2020).
-* fPlus: Forskare: Därför mår din chef bättre än du (August 2020), Forskning: Därför är amerikanskt riskkapital det bästa för Sverige  (May 2019), Familjebildning hindrar kvinnor att nå toppen (October 2018).
-* Forbes: Researchers can’t scientifically explain the corporate gender gap (March 2016).
-* Forskning.no: Hvorfor blir ikke kvinner toppledere? (October 2017).
-* Gefle Dagblad: Riskkapital tryggar anställningen (March 2012), Faxanders flyttlass är på plats (October 2012), Ovako ägs av skandalbolag (November 2011), Flytten gör Sandvik Attraktivare (September 2011).
-* HBS Working Knowledge: Researchers prove C-suite gender gap—but can’t explain it (March 2016).
-* Helsingin Sanomat: Mies- ja naisjohtajien palkkaeroa eivät selitä ominaisuudet vaan syrjintä (February 2016).
-* Huvudstadsbladet: Finland behöver fler kvinnliga företagare (April 2019).
-* IFNs Poddradio: Vd:ars hälsa en styrelsefråga (June 2020), Familjebildning påverkar kvinnliga chefers karriär (October 2017)
-* Iltalehti: Suomalaistutkimus todistaa – lasikatto on totta (February 2016).
-* Metro: Expert: Svårt för Sverige att hävda sig (August 2012)
-* Nordic Business Report: What Sweden can teach us about equal opportunity and gender gaps (April 2016)
-* Råd & Rön: Runda banken – ragga pengarna! (22 January 2014).
-* Shifter.no: Derfor går det bedre med gründere i Sverige enn i Norge (7 February 2018).
-* Svenska Dagbladet: "Ekonom: ”Barnstraffet” gör att glastaket inte krossas" (March 2019), Riskkapitalister kan fly landet efter rättstvist (December 2011).
-* Sveriges Radio: Ny studie spräcker myten om riskkapitalister (January 2018).
-* Talouselämä: Jäljet johtavat sylttytehtaalle (February 2016).
-* Vasabladet: Diskriminering kan ge kvinnor lägre lön (March 2016).
-* Vaasa Insider: Vasabördige forskaren Joacim Tåg: ”Ett extremt slöseri av talang att inte flera kvinnor får toppositioner” (December 2018), Dessa egenskaper har toppchefer (November 2019), Vasabördige Joacim Tåg utnämnd till docent i nationalekonomi vid Lunds universtitet (January 2020), Hur mår en VD? Bättre än en advokat, finansman eller en ingenjör? Vasabördig forskare ger svaret genom en stor svensk studie (2020)
-* Vetenskapsradion: Vad händer när välfärden får gå med vinst? (January 2013).
-* World Finance: The slow death of global stock markets (April 2019).
-* Yle: Forskning visar: Kvinnliga chefer mer kompetenta än manliga - trots det halkar de efter i karriären (October 2019), Den artificiella intelligensen kommer med enorma omställningar för samhället (June 2018)
-* Yle Radio Vega: Kryptovalutor (Vega Eftermiddag & Kvanthopp, October 2017), Kvinnor i näringslivet (Vega Eftermiddag, March 2017), Automatisering (Vega Eftermiddag, March 2017), Varför går det bättre för Sverige än Finland? (Vega Dag, April 2017), Kvinnor i näringslivet (Vega Eftermiddag, October 2018).
+1. Carlesten, Karin. 2020. “Forskare: Därför mår din chef bättre än du.” *fPlus*, August 28, 2020.
+1. Malm Öhrström, Eva. 2020. “Vd:ars hälsa en styrelsefråga.” *IFN-podden*.
+1. Skovdahl, Saga. 2020. “Paren som drar in mest pengar.” *Expressen*, July 29, 2020.
+1. Stople, Peter. 2020. “Hur mår en VD? Bättre än en advokat, finansman eller en ingenjör? Vasabördig forskare ger svaret genom en stor svensk studie.” *Vaasa Insider*, July 9, 2020
+1. Stolpe, Peter. 2020. “Vasabördige Joacim Tåg utnämnd till docent i nationalekonomi vid Lunds universitet.” *Vaasa Insider*, January 17, 2020.
+1. Mellwing, Daniel. 2019. “Forskning: Därför är amerikanskt riskkapital det bästa för Sverige.” *fPlus*, May 14, 2019.
+1. Skoglund, Kjell. 2019. “Finland behöver fler kvinnliga företagare.” *Hufvudstadsblade*t, April 19, 2019.
+1. Katsomitros, Alex. 2019. “The Slow Death of Global Stock Markets.” *World Finance*, April 5, 2019
+1. Sinclair, Sophia. 2019. “Ekonom: ”Barnstraffet” gör att glastaket inte krossas".” *Svenska Dagbladet*, March 16, 2019.
+1. Lindmark, Sara. 2019. “Därför blir kvinnor inte toppchefer lika ofta (och så kan det förändras).” *Breakit.se*, March 8, 2019. 
+1. Stople, Peter. 2018. “Vasabördige forskaren Joacim Tåg: ”Ett extremt slöseri av talang att inte flera kvinnor får toppositioner”.” *Vaasa Insider*, December 28, 2018.
+1. Westergård, Anki. 2018. “Forskning visar: Kvinnliga chefer mer kompetenta än manliga - trots det halkar de efter i karriären.”*Yle*, October 31, 2018. 
+1. Hansén, Magnus. 2018. “Kvinnor i näringslivet.” Vega Eftermiddag. *Yle*.
+1. Cale, Zoran. 2018. “Familjebildning hindrar kvinnor att nå toppen.” *fPlus*, October 18, 2018.
+1. Svenberg, Josef. 2018. “Ojämlik Familjebildning Hindrar Kvinnliga Chefer Från Toppen.” *Dagens Nyheter*, October 19, 2018.
+1. Karlsson, Simon. 2018. “Den artificiella intelligensen kommer med enorma omställningar för samhället.” *Yle*, June 20, 2018.
+1. Röckert, Thomas, and Alen Musaefendic. 2018. “Kan vi ha en vuxen debatt om riskkapitalbranschen?” *Dagens Samhälle*, February 21, 2018.
+1. Jakobsen, Johannes. 2018. “Derfor går det bedre med gründere i Sverige enn i Norge.” *Shifter.no*, February 7, 2018.
+1. Fredén, Jonas. 2018. “Ny studie spräcker myten om riskkapitalister.” *Sveriges Radio*, January 3, 2018.
+1. Precht, Elisabeth. 2017. “Familjebildning Påverkar Kvinnliga Chefers Karriär.” *IFN-Podden*.
+1. Loman, Stina. 2017. “Studie: Därför bromsas kvinnors chefskarriärer.” *Civilekonomen*, December 11, 2017.
+1. Hansén, Magnus. 2017. “Varför går det bättre för Sverige än Finland?” Vega Dag. *Yle*.
+1. Hansén, Magnus. 2017. “Kvinnor i näringslivet.” Vega Eftermiddag. *Yle*.
+1. Hansén, Magnus. 2017. “Kryptovalutor.” Vega Eftermiddag. *Yle*.
+1. Hansén, Magnus. 2017. “Automatisering.” Vega Eftermiddag. *Yle*.
+1. Farbrot, Audun. 2017. “Hvorfor blir ikke kvinner toppledere?” *BI Business Review*, October 20, 2017.
+1. Farbrot, Audun. 2017. “Hvorfor blir ikke kvinner toppledere?” *Forskning.no*, October 15, 2017.
+1. Sjåholm Knudsen, Eirik, and Bram Timmermans. 2016. “Gründere ikke best på nye jobber.” *Dagens Næringsliv*, November 25, 2016.
+1. *The Economist*. 2016. “Private Equity: The Barbarian Establishment,” October 22, 2016.
+1. Dumitru, Anca. 2016. “What Sweden Can Teach Us About Equal Opportunity and Gender Gaps.” *Nordic Business Report*, April 15, 2016. 
+1. Stople, Peter. 2016. “Diskriminering kan ge kvinnor lägre lön.” *Vasabladet*, March 29, 2016.
+1. Nobel, Carmen. 2016. “Researchers Can’t Scientifically Explain the Corporate Gender Gap.” *Forbes*, March 23, 2016. 
+1. Nobel, Carmen. 2016. “Researchers Prove C-Suite Gender Gap—but Can’t Explain It.” *HBS Working Knowledge*, March 23, 2016.
+1. Färsjö, Therese. 2016. “Forskare: Diskriminering är enda förklaringen.” *Expressen*, February 22, 2016.
+1. Eriksson, Hasse. 2016. “Diskriminering bakom löneskillnad.” *Dagens Nyheter*, February 20, 2016.
+1. Nalbantoglu, Minna. 2016. “Suomalaistutkimus löysi lasikaton: Mies- ja naisjohtajien palkkaeroa eivät selitä ominaisuudet vaan syrjintä.” *Helsingin Sanomat*, February 18, 2016.
+1. Pudas, Mari. 2016. “Suomalaistutkimus todistaa – lasikatto on totta.” *Iltalehti*, February 18, 2016.
+1. *Talouselämä*. 2016. “Jäljet johtavat sylttytehtaalle,” February 18, 2016.
+1. Wettergrund, Sven. 2014. “Riskkapitalister – Onda utsugare eller goda affärsänglar.” *Connoisseur*, December 12, 2014.
+1. Jacobsson, Ingrid. 2014. “Runda banken - ragga pengarna!” *Råd&Rön*, January 29, 2014.
+1. Ottoson, Maria. 2013. “Kaos om de flyr välfärden.” *Dagens Samhälle*, November 20, 2013.
+1. Bryngelsson, Anders. 2013. “Miljardregn över Nordic Capital.” *Dagens Industri*.
+1. Fremin, Linus. 2013. “Svensk bingo nere för räkning.” *Dagens Nyheter*, August 10, 2013.
+1. Dalqvist, Anna, and Pernilla Holmlund. 2013. “Jakten på kapitalet: vem satsar på din affärsidé?” *Entreprenör*, April 2013.
+1. Zachrisson, Niklas. 2013. “Vad Händer När Välfärden Får Gå Med Vinst?” Vetenskapsradion. *Sveriges Radio*.
+1. Wallenius, Roger. 2012. “Faxanders Flyttlass Är På Plats.” *Gefle Dagblad*, October 15, 2012.
+1. Olsson, Evelina. 2012. “Expert: Svårt för Sverige att hävda sig.” *Metro*, August 24, 2012.
+1. Harrysson, Jonas. 2012. “Riskkapital Tryggar Anställningen.” *Gefle Dagblad*, March 29, 2012.
+1. Sverenius, Torsten. 2012. “Oklara jobbeffekter av riskkapitalism.” *Arbetsmarknaden*, March 29, 2012.
+1. Munkhammar, Viktor. 2012. “Säkrare jobba i bolag ägda av riskkapitalister.” *Dagens Industri*, March 26, 2012.
+1. Törnwall, Mikael. 2012. “Säkrare att jobba på köpt bolag.” *Dagens Industri*, March 26, 2012.
+1. Carlén, Tove. 2011. “Riskkapitalister kan fly landet efter rättstvist.” *Svenska Dagbladet*, December 24, 2011.
+1. Karlberg, Lars-Anders. 2011. “Forskare: Mix bluffar om jobben.” *Affärsvärlden*, December 23, 2011.
+1. Törnwall, Mikael. 2011. “Riskbolagen skapar inte fler jobb.” *Dagens Industri*, December 23, 2011.
+1. Harrysson, Jonas. 2011. “Ovako ägs av skandalbolag.” *Gefle Dagblad*, November 21, 2011.
+1. Sundin, Niklas. 2011. “Flytten gör Sandvik attraktivare.” *Gefle Dagblad*, September 5, 2011
+1. Wallström, Martin. 2009. “Vet du vad Telekompaketet är?” *Computer Sweden*, November 10, 2009.
+1. Wallström, Martin. 2009. “Nätneutralitet lönar sig.” *Computer Sweden*, October 6, 2009.
+
+
+
+
+
 
 ## Other
 
