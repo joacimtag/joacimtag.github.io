@@ -261,10 +261,11 @@ layout: default
 1. Henrekson, Magnus, and Joacim Tåg. “Henrekson & Tåg vill höja teveavgiften.” *Arena*, November 2009.
 
 ### Interviews and research mentions
+1. Hansén, Magnus. 2020. “Kvinnliga fondförvaltare presterar bättre.” Vega Eftermiddag, *Yle*, September 8, 2020.
 1. Carlesten, Karin. 2020. “Forskare: Därför mår din chef bättre än du.” *fPlus*, August 28, 2020.
-1. Malm Öhrström, Eva. 2020. “Vd:ars hälsa en styrelsefråga.” *IFN-podden*.
+1. Malm Öhrström, Eva. 2020. “Vd:ars hälsa en styrelsefråga.” *IFN-podden*, June 28, 2020.
 1. Skovdahl, Saga. 2020. “Paren som drar in mest pengar.” *Expressen*, July 29, 2020.
-1. Stople, Peter. 2020. “Hur mår en VD? Bättre än en advokat, finansman eller en ingenjör? Vasabördig forskare ger svaret genom en stor svensk studie.” *Vaasa Insider*, July 9, 2020
+1. Stople, Peter. 2020. “Hur mår en VD? Bättre än en advokat, finansman eller en ingenjör? Vasabördig forskare ger svaret genom en stor svensk studie.” *Vaasa Insider*, July 9, 2020.
 1. Stolpe, Peter. 2020. “Vasabördige Joacim Tåg utnämnd till docent i nationalekonomi vid Lunds universitet.” *Vaasa Insider*, January 17, 2020.
 1. Mellwing, Daniel. 2019. “Forskning: Därför är amerikanskt riskkapital det bästa för Sverige.” *fPlus*, May 14, 2019.
 1. Skoglund, Kjell. 2019. “Finland behöver fler kvinnliga företagare.” *Hufvudstadsblade*t, April 19, 2019.
@@ -273,21 +274,21 @@ layout: default
 1. Lindmark, Sara. 2019. “Därför blir kvinnor inte toppchefer lika ofta (och så kan det förändras).” *Breakit.se*, March 8, 2019. 
 1. Stople, Peter. 2018. “Vasabördige forskaren Joacim Tåg: ”Ett extremt slöseri av talang att inte flera kvinnor får toppositioner”.” *Vaasa Insider*, December 28, 2018.
 1. Westergård, Anki. 2018. “Forskning visar: Kvinnliga chefer mer kompetenta än manliga - trots det halkar de efter i karriären.”*Yle*, October 31, 2018. 
-1. Hansén, Magnus. 2018. “Kvinnor i näringslivet.” Vega Eftermiddag. *Yle*.
+1. Hansén, Magnus. 2018. “Kvinnor i näringslivet.” Vega Eftermiddag. *Yle*. October, 2018.
 1. Cale, Zoran. 2018. “Familjebildning hindrar kvinnor att nå toppen.” *fPlus*, October 18, 2018.
 1. Svenberg, Josef. 2018. “Ojämlik Familjebildning Hindrar Kvinnliga Chefer Från Toppen.” *Dagens Nyheter*, October 19, 2018.
 1. Karlsson, Simon. 2018. “Den artificiella intelligensen kommer med enorma omställningar för samhället.” *Yle*, June 20, 2018.
 1. Röckert, Thomas, and Alen Musaefendic. 2018. “Kan vi ha en vuxen debatt om riskkapitalbranschen?” *Dagens Samhälle*, February 21, 2018.
 1. Jakobsen, Johannes. 2018. “Derfor går det bedre med gründere i Sverige enn i Norge.” *Shifter.no*, February 7, 2018.
 1. Fredén, Jonas. 2018. “Ny studie spräcker myten om riskkapitalister.” *Sveriges Radio*, January 3, 2018.
-1. Precht, Elisabeth. 2017. “Familjebildning Påverkar Kvinnliga Chefers Karriär.” *IFN-Podden*.
+1. Precht, Elisabeth. 2017. “Familjebildning Påverkar Kvinnliga Chefers Karriär.” *IFN-Podden*, October 20, 2020.
 1. Loman, Stina. 2017. “Studie: Därför bromsas kvinnors chefskarriärer.” *Civilekonomen*, December 11, 2017.
-1. Hansén, Magnus. 2017. “Varför går det bättre för Sverige än Finland?” Vega Dag. *Yle*.
-1. Hansén, Magnus. 2017. “Kvinnor i näringslivet.” Vega Eftermiddag. *Yle*.
-1. Hansén, Magnus. 2017. “Kryptovalutor.” Vega Eftermiddag. *Yle*.
-1. Hansén, Magnus. 2017. “Automatisering.” Vega Eftermiddag. *Yle*.
+1. Hansén, Magnus. 2017. “Kryptovalutor.” Vega Eftermiddag. *Yle*, October 2017.
 1. Farbrot, Audun. 2017. “Hvorfor blir ikke kvinner toppledere?” *BI Business Review*, October 20, 2017.
 1. Farbrot, Audun. 2017. “Hvorfor blir ikke kvinner toppledere?” *Forskning.no*, October 15, 2017.
+1. Hansén, Magnus. 2017. “Varför går det bättre för Sverige än Finland?” Vega Dag, *Yle*, April 2017.
+1. Hansén, Magnus. 2017. “Automatisering.” Vega Eftermiddag. *Yle*, March 2017.
+1. Hansén, Magnus. 2017. “Kvinnor i näringslivet.” Vega Eftermiddag. *Yle*, March 2017.
 1. Sjåholm Knudsen, Eirik, and Bram Timmermans. 2016. “Gründere ikke best på nye jobber.” *Dagens Næringsliv*, November 25, 2016.
 1. *The Economist*. 2016. “Private Equity: The Barbarian Establishment,” October 22, 2016.
 1. Dumitru, Anca. 2016. “What Sweden Can Teach Us About Equal Opportunity and Gender Gaps.” *Nordic Business Report*, April 15, 2016. 
@@ -301,11 +302,11 @@ layout: default
 1. *Talouselämä*. 2016. “Jäljet johtavat sylttytehtaalle,” February 18, 2016.
 1. Wettergrund, Sven. 2014. “Riskkapitalister – Onda utsugare eller goda affärsänglar.” *Connoisseur*, December 12, 2014.
 1. Jacobsson, Ingrid. 2014. “Runda banken - ragga pengarna!” *Råd&Rön*, January 29, 2014.
+1. Bryngelsson, Anders. 2013. “Miljardregn över Nordic Capital.” *Dagens Industri*, November 22, 2013.
 1. Ottoson, Maria. 2013. “Kaos om de flyr välfärden.” *Dagens Samhälle*, November 20, 2013.
-1. Bryngelsson, Anders. 2013. “Miljardregn över Nordic Capital.” *Dagens Industri*.
 1. Fremin, Linus. 2013. “Svensk bingo nere för räkning.” *Dagens Nyheter*, August 10, 2013.
 1. Dalqvist, Anna, and Pernilla Holmlund. 2013. “Jakten på kapitalet: vem satsar på din affärsidé?” *Entreprenör*, April 2013.
-1. Zachrisson, Niklas. 2013. “Vad Händer När Välfärden Får Gå Med Vinst?” Vetenskapsradion. *Sveriges Radio*.
+1. Zachrisson, Niklas. 2013. “Vad Händer När Välfärden Får Gå Med Vinst?” Vetenskapsradion. *Sveriges Radio*, January 13, 2013.
 1. Wallenius, Roger. 2012. “Faxanders Flyttlass Är På Plats.” *Gefle Dagblad*, October 15, 2012.
 1. Olsson, Evelina. 2012. “Expert: Svårt för Sverige att hävda sig.” *Metro*, August 24, 2012.
 1. Harrysson, Jonas. 2012. “Riskkapital Tryggar Anställningen.” *Gefle Dagblad*, March 29, 2012.
