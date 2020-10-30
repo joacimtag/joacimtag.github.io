@@ -195,7 +195,7 @@ layout: default
 * **2010** [IFN Stockholm Conference on Innovation, Ownership and Competition Policy](https://www.ifn.se/eng/events/vaxholm/past-conferences/ownership_1), Stockholm
 * **2009** [IFN Stockholm Conference on the Economics of Ownership, Organization, and Industrial Development](https://www.ifn.se/eng/events/vaxholm/past-conferences/ownership), Stockholm
 
-### Scientific comittee memberships
+### Scientific committee memberships
 * **2020** The 2021 Midwest Finance Association meetings, Virtual
 * **2019** [CSEF and RCFS Conference on Labor, Finance, and Inequality](http://www.csef.it/Conference-on-Finance-Labor-and), Capri
 * **2018** SBS Conference on Board Diversity Quotas, Stockholm
