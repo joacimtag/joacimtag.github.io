@@ -108,6 +108,7 @@ layout: default
 ## Grants and Awards
 
 ### Grants
+* **2020** Torsten Söderbergs Stiftelse (PI)
 * **2020** Jan Wallander and Tom Hedelius Foundation (participant)
 * **2019** CEIBS Cathay Cross-border Private Equity Research Fund (participant)
 * **2018** Torsten Söderbergs Stiftelse (PI)
@@ -322,11 +323,6 @@ layout: default
 1. Sundin, Niklas. 2011. “Flytten gör Sandvik attraktivare.” *Gefle Dagblad*, September 5, 2011
 1. Wallström, Martin. 2009. “Vet du vad Telekompaketet är?” *Computer Sweden*, November 10, 2009.
 1. Wallström, Martin. 2009. “Nätneutralitet lönar sig.” *Computer Sweden*, October 6, 2009.
-
-
-
-
-
 
 ## Other
 
