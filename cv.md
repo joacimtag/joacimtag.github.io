@@ -263,7 +263,9 @@ layout: default
 1. Henrekson, Magnus, and Joacim Tåg. “Henrekson & Tåg vill höja teveavgiften.” *Arena*, November 2009.
 
 ### Interviews and research mentions
+
 1. Lindström, Olle. 2020. “Fler jobb fyttar hem.” *TT (The World News, Arbetsmarknadsnytt, Omni, DagensNäringsliv.se, Folkbladet, Enköpings-posten, Hallands Nyheter, Göteborgs-Posten, Västerbottens-Kuriren, Norra Skåne, ttela.se, Västerbottens Folkblad, Hallandsposten, Helsingborgs Dagblad, Bohusläningen, Västerviks-Tidningen, Hallands Nyheter, Helagotland, Södermanlands Nyheter, Enköpings-Posten, Sydsvenskan, Skånska Dagbladet, Allanyheter.com, Hallandsposten, E55, News55, Strömstads Tidning, Bohusläningen, Norrländska Socialdemokraten)*, October 9, 2020.
+1. Westerlund, Lars. 2020. “Så friska är svenska vd:ar.” *VD Tidningen*, October 8, 2020.
 1. Hansén, Magnus. 2020. “Kvinnliga fondförvaltare presterar bättre.” Vega Eftermiddag, *Yle*, September 8, 2020.
 1. Carlesten, Karin. 2020. “Forskare: Därför mår din chef bättre än du.” *fPlus*, August 28, 2020.
 1. Malm Öhrström, Eva. 2020. “Vd:ars hälsa en styrelsefråga.” *IFN-podden*, June 28, 2020.
