@@ -265,7 +265,7 @@ layout: default
 
 ### Interviews and research mentions
 
-1. Cardona Cervantes, Gabriel. 2020. “Synsam bara först i raden – nu flyttar industrierna hem.” *fPlus*, December 3, 2020.
+1. Cardona Cervantes, Gabriel. 2020. “Synsam bara först i raden – nu flyttar industrierna hem.” *fPlus, Arbetsmarknadsnytt*, December 3, 2020.
 1. Lindström, Olle. 2020. “Fler jobb fyttar hem.” *TT (The World News, Arbetsmarknadsnytt, Omni, DagensNäringsliv.se, Folkbladet, Enköpings-posten, Hallands Nyheter, Göteborgs-Posten, Västerbottens-Kuriren, Norra Skåne, ttela.se, Västerbottens Folkblad, Hallandsposten, Helsingborgs Dagblad, Bohusläningen, Västerviks-Tidningen, Hallands Nyheter, Helagotland, Södermanlands Nyheter, Enköpings-Posten, Sydsvenskan, Skånska Dagbladet, Allanyheter.com, Hallandsposten, E55, News55, Strömstads Tidning, Bohusläningen, Norrländska Socialdemokraten)*, October 9, 2020.
 1. Westerlund, Lars. 2020. “Så friska är svenska vd:ar.” *VD Tidningen*, October 8, 2020.
 1. Hansén, Magnus. 2020. “Kvinnliga fondförvaltare presterar bättre.” Vega Eftermiddag, *Yle*, September 8, 2020.
