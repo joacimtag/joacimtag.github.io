@@ -77,11 +77,9 @@ layout: default
 
 1. Tåg, Joacim. 2009. “Competing Platforms and Third Party Application Developers.” *Communications & Strategies* 74 (2): 95–114. [PDF](/assets/pdfs/Tag2009.pdf)
 
-### Other
+### In Swedish
 
 1. Tåg, Joacim. 2019. “IFN:s forskningsprogram globaliseringen och företagen 2009–2019.” In *IFN 1939–2019 – 80 år av ekonomisk forskning*, edited by Magnus Henrekson, 29–48. Stockholm: Ekerlids Förlag. [PDF](/assets/pdfs/Tag2019.pdf)
-
-1. Norbäck, Pehr-Johan, Lars Persson, and Joacim Tåg. 2018. “Private Equity Buyouts: Anti- or Pro-Competitive?” *CPI Antitrust Chronicle* 1 (January): 31–36. [SSRN](https://doi.org/10.2139/ssrn.3128858).
 
 1. Olsson, Martin, and Joacim Tåg. 2017. “Påverkar riskkapitalinvesteringar anställda och samhällsekonomin?” *Ekonomisk Debatt* 8: 26–36. [PDF](https://www.nationalekonomi.se/sites/default/files/NEFfiler/45-8-mojt.pdf)
 
@@ -89,21 +87,25 @@ layout: default
 
 1. Tåg, Joacim. 2016. Forskningsprogrammet Globaliseringen och företagen. Stockholm: IFN. [PDF](/assets/pdfs/Tag2016.pdf)
 
-1. Economides, Nicholas, and Joacim Tåg. 2013. “Network Neutrality and Network Management Regulation: Quality of Service, Price Discrimination, and Exclusive Contracts.” In *Research Handbook on Governance of the Internet*, edited by Ian Brown, 121–43. Cheltenham: Edward Elgar. [SSRN](https://dx.doi.org/10.2139/ssrn.2045623)
+1. Tåg, Joacim. 2013. “Riskkapital till entreprenörer: Vilken roll spelar finansmarknaderna, skattepolitiken och arbetsmarknadsregleringarna?” *Swedish Economic Forum Report 2013: Institutioner och Incitament för Innovation*, edited by Pontus Braunerhjelm, 121–43. Stockholm: Entreprenörskapsforum. [PDF](/assets/pdfs/Tag2013.pdf)
 
-1. Tåg, Joacim. 2013. “Riskkapital till entreprenörer: Vilken roll spelar finansmarknaderna, skattepolitiken och arbetsmarknadsregleringarna?” In *Swedish Economic Forum Report 2013: Institutioner och Incitament för Innovation*, edited by Pontus Braunerhjelm, 121–43. Stockholm: Entreprenörskapsforum. [PDF](/assets/pdfs/Tag2013.pdf)
+1. Tåg, Joacim. 2011. “Utköpsbolagens roll i näringslivet.” IFN Newsletter 2: 1–5. [PDF](/assets/pdfs/Tag2011.pdf)
+
+1. Tåg, Joacim. 2009. “Policies och regleringar i telekommunikations-, media- och teknologiindustrierna.” *Ekonomiska Samfundets Tidskrift* 2/09: 83–87. [PDF](/assets/pdfs/Tag2009_EST.pdf)
+
+### Other
+
+1. Norbäck, Pehr-Johan, Lars Persson, and Joacim Tåg. 2018. “Private Equity Buyouts: Anti- or Pro-Competitive?” *CPI Antitrust Chronicle* 1 (January): 31–36. [SSRN](https://doi.org/10.2139/ssrn.3128858).
+
+1. Economides, Nicholas, and Joacim Tåg. 2013. “Network Neutrality and Network Management Regulation: Quality of Service, Price Discrimination, and Exclusive Contracts.” In *Research Handbook on Governance of the Internet*, edited by Ian Brown, 121–43. Cheltenham: Edward Elgar. [SSRN](https://dx.doi.org/10.2139/ssrn.2045623)
 
 1. Economides, Nicholas, and Joacim Tåg. 2012. “Modelling the Welfare Effects of Network Neutrality Regulation: A Response to Caves’s Comment.” *Information Economics and Policy* 24 (3–4): 293. [https://doi.org/10.1016/j.infoecopol.2012.08.004](https://doi.org/10.1016/j.infoecopol.2012.08.004).
 
 1. Tåg, Joacim. 2012. “Real Effects of Private Equity.” In *The Oxford Handbook of Private Equity*, edited by Douglas Cumming, 269–99. Oxford: Oxford University Press. [SSRN](https://dx.doi.org/10.2139/ssrn.1674759)
 
-1. Tåg, Joacim. 2011. “Utköpsbolagens roll i näringslivet.” IFN Newsletter 2: 1–5. [PDF](/assets/pdfs/Tag2011.pdf)
-
 1. Persson, Lars, and Joacim Tåg. 2010. “Book Review: Antitrust and Regulation in the EU and US: Legal and Economic Perspectives.” *Journal of Economic Literature* 48 (4): 1028–59. [https://doi.org/10.1257/jel.48.4.1028](https://doi.org/10.1257/jel.48.4.1028).
 
 1. Tåg, Joacim. 2009. “Essays on Platforms: Business Strategies, Regulation and Policy in Telecommunications, Media and Technology Industries.” Helsinki: Hanken School of Economics. [http://urn.fi/URN:ISBN:978-952-232-009-4](http://urn.fi/URN:ISBN:978-952-232-009-4).
-
-1. Tåg, Joacim. 2009. “Policies och regleringar i telekommunikations-, media- och teknologiindustrierna.” *Ekonomiska Samfundets Tidskrift* 2/09: 83–87. [PDF](/assets/pdfs/Tag2009_EST.pdf)
 
 ## Grants and Awards
 
@@ -144,7 +146,7 @@ layout: default
 
 ### Conference presentations
 
-* **2021** AFA (scheduled)
+* **2021** AFA
 * **2020** EFA, IFN Workshop of Firms and Labor Markets
 * **2019** 2nd Joint BOE/FED/ECB Conference on Gender and Career Progression, Labor and Finance Group Conference at Chicago Booth, 2nd Nordic Initiative in Corporate Economics Conference, IFN Workshop of Firms and Labor Markets
 * **2018** EEA, SOLE, AFA, ASSA, Registerforskardagen, National Conference of Swedish Economists
