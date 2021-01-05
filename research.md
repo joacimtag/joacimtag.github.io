@@ -20,6 +20,8 @@ layout: default
 
 1. Tåg, Joacim, Thomas Åstebro, and Peter Thompson. 2016. “Hierarchies and Entrepreneurship.” *European Economic Review* 89 (October): 129–47. [https://doi.org/10.1016/j.euroecorev.2016.06.007](https://doi.org/10.1016/j.euroecorev.2016.06.007).
 
+1. Norbäck, Pehr-Johan, Lars Persson, and Joacim Tåg. 2014. “Acquisitions, Entry, and Innovation in Oligopolistic Network Industries.” *International Journal of Industrial Organization* 37 (November): 1–12. [https://doi.org/10.1016/j.ijindorg.2014.07.003](https://doi.org/10.1016/j.ijindorg.2014.07.003).
+
 
 <p style="font-size:150%;" align="center"><b>Technological Change</b></p>
 
@@ -28,6 +30,8 @@ layout: default
 1. Colonnelli, Emanuele, Joacim Tåg, Michael Webb, and Stefanie Wolter. 2018. “A Cross-Country Comparison of Dynamics in the Large Firm Wage Premium.” *AEA Papers and Proceedings* 108 (May): 323–27. [https://doi.org/10.1257/pandp.20181067](https://doi.org/10.1257/pandp.20181067).
 
 1. Olsson, Martin, and Joacim Tåg. 2017. “Private Equity, Layoffs, and Job Polarization.” *Journal of Labor Economics* 35 (3): 697–754. [https://doi.org/10.1086/690712](https://doi.org/10.1086/690712).
+
+1. Olsson, Martin, and Joacim Tåg. 2017. “Påverkar riskkapitalinvesteringar anställda och samhällsekonomin?” *Ekonomisk Debatt* 8: 26–36. [PDF](https://www.nationalekonomi.se/sites/default/files/NEFfiler/45-8-mojt.pdf)
 
 1. Tåg, Joacim. 2013. “Production Hierarchies in Sweden.” *Economics Letters* 121 (2): 210–13. [https://doi.org/10.1016/j.econlet.2013.08.001](https://doi.org/10.1016/j.econlet.2013.08.001).
 
@@ -45,7 +49,6 @@ layout: default
 1. Economides, Nicholas, and Joacim Tåg. 2012. “Modelling the Welfare Effects of Network Neutrality Regulation: A Response to Caves’s Comment.” *Information Economics and Policy* 24 (3–4): 293. [https://doi.org/10.1016/j.infoecopol.2012.08.004](https://doi.org/10.1016/j.infoecopol.2012.08.004).
 
 1. Tåg, Joacim. 2009. “Paying to Remove Advertisements.” *Information Economics and Policy* 21 (4): 245–52. [https://doi.org/10.1016/j.infoecopol.2009.02.001](https://doi.org/10.1016/j.infoecopol.2009.02.001).
-
 
 1. Tåg, Joacim. 2009. “Competing Platforms and Third Party Application Developers.” *Communications & Strategies* 74 (2): 95–114. [PDF](/assets/pdfs/Tag2009.pdf)
 
