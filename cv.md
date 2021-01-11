@@ -189,7 +189,9 @@ layout: default
 * Canadian Journal of Economics, Economic Inquiry, Economic Journal, Games and Economic Behavior, Information Economics and Policy, Information Systems Research, International Journal of Industrial Organization, Journal of Business Venturing, Journal of Economic Behaviour and Organization, Journal of Economic Geography, Journal of Economics & Management Strategy, Journal of the European Economic Association, Journal of Labor Economics, Journal of Media Economics, Management Science, Review of Network Economics, Small Business Economics, Strategic Entrepreneurship Journal, Strategic Management Journal, Telecommunications Policy, Quarterly Journal of Economics. 
 
 ### Grant evaluations
-* European Research Council, National Science Foundation
+* **2021** Swedish Research Council for Health, Working Life and Welfare (FORTE)
+* **2016** European Research Council
+* **2009** National Science Foundation 
 
 ### Academic conferences organized
 * **2020** [Labor and Finance Group Conference](https://www.ifn.se/eng/events/conferences-courses/lfg), Stockholm
@@ -199,17 +201,16 @@ layout: default
 * **2010** [IFN Stockholm Conference on Innovation, Ownership and Competition Policy](https://www.ifn.se/eng/events/vaxholm/past-conferences/ownership_1), Stockholm
 * **2009** [IFN Stockholm Conference on the Economics of Ownership, Organization, and Industrial Development](https://www.ifn.se/eng/events/vaxholm/past-conferences/ownership), Stockholm
 
-### Scientific committee memberships
-* **2020** The 2021 Midwest Finance Association meetings, Virtual
-* **2019** [CSEF and RCFS Conference on Labor, Finance, and Inequality](http://www.csef.it/Conference-on-Finance-Labor-and), Capri
-* **2018** SBS Conference on Board Diversity Quotas, Stockholm
-* **2018** Fourth International ZEW Conference on the Dynamics of Entrepreneurship, Manneheim
-* **2017** FMA European Conference, Lisbon
-* **2016** Third International ZEW Conference on the Dynamics of Entrepreneurship, Mannheim
-* **2011** [European Finance Association Annual Meeting](http://efa2011.efa-online.org/fisher.osu.edu/blogs/efa2011/index.html), Stockholm
+### Conference scientific committee memberships
+* **2020** The 2021 Midwest Finance Association Meetings
+* **2019** [CSEF and RCFS Conference on Labor, Finance, and Inequality](http://www.csef.it/Conference-on-Finance-Labor-and)
+* **2018** SBS Conference on Board Diversity Quotas
+* **2018** Fourth International ZEW Conference on the Dynamics of Entrepreneurship
+* **2017** FMA European Conference
+* **2016** Third International ZEW Conference on the Dynamics of Entrepreneurship
+* **2011** [European Finance Association Annual Meeting](http://efa2011.efa-online.org/fisher.osu.edu/blogs/efa2011/index.html)
 
 ### Dissertation reviews
-
 * **2020** Johan Mellberg (NHH, doctorate)
 * **2019** Mehmet Caglar Kaya (Lund University, doctorate), Daniel Jahnson (Uppsala University, doctorate)
 * **2018** Osmis Habte (Lund University, doctorate)
