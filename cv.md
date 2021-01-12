@@ -266,7 +266,7 @@ layout: default
 1. Guo, Hong, Hsing K Cheng, Scott Holladay, Joacim Tåg, and Subhajyoti Bandyopadhyay. “Building a Better Net?” *Politico*, September 22, 2010.
 1. Henrekson, Magnus, and Joacim Tåg. “Henrekson & Tåg vill höja teveavgiften.” *Arena*, November 2009.
 
-### Interviews and research mentions
+### Some interviews and research mentions
 
 1. Folkesson, Malin. 2020. “Ett annorlunda år.” *Plastnet*, December 10, 2020.
 1. Cardona Cervantes, Gabriel. 2020. “Synsam bara först i raden – nu flyttar industrierna hem.” *fPlus, Arbetsmarknadsnytt*, December 3, 2020.
@@ -278,6 +278,7 @@ layout: default
 1. Skovdahl, Saga. 2020. “Paren som drar in mest pengar.” *Expressen*, July 29, 2020.
 1. Stople, Peter. 2020. “Hur mår en VD? Bättre än en advokat, finansman eller en ingenjör? Vasabördig forskare ger svaret genom en stor svensk studie.” *Vaasa Insider*, July 9, 2020.
 1. Stolpe, Peter. 2020. “Vasabördige Joacim Tåg utnämnd till docent i nationalekonomi vid Lunds universitet.” *Vaasa Insider*, January 17, 2020.
+1. Zingales, Luigi, and Bethany McLean. 2019. “Is Elizabeth Warren Right About Private Equity?” *Capitalisn’t*. November 7, 2019.
 1. Mellwing, Daniel. 2019. “Forskning: Därför är amerikanskt riskkapital det bästa för Sverige.” *fPlus*, May 14, 2019.
 1. Skoglund, Kjell. 2019. “Finland behöver fler kvinnliga företagare.” *Hufvudstadsblade*t, April 19, 2019.
 1. Katsomitros, Alex. 2019. “The Slow Death of Global Stock Markets.” *World Finance*, April 5, 2019
