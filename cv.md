@@ -147,7 +147,7 @@ layout: default
 ### Conference presentations
 
 * **2021** AFA
-* **2020** EFA, IFN Workshop of Firms and Labor Markets
+* **2020** EFA, IFN Workshop on Firms and Labor Markets
 * **2019** 2nd Joint BOE/FED/ECB Conference on Gender and Career Progression, Labor and Finance Group Conference at Chicago Booth, 2nd Nordic Initiative in Corporate Economics Conference, IFN Workshop of Firms and Labor Markets
 * **2018** EEA, SOLE, AFA, ASSA, Registerforskardagen, National Conference of Swedish Economists
 * **2017** AFA, Uppsala Conference on Gender and Labor Markets, 1st Ecole Hoteliere de Lausanne Annual Private Markets Research Conference, IFN Stockholm Conference
@@ -189,7 +189,7 @@ layout: default
 * Canadian Journal of Economics, Economic Inquiry, Economic Journal, Games and Economic Behavior, Information Economics and Policy, Information Systems Research, International Journal of Industrial Organization, Journal of Business Venturing, Journal of Economic Behaviour and Organization, Journal of Economic Geography, Journal of Economics & Management Strategy, Journal of the European Economic Association, Journal of Labor Economics, Journal of Media Economics, Management Science, Review of Network Economics, Small Business Economics, Strategic Entrepreneurship Journal, Strategic Management Journal, Telecommunications Policy, Quarterly Journal of Economics. 
 
 ### Grant evaluations
-* **2021** Swedish Research Council for Health, Working Life and Welfare (FORTE)
+* **2021-** Swedish Research Council for Health, Working Life and Welfare (FORTE)
 * **2016** European Research Council
 * **2009** National Science Foundation 
 
@@ -347,11 +347,10 @@ layout: default
 - **2008** Microsoft Research Redmond, Jul. 30-Aug. 7, Seattle
 
 ### Departmental Service
-
-- **2020-** Seminar series organizer
 - **2018-** Founder and chair of the Firms, Labor, and Entrepreneurship Research Group (FAME)
 - **2017-** Recruitment committee member
 - **2009-** Arranged with affiliations for Matti Keloharju, Samuli Knupfer, Kaveh Majlesi, Marco Pagano, and Annalisa Scognamiglio
+- **2020-2021** Seminar series organizer
 - **2009-2018** Responsible for setting up and maintaining the IFN Corporate Database
 - **2009-2011** Seminar series organizer
 

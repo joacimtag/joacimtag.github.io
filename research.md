@@ -25,9 +25,13 @@ layout: default
 
 <p style="font-size:150%;" align="center"><b>Technological Change</b></p>
 
-### Firms, Human Capital and Technological Change
+### Firms and Human Capital
+
+1. Olsson, Martin, and Joacim Tåg. 2018. “What Is the Cost of Privatization for Workers?” *SSRN Electronic Journal*, December. [https://doi.org/10.2139/ssrn.3134462](https://doi.org/10.2139/ssrn.3134462).
 
 1. Colonnelli, Emanuele, Joacim Tåg, Michael Webb, and Stefanie Wolter. 2018. “A Cross-Country Comparison of Dynamics in the Large Firm Wage Premium.” *AEA Papers and Proceedings* 108 (May): 323–27. [https://doi.org/10.1257/pandp.20181067](https://doi.org/10.1257/pandp.20181067).
+
+1. Olsson, Martin, and Joacim Tåg. 2018. “Are Foreign Private Equity Buyouts Bad for Workers?” *Economics Letters* 172 (November): 1–4. [https://doi.org/10.1016/j.econlet.2018.08.002](https://doi.org/10.1016/j.econlet.2018.08.002).
 
 1. Olsson, Martin, and Joacim Tåg. 2017. “Private Equity, Layoffs, and Job Polarization.” *Journal of Labor Economics* 35 (3): 697–754. [https://doi.org/10.1086/690712](https://doi.org/10.1086/690712).
 
@@ -55,7 +59,6 @@ layout: default
 1. Tåg, Joacim. 2009. “Policies och regleringar i telekommunikations-, media- och teknologiindustrierna.” *Ekonomiska Samfundets Tidskrift* 2/09: 83–87. [PDF](/assets/pdfs/Tag2009_EST.pdf)
 
 1. Tåg, Joacim. 2009. “Essays on Platforms: Business Strategies, Regulation and Policy in Telecommunications, Media and Technology Industries.” Helsinki: Hanken School of Economics. [http://urn.fi/URN:ISBN:978-952-232-009-4](http://urn.fi/URN:ISBN:978-952-232-009-4).
-
 
 <p style="font-size:150%;" align="center"><b>Mergers and Acquisitions</b></p>
 
