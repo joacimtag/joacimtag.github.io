@@ -27,7 +27,7 @@ layout: default
 
 ### Firms and Human Capital
 
-1. Olsson, Martin, and Joacim Tåg. 2018. “What Is the Cost of Privatization for Workers?” *SSRN Electronic Journal*, December. [https://doi.org/10.2139/ssrn.3134462](https://doi.org/10.2139/ssrn.3134462).
+1. Olsson, Martin, and Joacim Tåg. 2021. “What Is the Cost of Privatization for Workers?” *SSRN Electronic Journal*, December. [https://doi.org/10.2139/ssrn.3134462](https://doi.org/10.2139/ssrn.3134462).
 
 1. Colonnelli, Emanuele, Joacim Tåg, Michael Webb, and Stefanie Wolter. 2018. “A Cross-Country Comparison of Dynamics in the Large Firm Wage Premium.” *AEA Papers and Proceedings* 108 (May): 323–27. [https://doi.org/10.1257/pandp.20181067](https://doi.org/10.1257/pandp.20181067).
 
@@ -82,7 +82,7 @@ layout: default
 
 ### Privatizations
 
-1. Olsson, Martin, and Joacim Tåg. 2018. “What Is the Cost of Privatization for Workers?” *SSRN Electronic Journal*, December. [https://doi.org/10.2139/ssrn.3134462](https://doi.org/10.2139/ssrn.3134462).
+1. Olsson, Martin, and Joacim Tåg. 2021. “What Is the Cost of Privatization for Workers?” *SSRN Electronic Journal*, December. [https://doi.org/10.2139/ssrn.3134462](https://doi.org/10.2139/ssrn.3134462).
 
 ### Public versus Private Firms
 

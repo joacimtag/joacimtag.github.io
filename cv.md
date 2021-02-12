@@ -31,13 +31,13 @@ layout: default
 
 ### Working papers
 
+1. Olsson, Martin, and Joacim Tåg. 2021. “What Is the Cost of Privatization for Workers?” *SSRN Electronic Journal*, December. [https://doi.org/10.2139/ssrn.3134462](https://doi.org/10.2139/ssrn.3134462).
+
 1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. 2020. “CEO Health and Corporate Governance.” *SSRN Electronic Journal*, April. [https://doi.org/10.2139/ssrn.3560071](https://doi.org/10.2139/ssrn.3560071).
 
 1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. 2019. “What Prevents Women from Reaching the Top?” *SSRN Electronic Journal*, April. [https://doi.org/10.2139/ssrn.2730207](https://doi.org/10.2139/ssrn.2730207).
 
 1. Hellmann, Thomas F., Alexander Montag, and Joacim Tåg. 2019. “Foreign Investors and Domestic Company Growth: Evidence from US Venture Capital Investments in Sweden.” *SSRN Electronic Journal*, April. [https://doi.org/10.2139/ssrn.3372976](https://doi.org/10.2139/ssrn.3372976).
-
-1. Olsson, Martin, and Joacim Tåg. 2018. “What Is the Cost of Privatization for Workers?” *SSRN Electronic Journal*, December. [https://doi.org/10.2139/ssrn.3134462](https://doi.org/10.2139/ssrn.3134462).
 
 1. Ljungqvist, Alexander, Lars Persson, and Joacim Tåg. 2018. “The Incredible Shrinking Stock Market: On the Political Economy Consequences of Excessive Delistings.” *SSRN Electronic Journal*, February. [https://doi.org/10.2139/ssrn.2714916](https://doi.org/10.2139/ssrn.2714916).
 
