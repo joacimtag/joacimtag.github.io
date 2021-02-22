@@ -3,26 +3,6 @@ title: Research
 layout: default
 ---
 
-
-<p style="font-size:150%;" align="center"><b>Corporate Leaders</b></p>
-
-### CEOs
-
-1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. 2020. “CEO Health and Corporate Governance.” *SSRN Electronic Journal*, April. [https://doi.org/10.2139/ssrn.3560071](https://doi.org/10.2139/ssrn.3560071).
-
-1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. 2019. “What Prevents Women from Reaching the Top?” *SSRN Electronic Journal*, April. [https://doi.org/10.2139/ssrn.2730207](https://doi.org/10.2139/ssrn.2730207).
-
-### Entrepreneurs
-
-1. Rider, Christopher I., Peter Thompson, Aleksandra Kacperczyk, and Joacim Tåg. 2019. “Experience and Entrepreneurship: A Career Transition Perspective.” *ILR Review* 72 (5): 1149–81. [https://doi.org/10.1177/0019793919852919](https://doi.org/10.1177/0019793919852919).
-
-1. Åstebro, Thomas, and Joacim Tåg. 2017. “Gross, Net, and New Job Creation by Entrepreneurs.” *Journal of Business Venturing Insights* 8 (November): 64–70. [https://doi.org/10.1016/j.jbvi.2017.06.001](https://doi.org/10.1016/j.jbvi.2017.06.001).
-
-1. Tåg, Joacim, Thomas Åstebro, and Peter Thompson. 2016. “Hierarchies and Entrepreneurship.” *European Economic Review* 89 (October): 129–47. [https://doi.org/10.1016/j.euroecorev.2016.06.007](https://doi.org/10.1016/j.euroecorev.2016.06.007).
-
-1. Norbäck, Pehr-Johan, Lars Persson, and Joacim Tåg. 2014. “Acquisitions, Entry, and Innovation in Oligopolistic Network Industries.” *International Journal of Industrial Organization* 37 (November): 1–12. [https://doi.org/10.1016/j.ijindorg.2014.07.003](https://doi.org/10.1016/j.ijindorg.2014.07.003).
-
-
 <p style="font-size:150%;" align="center"><b>Technological Change</b></p>
 
 ### Firms and Human Capital
@@ -60,7 +40,25 @@ layout: default
 
 1. Tåg, Joacim. 2009. “Essays on Platforms: Business Strategies, Regulation and Policy in Telecommunications, Media and Technology Industries.” Helsinki: Hanken School of Economics. [http://urn.fi/URN:ISBN:978-952-232-009-4](http://urn.fi/URN:ISBN:978-952-232-009-4).
 
-<p style="font-size:150%;" align="center"><b>Mergers and Acquisitions</b></p>
+<p style="font-size:150%;" align="center"><b>Corporate Leaders</b></p>
+
+### CEOs
+
+1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. 2020. “CEO Health and Corporate Governance.” *SSRN Electronic Journal*, April. [https://doi.org/10.2139/ssrn.3560071](https://doi.org/10.2139/ssrn.3560071).
+
+1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. 2019. “What Prevents Women from Reaching the Top?” *SSRN Electronic Journal*, April. [https://doi.org/10.2139/ssrn.2730207](https://doi.org/10.2139/ssrn.2730207).
+
+### Entrepreneurs
+
+1. Rider, Christopher I., Peter Thompson, Aleksandra Kacperczyk, and Joacim Tåg. 2019. “Experience and Entrepreneurship: A Career Transition Perspective.” *ILR Review* 72 (5): 1149–81. [https://doi.org/10.1177/0019793919852919](https://doi.org/10.1177/0019793919852919).
+
+1. Åstebro, Thomas, and Joacim Tåg. 2017. “Gross, Net, and New Job Creation by Entrepreneurs.” *Journal of Business Venturing Insights* 8 (November): 64–70. [https://doi.org/10.1016/j.jbvi.2017.06.001](https://doi.org/10.1016/j.jbvi.2017.06.001).
+
+1. Tåg, Joacim, Thomas Åstebro, and Peter Thompson. 2016. “Hierarchies and Entrepreneurship.” *European Economic Review* 89 (October): 129–47. [https://doi.org/10.1016/j.euroecorev.2016.06.007](https://doi.org/10.1016/j.euroecorev.2016.06.007).
+
+1. Norbäck, Pehr-Johan, Lars Persson, and Joacim Tåg. 2014. “Acquisitions, Entry, and Innovation in Oligopolistic Network Industries.” *International Journal of Industrial Organization* 37 (November): 1–12. [https://doi.org/10.1016/j.ijindorg.2014.07.003](https://doi.org/10.1016/j.ijindorg.2014.07.003).
+
+<p style="font-size:150%;" align="center"><b>Corporate Ownership</b></p>
 
 ### Private Equity Buyouts
 
