@@ -3,7 +3,7 @@ title: Research
 layout: default
 ---
 
-<p style="font-size:150%;" align="center"><b>Firms and Technological Change</b></p>
+<p style="font-size:150%;" align="center"><b>Technological Change</b></p>
 
 ### Firms and Human Capital
 
