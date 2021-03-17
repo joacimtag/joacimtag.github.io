@@ -131,7 +131,7 @@ layout: default
 
 ### Invited presentations
 
-* **2021** Jönköping International Business School, Stockholm School of Economics - House of Innovation (scheduled), University of Memphis (scheduled)
+* **2021** Jönköping International Business School, Stockholm School of Economics - House of Innovation, University of Memphis (scheduled)
 * **2019** Aalto University, Lund University
 * **2018** CSEF, Örebro University, Ministry of Finance 
 * **2017** Stockholm Business School, Swedish House of Finance
