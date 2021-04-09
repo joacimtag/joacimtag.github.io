@@ -131,7 +131,7 @@ layout: default
 
 ### Invited presentations
 
-* **2021** Jönköping International Business School, Stockholm School of Economics - House of Innovation, University of Memphis (scheduled)
+* **2021** Jönköping International Business School, Stockholm School of Economics (House of Innovation), University of Memphis
 * **2019** Aalto University, Lund University
 * **2018** CSEF, Örebro University, Ministry of Finance 
 * **2017** Stockholm Business School, Swedish House of Finance
@@ -166,6 +166,7 @@ layout: default
 * **2005** FDPE Microeconomics and IO Workshop 
 
 ### Conference discussions or attendance
+* **2021** NFN Young Scholar Webinar
 * **2020** Labor and Finance Group Conference, EEA, FOM Working Group Conference
 * **2019** KWC Conference on Entrepreneurial Finance, BI Corporate Governance Conference, SEF Conference on Finance, Labor and Inquality
 * **2018** SBS Conference on Board Diversity Quotas, Labor and Finance Group Conference, 28th Mitsui Finance Symposium, IFN Stockholm Conference, Nordic Initiative in Corporate Economics
