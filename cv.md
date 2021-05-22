@@ -15,7 +15,7 @@ layout: default
 
 ### Current
 - **2019--** [Associate Professor (Docent)](https://portal.research.lu.se/portal/en/persons/joacim-taag(0a797d65-9b2e-46ff-91aa-2307a568303e).html), Lund University, Lund
-- **2011--** [Program Director](https://www.ifn.se/eng/people/research-faculty/joacimt), Research Institute of Industrial Economics (IFN), Stockholm
+- **2011--** [Program Director](https://www.ifn.se/forskare/ifn-forskare/joacim-tag/), Research Institute of Industrial Economics (IFN), Stockholm
 - **2008--** Research Fellow, Research Institute of Industrial Economics (IFN), Stockholm
 
 ### Past
