@@ -19,7 +19,7 @@ Keloharju, M., S. Knüpfer, and J. Tåg. 2020. "[CEO Health and Corporate Govern
 * <em>Media coverage</em>: fPlus, VD Tidningen, Vaasa Insider. 
 * <em>Presentations</em>: Aalto, AFA, Bologna, BI, EFA, FEIBS, Hannover, HU-Berlin, IFN, JIBS, KI, LFG Workshop at Booth, LU, Memphis, SSE House of Innovation, Southampton, and TSE.
 
-Keloharju, M., S. Knüpfer, and J. Tåg. 2019. [What Prevents Women from Reaching the Top?](https://ssrn.com/abstract=2730207)" Revise and Resubmit at <em>Management Science</em>.
+Keloharju, M., S. Knüpfer, and J. Tåg. 2019. [What Prevents Women from Reaching the Top?](https://ssrn.com/abstract=2730207)"
 * We show that women are about one-half as likely to be large-company CEOs and about one-third less likely to be high earners than men. A wide range of observables do not explain the lack of women in top executive positions. Instead, slow career progression in the five years after the first childbirth explains most of the female disadvantage. 
 * <em>Media coverage</em>: Dagens Nyheter, Dagens Samhälle, Expressen, HBS Working Knowledge, Helsingin Sanomat, Huvudstadsbladet, Iltalehti, Nordic Business Report, Svenska Dagbladet, Talouselämä, Yle.
 * <em>Presentations</em>: BI, BC, BU, City, CSEF, HBS, HKBU, HKU, IFN, LNU, NU, NHH, SBS, SHOF, SU, MoF, UoB, Exeter, UMass, HSG, UU, ORU, AFA, NCSE, and SOLE.
