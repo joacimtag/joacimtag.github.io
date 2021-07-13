@@ -255,6 +255,7 @@ layout: default
 
 ### Op-eds
 
+1. Tåg, Joacim. “Så kan Österbotten attrahera ﬂer internationella företag.” *Vaasa Insider*, December 7, 2021.
 1. Tåg, Joacim. “Dessa egenskaper har toppchefer.” *Botnia Insider*, November 28, 2019.
 1. Tåg, Joacim. “Dessa egenskaper har toppchefer.” *Vaasa Insider*, November 11, 2019.
 1. Hellmann, Thomas, Alexander Montag, and Joacim Tåg. “Foreign Investors and Domestic Company Growth: Evidence from US Venture Capital Investments in Sweden.” *Tuck Center Forum for PE & VC*, April 11, 2019.
