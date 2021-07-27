@@ -131,7 +131,7 @@ layout: default
 
 ### Invited presentations
 
-* **2021** Jönköping International Business School, Stockholm School of Economics House of Innovation, University of Memphis
+* **2021** Jönköping International Business School, Stockholm School of Economics House of Innovation, University of Memphis, The Australian National University (scheduled)
 * **2019** Aalto University, Lund University
 * **2018** CSEF, Örebro University, Ministry of Finance 
 * **2017** Stockholm Business School, Swedish House of Finance
@@ -148,7 +148,7 @@ layout: default
 ### Conference presentations
 
 * **2022** AFA (scheduled)
-* **2021** AFA, ANU (scheduled), EFA (scheduled)
+* **2021** AFA, EFA (scheduled)
 * **2020** EFA, IFN Workshop on Firms and Labor Markets
 * **2019** 2nd Joint BOE/FED/ECB Conference on Gender and Career Progression, Labor and Finance Group Conference at Chicago Booth, 2nd Nordic Initiative in Corporate Economics Conference, IFN Workshop of Firms and Labor Markets
 * **2018** EEA, SOLE, AFA, ASSA, Registerforskardagen, National Conference of Swedish Economists
