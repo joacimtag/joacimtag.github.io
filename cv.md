@@ -351,11 +351,10 @@ layout: default
 - **2008** Microsoft Research Redmond, Jul. 30-Aug. 7, Seattle
 
 ### Departmental Service
-- **2018-** Founder and chair of the Firms, Labor, and Entrepreneurship Research Group (FAME)
-- **2017-** Recruitment committee member
-- **2009-** Arranged with affiliations for Matti Keloharju, Samuli Knupfer, Kaveh Majlesi, Marco Pagano, and Annalisa Scognamiglio
+- **2018-** Founder and chair of the Firms, Labor, and Entrepreneurship Research (FAME) Group and Database
+- **2017-2020** Recruitment committee member
 - **2020-2021** Seminar series organizer
-- **2009-2018** Responsible for setting up and maintaining the IFN Corporate Database
+- **2009-2018** Founder and maintainer of the IFN Corporate Database
 - **2009-2011** Seminar series organizer
 
 ### Internal Presentations
