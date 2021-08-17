@@ -351,7 +351,7 @@ layout: default
 - **2008** Microsoft Research Redmond, Jul. 30-Aug. 7, Seattle
 
 ### Departmental Service
-- **2018-** Founder and chair of the Firms, Labor, and Entrepreneurship Research (FAME) Group and Database
+- **2018-** Founder and chair of the Firms, Labor, and Entrepreneurship (FAME) Research Group and Database
 - **2017-2020** Recruitment committee member
 - **2020-2021** Seminar series organizer
 - **2009-2018** Founder and maintainer of the IFN Corporate Database
