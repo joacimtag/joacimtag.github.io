@@ -39,8 +39,6 @@ layout: default
 
 1. Hellmann, Thomas F., Alexander Montag, and Joacim Tåg. 2019. “Foreign Investors and Domestic Company Growth: Evidence from US Venture Capital Investments in Sweden.” *SSRN Electronic Journal*, April. [https://doi.org/10.2139/ssrn.3372976](https://doi.org/10.2139/ssrn.3372976).
 
-1. Ljungqvist, Alexander, Lars Persson, and Joacim Tåg. 2018. “The Incredible Shrinking Stock Market: On the Political Economy Consequences of Excessive Delistings.” *SSRN Electronic Journal*, February. [https://doi.org/10.2139/ssrn.2714916](https://doi.org/10.2139/ssrn.2714916).
-
 ### Peer-reviewed international journals
 
 1. Koptyug, Nikita, Lars Persson, and Joacim Tåg. 2020. “Should We Worry About the Decline of the Public Corporation? A Brief Survey of the Economics and External Effects of the Stock Market.” *The North American Journal of Economics and Finance*, no. 51: 101061. [https://doi.org/10.1016/j.najef.2019.101061](https://doi.org/10.1016/j.najef.2019.101061).
@@ -96,6 +94,8 @@ layout: default
 ### Other
 
 1. Norbäck, Pehr-Johan, Lars Persson, and Joacim Tåg. 2018. “Private Equity Buyouts: Anti- or Pro-Competitive?” *CPI Antitrust Chronicle* 1 (January): 31–36. [SSRN](https://doi.org/10.2139/ssrn.3128858).
+
+1. Ljungqvist, Alexander, Lars Persson, and Joacim Tåg. 2018. “The Incredible Shrinking Stock Market: On the Political Economy Consequences of Excessive Delistings.” *European Corporate Governance Institute (ECGI)*, February. [https://doi.org/10.2139/ssrn.2714916](https://doi.org/10.2139/ssrn.2714916).
 
 1. Economides, Nicholas, and Joacim Tåg. 2013. “Network Neutrality and Network Management Regulation: Quality of Service, Price Discrimination, and Exclusive Contracts.” In *Research Handbook on Governance of the Internet*, edited by Ian Brown, 121–43. Cheltenham: Edward Elgar. [SSRN](https://dx.doi.org/10.2139/ssrn.2045623)
 

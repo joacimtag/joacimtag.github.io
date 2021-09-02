@@ -86,7 +86,7 @@ layout: default
 
 1. Koptyug, Nikita, Lars Persson, and Joacim Tåg. 2020. “Should We Worry About the Decline of the Public Corporation? A Brief Survey of the Economics and External Effects of the Stock Market.” *The North American Journal of Economics and Finance*, no. 51: 101061. [https://doi.org/10.1016/j.najef.2019.101061](https://doi.org/10.1016/j.najef.2019.101061).
 
-1. Ljungqvist, Alexander, Lars Persson, and Joacim Tåg. 2018. “The Incredible Shrinking Stock Market: On the Political Economy Consequences of Excessive Delistings.” *SSRN Electronic Journal*, February. [https://doi.org/10.2139/ssrn.2714916](https://doi.org/10.2139/ssrn.2714916).
+1. Ljungqvist, Alexander, Lars Persson, and Joacim Tåg. 2018. “The Incredible Shrinking Stock Market: On the Political Economy Consequences of Excessive Delistings.” *European Corporate Governance Institute (ECGI)*, February. [https://doi.org/10.2139/ssrn.2714916](https://doi.org/10.2139/ssrn.2714916).
 
 1. Koptyug, Nikita, Lars Persson, Roger Svensson, and Joacim Tåg. 2017. “Aktiemarknadens betydelse för näringslivet och samhällsekonomin.” *Ekonomisk Debatt* 7: 6–17. [PDF](https://www.nationalekonomi.se/sites/default/files/NEFfiler/45-7-nklprsjt.pdf)
 
