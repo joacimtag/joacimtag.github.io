@@ -10,7 +10,7 @@ He works on bringing Swedish registry data to the research frontier in [labor an
 
 ### Selected Research
 
-Olsson, M, and J. Tåg. 2021."[What Is the Cost of Privatization for Workers?](https://doi.org/10.2139/ssrn.3134462)" 
+Olsson, M, and J. Tåg. 2021."[What Is the Cost of Privatization for Workers?](https://doi.org/10.2139/ssrn.3134462)" Revise and resubmit at *The Journal of Finance*. 
 * The privatization of state-owned enterprises is on the agenda of policymakers across the globe. Using rich administrative data on firms and workers covering two decades, we study how privatization affects the careers and welfare of workers. Consistent with the effects of an initial reorganization of the workforce, wage income declines and unemployment increases. These effects are stronger for workers protected by state ownership. We do not find negative spillovers on family and health outcomes. We also demonstrate that privatization encourages workers to enter entrepreneurship. The firm-level productivity gains from privatization are approximately five times larger than the incumbent worker-level costs due to lost wage income.
 * <em>Presentations</em>: AASLE, AFA (scheduled), ANU, AEA, EALE, EFA, EEA, IFN, IFN Stockholm Conference and the Southwestern University of Finance and Economics.
 
