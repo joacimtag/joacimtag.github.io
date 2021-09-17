@@ -272,6 +272,7 @@ layout: default
 
 ### Some interviews and research mentions
 
+1. Yapp, Robin. 2021. “‘Slowbalisation’: Why Swedish Companies Are Moving Back Home.” *The Local*, August 5, 2021. 
 1. Folkesson, Malin. 2020. “Ett annorlunda år.” *Plastnet*, December 10, 2020.
 1. Cardona Cervantes, Gabriel. 2020. “Synsam bara först i raden – nu flyttar industrierna hem.” *fPlus, Arbetsmarknadsnytt*, December 3, 2020.
 1. Lindström, Olle. 2020. “Fler jobb fyttar hem.” *TT (The World News, Arbetsmarknadsnytt, Omni, DagensNäringsliv.se, Folkbladet, Enköpings-posten, Hallands Nyheter, Göteborgs-Posten, Västerbottens-Kuriren, Norra Skåne, ttela.se, Västerbottens Folkblad, Hallandsposten, Helsingborgs Dagblad, Bohusläningen, Västerviks-Tidningen, Hallands Nyheter, Helagotland, Södermanlands Nyheter, Enköpings-Posten, Sydsvenskan, Skånska Dagbladet, Allanyheter.com, Hallandsposten, E55, News55, Strömstads Tidning, Bohusläningen, Norrländska Socialdemokraten)*, October 9, 2020.
