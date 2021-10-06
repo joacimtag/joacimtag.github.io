@@ -131,7 +131,7 @@ layout: default
 
 ### Invited presentations
 
-* **2021** Jönköping International Business School, Stockholm School of Economics House of Innovation, University of Memphis, The Australian National University
+* **2021** Jönköping International Business School, Stockholm School of Economics House of Innovation, University of Memphis, The Australian National University, IFN
 * **2019** Aalto University, Lund University
 * **2018** CSEF, Örebro University, Ministry of Finance 
 * **2017** Stockholm Business School, Swedish House of Finance
@@ -205,6 +205,7 @@ layout: default
 * **2009** [IFN Stockholm Conference on the Economics of Ownership, Organization, and Industrial Development](https://www.ifn.se/eng/events/vaxholm/past-conferences/ownership), Stockholm
 
 ### Conference scientific committee memberships
+* **2021** The 2022 Midwest Finance Association Meetings
 * **2020** The 2021 Midwest Finance Association Meetings
 * **2019** [CSEF and RCFS Conference on Labor, Finance, and Inequality](http://www.csef.it/Conference-on-Finance-Labor-and)
 * **2018** SBS Conference on Board Diversity Quotas
