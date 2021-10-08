@@ -19,15 +19,21 @@ layout: default
 
 1. Tåg, Joacim. 2013. “Production Hierarchies in Sweden.” *Economics Letters* 121 (2): 210–13. [https://doi.org/10.1016/j.econlet.2013.08.001](https://doi.org/10.1016/j.econlet.2013.08.001).
 
-### Founders and Startups
+### Founders, Startups and Venture Capital
 
 1. Rider, Christopher I., Peter Thompson, Aleksandra Kacperczyk, and Joacim Tåg. 2019. “Experience and Entrepreneurship: A Career Transition Perspective.” *ILR Review* 72 (5): 1149–81. [https://doi.org/10.1177/0019793919852919](https://doi.org/10.1177/0019793919852919).
+
+1. Hellmann, Thomas F., Alexander Montag, and Joacim Tåg. 2019. “Foreign Investors and Domestic Company Growth: Evidence from US Venture Capital Investments in Sweden.” *SSRN Electronic Journal*, April. [https://doi.org/10.2139/ssrn.3372976](https://doi.org/10.2139/ssrn.3372976).
 
 1. Åstebro, Thomas, and Joacim Tåg. 2017. “Gross, Net, and New Job Creation by Entrepreneurs.” *Journal of Business Venturing Insights* 8 (November): 64–70. [https://doi.org/10.1016/j.jbvi.2017.06.001](https://doi.org/10.1016/j.jbvi.2017.06.001).
 
 1. Tåg, Joacim, Thomas Åstebro, and Peter Thompson. 2016. “Hierarchies and Entrepreneurship.” *European Economic Review* 89 (October): 129–47. [https://doi.org/10.1016/j.euroecorev.2016.06.007](https://doi.org/10.1016/j.euroecorev.2016.06.007).
 
 1. Norbäck, Pehr-Johan, Lars Persson, and Joacim Tåg. 2014. “Acquisitions, Entry, and Innovation in Oligopolistic Network Industries.” *International Journal of Industrial Organization* 37 (November): 1–12. [https://doi.org/10.1016/j.ijindorg.2014.07.003](https://doi.org/10.1016/j.ijindorg.2014.07.003).
+
+1. Lerner, J., and J. Tåg. 2013. “Institutions and Venture Capital.” *Industrial and Corporate Change* 22 (1): 153–82. [https://doi.org/10.1093/icc/dts050](https://doi.org/10.1093/icc/dts050).
+
+1. Tåg, Joacim. 2013. “Riskkapital till entreprenörer: Vilken roll spelar finansmarknaderna, skattepolitiken och arbetsmarknadsregleringarna?” *Swedish Economic Forum Report 2013: Institutioner och Incitament för Innovation*, edited by Pontus Braunerhjelm, 121–43. Stockholm: Entreprenörskapsforum. [PDF](/assets/pdfs/Tag2013.pdf)
 
 ### Regulating Tech Firms
 
@@ -76,7 +82,7 @@ layout: default
 
 1. Tåg, Joacim. 2012. “Real Effects of Private Equity.” In *The Oxford Handbook of Private Equity*, edited by Douglas Cumming, 269–99. Oxford: Oxford University Press. [SSRN](https://dx.doi.org/10.2139/ssrn.1674759)
 
-### Privatizations of State-owned Enterprises
+### State-owned Enterprises
 
 1. Olsson, Martin, and Joacim Tåg. 2021. “What Is the Cost of Privatization for Workers?” *SSRN Electronic Journal*, February. [https://doi.org/10.2139/ssrn.3134462](https://doi.org/10.2139/ssrn.3134462).
 
@@ -87,11 +93,3 @@ layout: default
 1. Ljungqvist, Alexander, Lars Persson, and Joacim Tåg. 2018. “The Incredible Shrinking Stock Market: On the Political Economy Consequences of Excessive Delistings.” *European Corporate Governance Institute (ECGI)*, February. [https://doi.org/10.2139/ssrn.2714916](https://doi.org/10.2139/ssrn.2714916).
 
 1. Koptyug, Nikita, Lars Persson, Roger Svensson, and Joacim Tåg. 2017. “Aktiemarknadens betydelse för näringslivet och samhällsekonomin.” *Ekonomisk Debatt* 7: 6–17. [PDF](https://www.nationalekonomi.se/sites/default/files/NEFfiler/45-7-nklprsjt.pdf)
-
-### Venture Capital
-
-1. Hellmann, Thomas F., Alexander Montag, and Joacim Tåg. 2019. “Foreign Investors and Domestic Company Growth: Evidence from US Venture Capital Investments in Sweden.” *SSRN Electronic Journal*, April. [https://doi.org/10.2139/ssrn.3372976](https://doi.org/10.2139/ssrn.3372976).
-
-1. Lerner, J., and J. Tåg. 2013. “Institutions and Venture Capital.” *Industrial and Corporate Change* 22 (1): 153–82. [https://doi.org/10.1093/icc/dts050](https://doi.org/10.1093/icc/dts050).
-
-1. Tåg, Joacim. 2013. “Riskkapital till entreprenörer: Vilken roll spelar finansmarknaderna, skattepolitiken och arbetsmarknadsregleringarna?” *Swedish Economic Forum Report 2013: Institutioner och Incitament för Innovation*, edited by Pontus Braunerhjelm, 121–43. Stockholm: Entreprenörskapsforum. [PDF](/assets/pdfs/Tag2013.pdf)
