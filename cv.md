@@ -35,7 +35,7 @@ layout: default
 
 1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. 2020. “CEO Health and Corporate Governance.” *SSRN Electronic Journal*, April. [https://doi.org/10.2139/ssrn.3560071](https://doi.org/10.2139/ssrn.3560071).
 
-1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. 2019. “What Prevents Women from Reaching the Top?” *SSRN Electronic Journal*, April. [https://doi.org/10.2139/ssrn.2730207](https://doi.org/10.2139/ssrn.2730207).
+1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. 2019. “What Prevents Women from Reaching the Top?” *SSRN Electronic Journal*, April. [https://doi.org/10.2139/ssrn.2730207](https://doi.org/10.2139/ssrn.2730207). Revise and resubmit at *Financial Management*
 
 1. Hellmann, Thomas F., Alexander Montag, and Joacim Tåg. 2019. “Foreign Investors and Domestic Company Growth: Evidence from US Venture Capital Investments in Sweden.” *SSRN Electronic Journal*, April. [https://doi.org/10.2139/ssrn.3372976](https://doi.org/10.2139/ssrn.3372976).
 

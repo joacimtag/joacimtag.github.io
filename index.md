@@ -19,11 +19,6 @@ Keloharju, M., S. Knüpfer, and J. Tåg. 2020. "[CEO Health and Corporate Govern
 * <em>Media coverage</em>: fPlus, VD Tidningen, Vaasa Insider. 
 * <em>Presentations</em>: Aalto, AFA, Bologna, BI, EFA, FEIBS, Hannover, HU-Berlin, IFN, JIBS, KI, LFG Workshop at Booth, LU, Memphis, SSE House of Innovation, Southampton, and TSE.
 
-Keloharju, M., S. Knüpfer, and J. Tåg. 2019. [What Prevents Women from Reaching the Top?](https://ssrn.com/abstract=2730207)"
-* We show that women are about one-half as likely to be large-company CEOs and about one-third less likely to be high earners than men. A wide range of observables do not explain the lack of women in top executive positions. Instead, slow career progression in the five years after the first childbirth explains most of the female disadvantage. 
-* <em>Media coverage</em>: Dagens Nyheter, Dagens Samhälle, Expressen, HBS Working Knowledge, Helsingin Sanomat, Huvudstadsbladet, Iltalehti, Nordic Business Report, Svenska Dagbladet, Talouselämä, Yle.
-* <em>Presentations</em>: BI, BC, BU, City, CSEF, HBS, HKBU, HKU, IFN, LNU, NU, NHH, SBS, SHOF, SU, MoF, UoB, Exeter, UMass, HSG, UU, ORU, AFA, NCSE, and SOLE.
-
 Colonnelli, E., J. Tåg, M. Webb, and S. Wolter. 2018. “[A Cross-Country Comparison of Dynamics in the Large Firm Wage Premium](https://doi.org/10.1257/pandp.20181067).” *AEA Papers and Proceedings* 108 (May): 323–27.
 * We provide stylized facts on the existence and dynamics over time of the large firm wage premium for Brazil, Germany, Sweden, and the United Kingdom. The large firm premium exists in all these countries. However, we uncover substantial differences among them in the evolution of the wage premium over time and no evidence of common cross-country industry trends.
 * <em>Presentations</em>: ASSA, IFN.
