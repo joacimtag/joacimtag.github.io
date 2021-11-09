@@ -35,7 +35,7 @@ layout: default
 
 1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. 2020. “CEO Health and Corporate Governance.” *SSRN Electronic Journal*, April. [https://doi.org/10.2139/ssrn.3560071](https://doi.org/10.2139/ssrn.3560071).
 
-1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. 2019. “What Prevents Women from Reaching the Top?” *SSRN Electronic Journal*, April. [https://doi.org/10.2139/ssrn.2730207](https://doi.org/10.2139/ssrn.2730207). Revise and resubmit at *Financial Management*
+1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. 2019. “What Prevents Women from Reaching the Top?” *SSRN Electronic Journal*, April. [https://doi.org/10.2139/ssrn.2730207](https://doi.org/10.2139/ssrn.2730207). Revise and resubmit at *Financial Management*.
 
 1. Hellmann, Thomas F., Alexander Montag, and Joacim Tåg. 2019. “Foreign Investors and Domestic Company Growth: Evidence from US Venture Capital Investments in Sweden.” *SSRN Electronic Journal*, April. [https://doi.org/10.2139/ssrn.3372976](https://doi.org/10.2139/ssrn.3372976).
 
@@ -76,6 +76,8 @@ layout: default
 1. Tåg, Joacim. 2009. “Competing Platforms and Third Party Application Developers.” *Communications & Strategies* 74 (2): 95–114. [PDF](/assets/pdfs/Tag2009.pdf)
 
 ### In Swedish
+
+1. Tåg, Joacim. 2021. Forskningsprogrammet Globaliseringen och företagen. Stockholm: IFN.[ PDF](/assets/pdfs/Tag2021.pdf)
 
 1. Tåg, Joacim. 2019. “IFN:s forskningsprogram globaliseringen och företagen 2009–2019.” In *IFN 1939–2019 – 80 år av ekonomisk forskning*, edited by Magnus Henrekson, 29–48. Stockholm: Ekerlids Förlag. [PDF](/assets/pdfs/Tag2019.pdf)
 
