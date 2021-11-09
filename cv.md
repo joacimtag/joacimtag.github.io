@@ -77,7 +77,7 @@ layout: default
 
 ### In Swedish
 
-1. Tåg, Joacim. 2021. Forskningsprogrammet Globaliseringen och företagen. Stockholm: IFN.[ PDF](/assets/pdfs/Tag2021.pdf)
+1. Tåg, Joacim. 2021. Forskningsprogrammet Globaliseringen och företagen. Stockholm: IFN. [PDF](/assets/pdfs/Tag2021.pdf)
 
 1. Tåg, Joacim. 2019. “IFN:s forskningsprogram globaliseringen och företagen 2009–2019.” In *IFN 1939–2019 – 80 år av ekonomisk forskning*, edited by Magnus Henrekson, 29–48. Stockholm: Ekerlids Förlag. [PDF](/assets/pdfs/Tag2019.pdf)
 
