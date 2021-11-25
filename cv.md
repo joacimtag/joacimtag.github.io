@@ -14,7 +14,6 @@ layout: default
 ## Positions
 
 ### Current
-- **2019--** [Associate Professor (Docent)](https://portal.research.lu.se/portal/en/persons/joacim-taag(0a797d65-9b2e-46ff-91aa-2307a568303e).html), Lund University, Lund
 - **2011--** [Program Director](https://www.ifn.se/en/researchers/ifn-researcher/joacim-tag/), Research Institute of Industrial Economics (IFN), Stockholm
 - **2008--** Research Fellow, Research Institute of Industrial Economics (IFN), Stockholm
 
@@ -23,9 +22,10 @@ layout: default
 - **2006--2007** Visiting Scholar, Stern School of Business, New York University, New York
 - **2005--2005** Teaching Assistant, Hanken School of Economics, Helsinki
 
-## Education
-- **2005--2008** D.Sc. in Economics, Hanken School of Economics, Helsinki
-- **2001--2005** B.Sc and M.Sc. in Economics, Hanken School of Economics, Helsinki
+## Degrees
+- **2019** Associate Professor (Docent), Lund University, Lund
+- **2008** D.Sc. in Economics, Hanken School of Economics, Helsinki
+- **2005** B.Sc and M.Sc. in Economics, Hanken School of Economics, Helsinki
 
 ## Publications
 
