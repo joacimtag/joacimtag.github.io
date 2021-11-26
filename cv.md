@@ -23,7 +23,7 @@ layout: default
 - **2005--2005** Teaching Assistant, Hanken School of Economics, Helsinki
 
 ## Degrees
-- **2019** Associate Professor (Docent), Lund University, Lund
+- **2019** Associate Professor (Docent) in Economics, Lund University, Lund
 - **2008** D.Sc. in Economics, Hanken School of Economics, Helsinki
 - **2005** B.Sc and M.Sc. in Economics, Hanken School of Economics, Helsinki
 
