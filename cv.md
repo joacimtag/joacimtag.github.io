@@ -216,7 +216,7 @@ layout: default
 ## Professional service
 
 ### Editorial boards
-* **2017-** Journal of Business Venturing
+* **2017-** Journal of Business Venturing (FT50)
 
 ### Referee reports
 * Canadian Journal of Economics, Economic Inquiry, Economic Journal, Games and Economic Behavior, Information Economics and Policy, Information Systems Research, International Journal of Industrial Organization, Journal of Business Venturing, Journal of Economic Behaviour and Organization, Journal of Economic Geography, Journal of Economics & Management Strategy, Journal of the European Economic Association, Journal of Labor Economics, Journal of Media Economics, Management Science, Review of Network Economics, Small Business Economics, Strategic Entrepreneurship Journal, Strategic Management Journal, Telecommunications Policy, Quarterly Journal of Economics. 
