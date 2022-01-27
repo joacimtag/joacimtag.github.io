@@ -142,7 +142,6 @@ layout: default
 ### Grants
 * **2020** Torsten Söderbergs Stiftelse (PI)
 * **2020** Marianne and Marcus Wallenberg Foundation (participant)
-* **2020** Jan Wallander and Tom Hedelius Foundation (participant)
 * **2019** CEIBS Cathay Cross-border Private Equity Research Fund (participant)
 * **2018** Torsten Söderbergs Stiftelse (PI)
 * **2016** Marianne and Marcus Wallenberg Foundation (participant)
