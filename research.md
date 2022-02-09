@@ -35,7 +35,7 @@ layout: default
 
 1. Tåg, Joacim. 2013. “Riskkapital till entreprenörer: Vilken roll spelar finansmarknaderna, skattepolitiken och arbetsmarknadsregleringarna?” *Swedish Economic Forum Report 2013: Institutioner och Incitament för Innovation*, edited by Pontus Braunerhjelm, 121–43. Stockholm: Entreprenörskapsforum. [PDF](/assets/pdfs/Tag2013.pdf)
 
-### Regulating Tech Firms
+### Regulating New Technologies
 
 1. Tangerås, Thomas P., and Joacim Tåg. 2016. “International Network Competition Under National Regulation.” *International Journal of Industrial Organization* 47 (July): 152–85. [https://doi.org/10.1016/j.ijindorg.2016.04.006](https://doi.org/10.1016/j.ijindorg.2016.04.006).
 
