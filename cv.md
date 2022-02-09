@@ -35,11 +35,11 @@ layout: default
 
 1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. 2021. “CEO Health.” *SSRN Electronic Journal*, November. [https://doi.org/10.2139/ssrn.3560071](https://doi.org/10.2139/ssrn.3560071).
 
-1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. 2019. “What Prevents Women from Reaching the Top?” *SSRN Electronic Journal*. [https://doi.org/10.2139/ssrn.2730207](https://doi.org/10.2139/ssrn.2730207). Conditionally accepted at *Financial Management*.
-
 1. Hellmann, Thomas F., Alexander Montag, and Joacim Tåg. 2019. “Foreign Investors and Domestic Company Growth: Evidence from US Venture Capital Investments in Sweden.” *SSRN Electronic Journal*, April. [https://doi.org/10.2139/ssrn.3372976](https://doi.org/10.2139/ssrn.3372976).
 
 ### Peer-reviewed international journals
+
+1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. Forthcoming. “What Prevents Women from Reaching the Top?” *Financial Management*. [https://doi.org/10.2139/ssrn.2730207](https://doi.org/10.2139/ssrn.2730207)
 
 1. Koptyug, Nikita, Lars Persson, and Joacim Tåg. 2020. “Should We Worry About the Decline of the Public Corporation? A Brief Survey of the Economics and External Effects of the Stock Market.” *The North American Journal of Economics and Finance*, no. 51: 101061. [https://doi.org/10.1016/j.najef.2019.101061](https://doi.org/10.1016/j.najef.2019.101061).
 
