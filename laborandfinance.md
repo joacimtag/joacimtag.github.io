@@ -5,7 +5,7 @@ layout: default
 
 ### What is Labor and Finance?
 
-Labor and Finance and is a field that gathers academics working at the intersection of finance, labor, personnel, and organizational economics.
+Labor and Finance and is a field that gathers academics working at the intersection of finance, labor, entrepreneurship, personnel, and organizational economics. Most of my research is concentrated in this field.
 
 ### Who works in the field?
 
