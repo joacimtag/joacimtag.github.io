@@ -77,21 +77,9 @@ layout: default
 
 ### In Swedish
 
-1. Tåg, Joacim. 2022. “Sverige behöver en blockkedjestrategi.” Svenska Dagbladet, January 17.
-
 1. Tåg, Joacim. 2021. Forskningsprogrammet Globaliseringen och företagen. Stockholm: IFN. [PDF](/assets/pdfs/Tag2021.pdf)
 
-1. Tåg, Joacim. 2021. “Så kan Österbotten attrahera ﬂer internationella företag.” *Vaasa Insider*, December 7.
-
-1. Tåg, Joacim. 2019. “Dessa egenskaper har toppchefer.” *Botnia Insider*, November 28.
-
-1. Tåg, Joacim. 2019. “Dessa egenskaper har toppchefer.” *Vaasa Insider*, November 11.
-
 1. Tåg, Joacim. 2019. “IFN:s forskningsprogram globaliseringen och företagen 2009–2019.” In *IFN 1939–2019 – 80 år av ekonomisk forskning*, edited by Magnus Henrekson, 29–48. Stockholm: Ekerlids Förlag. [PDF](/assets/pdfs/Tag2019.pdf)
-
-1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. 2018. “Så når fler kvinnor toppen.” *Dagens Industri*, October 19.
-
-1. Tåg, Joacim. 2018. “Så viktig är Teslas batterifabrik för Österbotten.” *Vaasa Insider*, July.
 
 1. Olsson, Martin, and Joacim Tåg. 2017. “Påverkar riskkapitalinvesteringar anställda och samhällsekonomin?” *Ekonomisk Debatt* 8: 26–36. [PDF](https://www.nationalekonomi.se/sites/default/files/NEFfiler/45-8-mojt.pdf)
 
@@ -101,13 +89,7 @@ layout: default
 
 1. Tåg, Joacim. 2013. “Riskkapital till entreprenörer: Vilken roll spelar finansmarknaderna, skattepolitiken och arbetsmarknadsregleringarna?” *Swedish Economic Forum Report 2013: Institutioner och Incitament för Innovation*, edited by Pontus Braunerhjelm, 121–43. Stockholm: Entreprenörskapsforum. [PDF](/assets/pdfs/Tag2013.pdf)
 
-1. Lerner, Josh, and Joacim Tåg. 2012. “Mer måste göras nu för framtida tillväxt.” *Svenska Dagbladet*, July 13.
-
-1. Jordahl, Henrik, and Joacim Tåg. 2011. “Riskkapitalbolag är bra ägare.” *Svenska Dagbladet*, November.
-
 1. Tåg, Joacim. 2011. “Utköpsbolagens roll i näringslivet.” IFN Newsletter 2: 1–5. [PDF](/assets/pdfs/Tag2011.pdf)
-
-1. Henrekson, Magnus, and Joacim Tåg. 2009. “Henrekson & Tåg vill höja teveavgiften.” *Arena*, November.
 
 1. Tåg, Joacim. 2009. “Policies och regleringar i telekommunikations-, media- och teknologiindustrierna.” *Ekonomiska Samfundets Tidskrift* 2/09: 83–87. [PDF](/assets/pdfs/Tag2009_EST.pdf)
 
