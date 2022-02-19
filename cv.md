@@ -115,8 +115,6 @@ layout: default
 
 1. Persson, Lars, and Joacim Tåg. 2010. “Book Review: Antitrust and Regulation in the EU and US: Legal and Economic Perspectives.” *Journal of Economic Literature* 48 (4): 1028–59. [https://doi.org/10.1257/jel.48.4.1028](https://doi.org/10.1257/jel.48.4.1028).
 
-1. Guo, Hong, Hsing K Cheng, Scott Holladay, Joacim Tåg, and Subhajyoti Bandyopadhyay. 2010. “Building a Better Net?” *Politico*, September 22.
-
 1. Tåg, Joacim. 2009. “Essays on Platforms: Business Strategies, Regulation and Policy in Telecommunications, Media and Technology Industries.” Helsinki: Hanken School of Economics. [http://urn.fi/URN:ISBN:978-952-232-009-4](http://urn.fi/URN:ISBN:978-952-232-009-4).
 
 ## Grants and Awards
@@ -216,6 +214,7 @@ layout: default
 * **2009** [IFN Stockholm Conference on the Economics of Ownership, Organization, and Industrial Development](https://www.ifn.se/eng/events/vaxholm/past-conferences/ownership), Stockholm
 
 ### Conference scientific committee memberships
+* **2022** The CSEF and RCFS Conference on Labor, Finance, and Inequality
 * **2021** The 2022 Midwest Finance Association Meetings
 * **2020** The 2021 Midwest Finance Association Meetings
 * **2019** [CSEF and RCFS Conference on Labor, Finance, and Inequality](http://www.csef.it/Conference-on-Finance-Labor-and)
@@ -271,15 +270,10 @@ layout: default
 1. Tåg, Joacim. “Så kan Österbotten attrahera ﬂer internationella företag.” *Vaasa Insider*, December 7, 2021.
 1. Tåg, Joacim. “Dessa egenskaper har toppchefer.” *Botnia Insider*, November 28, 2019.
 1. Tåg, Joacim. “Dessa egenskaper har toppchefer.” *Vaasa Insider*, November 11, 2019.
-1. Hellmann, Thomas, Alexander Montag, and Joacim Tåg. “Foreign Investors and Domestic Company Growth: Evidence from US Venture Capital Investments in Sweden.” *Tuck Center Forum for PE & VC*, April 11, 2019.
-1. Norbäck, Pehr-Johan, Lars Persson, and Joacim Tåg. “Private Equity Buyouts: Anti- or Pro-Competitive?” *Tuck Center Forum for PE & VC*, June 2019.
 1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. “Så når fler kvinnor toppen.” *Dagens Industri*, October 19, 2018.
 1. Tåg, Joacim. “Så viktig är Teslas batterifabrik för Österbotten.” *Vaasa Insider*, July 2018.
-1. Ljungqvist, Alexander, Lars Persson, and Joacim Tåg. “Private Equity’s Unintended Dark Side.” *CLS Blue Sky Blog*, February 17, 2016.
-1. Olsson, Martin, and Joacim Tåg. “Private Equity: Transformation or Tax Evasion?” *IFN Newsletter*, January 2015.
 1. Lerner, Josh, and Joacim Tåg. “Mer måste göras nu för framtida tillväxt.” *Svenska Dagbladet*, July 13, 2012.
 1. Jordahl, Henrik, and Joacim Tåg. “Riskkapitalbolag är bra ägare.” *Svenska Dagbladet*, November 2011.
-1. Tåg, Joacim. “Utköpsbolagens roll i näringslivet.” *IFN Newsletter*, 2011.
 1. Guo, Hong, Hsing K Cheng, Scott Holladay, Joacim Tåg, and Subhajyoti Bandyopadhyay. “Building a Better Net?” *Politico*, September 22, 2010.
 1. Henrekson, Magnus, and Joacim Tåg. “Henrekson & Tåg vill höja teveavgiften.” *Arena*, November 2009.
 
