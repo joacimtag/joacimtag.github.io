@@ -60,14 +60,14 @@ layout: default
 
 ### CEOs
 
-1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. Forthcoming. “What Prevents Women from Reaching the Top?” *Financial Management*. [https://doi.org/10.2139/ssrn.2730207](https://doi.org/10.2139/ssrn.2730207)
+1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. Forthcoming. “What Prevents Women from Reaching the Top?” *Financial Management*. [https://doi.org/10.1111/fima.12390](https://doi.org/10.1111/fima.12390)
 
-1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. 2021. “CEO Health” *SSRN Electronic Journal*, November. [https://doi.org/10.2139/ssrn.3560071](https://doi.org/10.2139/ssrn.3560071).
+1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. 2021. “CEO Health” *SSRN Electronic Journal*, November. [https://doi.org/10.2139/ssrn.3560071](https://doi.org/10.2139/ssrn.3560071). Revise and resubmit at *The Leadership Quarterly*.
 
 
 ### Private Equity Buyouts
 
-1. Norbäck, Pehr-Johan, Lars Persson, and Joacim Tåg. 2018. “Private Equity Buyouts: Anti- or Pro-Competitive?” *CPI Antitrust Chronicle* 1 (January): 31–36. [SSRN](https://doi.org/10.2139/ssrn.3128858).
+1. Norbäck, Pehr-Johan, Lars Persson, and Joacim Tåg. 2018. “Private Equity Buyouts: Anti- or Pro-Competitive?” *CPI Antitrust Chronicle* 1 (January): 31–36. [https://doi.org/10.2139/ssrn.3128858](https://doi.org/10.2139/ssrn.3128858).
 
 1. Olsson, Martin, and Joacim Tåg. 2018. “Are Foreign Private Equity Buyouts Bad for Workers?” *Economics Letters* 172 (November): 1–4. [https://doi.org/10.1016/j.econlet.2018.08.002](https://doi.org/10.1016/j.econlet.2018.08.002).
 
