@@ -39,7 +39,7 @@ layout: default
 
 ### Peer-reviewed international journals
 
-1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. Forthcoming. “What Prevents Women from Reaching the Top?” *Financial Management*. [https://doi.org/10.2139/ssrn.2730207](https://doi.org/10.2139/ssrn.2730207)
+1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. Forthcoming. “What Prevents Women from Reaching the Top?” *Financial Management*. [https://doi.org/10.1111/fima.12390](https://doi.org/10.1111/fima.12390)
 
 1. Koptyug, Nikita, Lars Persson, and Joacim Tåg. 2020. “Should We Worry About the Decline of the Public Corporation? A Brief Survey of the Economics and External Effects of the Stock Market.” *The North American Journal of Economics and Finance*, no. 51: 101061. [https://doi.org/10.1016/j.najef.2019.101061](https://doi.org/10.1016/j.najef.2019.101061).
 
@@ -77,7 +77,7 @@ layout: default
 
 ### In Swedish
 
-1. Tåg, Joacim. 2021. Forskningsprogrammet Globaliseringen och företagen. Stockholm: IFN. [PDF](/assets/pdfs/Tag2021.pdf)
+1. Tåg, Joacim. 2021. "Forskningsprogrammet Globaliseringen och företagen." Stockholm: IFN. [PDF](/assets/pdfs/Tag2021.pdf)
 
 1. Tåg, Joacim. 2019. “IFN:s forskningsprogram globaliseringen och företagen 2009–2019.” In *IFN 1939–2019 – 80 år av ekonomisk forskning*, edited by Magnus Henrekson, 29–48. Stockholm: Ekerlids Förlag. [PDF](/assets/pdfs/Tag2019.pdf)
 
@@ -85,11 +85,11 @@ layout: default
 
 1. Koptyug, Nikita, Lars Persson, Roger Svensson, and Joacim Tåg. 2017. “Aktiemarknadens betydelse för näringslivet och samhällsekonomin.” *Ekonomisk Debatt* 7: 6–17. [PDF](https://www.nationalekonomi.se/sites/default/files/NEFfiler/45-7-nklprsjt.pdf)
 
-1. Tåg, Joacim. 2016. Forskningsprogrammet Globaliseringen och företagen. Stockholm: IFN. [PDF](/assets/pdfs/Tag2016.pdf)
+1. Tåg, Joacim. 2016. "Forskningsprogrammet Globaliseringen och företagen." Stockholm: IFN. [PDF](/assets/pdfs/Tag2016.pdf)
 
 1. Tåg, Joacim. 2013. “Riskkapital till entreprenörer: Vilken roll spelar finansmarknaderna, skattepolitiken och arbetsmarknadsregleringarna?” *Swedish Economic Forum Report 2013: Institutioner och Incitament för Innovation*, edited by Pontus Braunerhjelm, 121–43. Stockholm: Entreprenörskapsforum. [PDF](/assets/pdfs/Tag2013.pdf)
 
-1. Tåg, Joacim. 2011. “Utköpsbolagens roll i näringslivet.” IFN Newsletter 2: 1–5. [PDF](/assets/pdfs/Tag2011.pdf)
+1. Tåg, Joacim. 2011. “Utköpsbolagens roll i näringslivet.” *IFN Newsletter* 2: 1–5. [PDF](/assets/pdfs/Tag2011.pdf)
 
 1. Tåg, Joacim. 2009. “Policies och regleringar i telekommunikations-, media- och teknologiindustrierna.” *Ekonomiska Samfundets Tidskrift* 2/09: 83–87. [PDF](/assets/pdfs/Tag2009_EST.pdf)
 
@@ -266,6 +266,7 @@ layout: default
 
 ### Op-eds
 
+1. Tåg, Joacim. "Vi behöver fler utländska investerare." *Vaasa Insider*, 4 March 2022.
 1. Tåg, Joacim. “Sverige behöver en blockkedjestrategi.” *Svenska Dagbladet*, January 17, 2022.
 1. Tåg, Joacim. “Så kan Österbotten attrahera ﬂer internationella företag.” *Vaasa Insider*, December 7, 2021.
 1. Tåg, Joacim. “Dessa egenskaper har toppchefer.” *Botnia Insider*, November 28, 2019.
