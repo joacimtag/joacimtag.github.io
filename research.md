@@ -60,7 +60,7 @@ layout: default
 
 ### CEOs
 
-1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. Forthcoming. “What Prevents Women from Reaching the Top?” *Financial Management*. [https://doi.org/10.1111/fima.12390](https://doi.org/10.1111/fima.12390)
+1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. 2022. “What Prevents Women from Reaching the Top?” *Financial Management*, 1–28. [https://doi.org/10.1111/fima.12390](https://doi.org/10.1111/fima.12390)
 
 1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. 2021. “CEO Health” *SSRN Electronic Journal*, November. [https://doi.org/10.2139/ssrn.3560071](https://doi.org/10.2139/ssrn.3560071). Revise and resubmit at *The Leadership Quarterly*.
 
