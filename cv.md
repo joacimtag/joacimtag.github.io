@@ -22,6 +22,12 @@ layout: default
 - **2006--2007** Visiting Scholar, Stern School of Business, New York University, New York
 - **2005--2005** Teaching Assistant, Hanken School of Economics, Helsinki
 
+### Professional networks
+- **2022--** External Fellow, [Centre for Private Equity and MBO Research](https://www.nottingham.ac.uk/business/who-we-are/centres-and-institutes/cmbor/index.aspx)
+- **2017--** Member, [The Labor and Finance Working Group](https://sites.google.com/site/laborandfinancegroup/) 
+- **2013--** Member, [Firms, Organizations, and Markets Working Group](https://sites.google.com/site/uscfom/finance-organizations-and-markets-fom-research-group)
+
+
 ## Degrees
 - **2019** Associate Professor (Docent) in Economics, Lund University, Lund
 - **2008** D.Sc. in Economics, Hanken School of Economics, Helsinki
