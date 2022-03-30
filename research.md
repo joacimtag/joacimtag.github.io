@@ -60,7 +60,7 @@ layout: default
 
 ### CEOs and Managers
 
-1. Coraggio, Luca, Marco Pagano, Annalisa Scognamiglio and Joacim Tåg. 2022."[JAQ of All Trades: Job Mismatch, Firm Productivity and Managerial Quality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4069721)" 
+1. Coraggio, Luca, Marco Pagano, Annalisa Scognamiglio and Joacim Tåg. 2022. "JAQ of All Trades: Job Mismatch, Firm Productivity and Managerial Quality" *SSRN Electronic Journal*, March. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4069721](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4069721)" 
 
 1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. 2022. “What Prevents Women from Reaching the Top?” *Financial Management*, 1–28. [https://doi.org/10.1111/fima.12390](https://doi.org/10.1111/fima.12390)
 
