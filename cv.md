@@ -31,7 +31,7 @@ layout: default
 
 ### Working papers
 
-1. Coraggio, Luca, Marco Pagano, Annalisa Scognamiglio and Joacim Tåg. 2022. "JAQ of All Trades: Job Mismatch, Firm Productivity and Managerial Quality" *SSRN Electronic Journal*, March. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4069721](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4069721)" 
+1. Coraggio, Luca, Marco Pagano, Annalisa Scognamiglio and Joacim Tåg. 2022. "JAQ of All Trades: Job Mismatch, Firm Productivity and Managerial Quality" *SSRN Electronic Journal*, March. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4069721](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4069721).
 
 1. Olsson, Martin, and Joacim Tåg. 2021. “What Is the Cost of Privatization for Workers?” *SSRN Electronic Journal*, February. [https://doi.org/10.2139/ssrn.3134462](https://doi.org/10.2139/ssrn.3134462). Revise and resubmit at *The Journal of Finance*.
 
