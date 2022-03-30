@@ -24,8 +24,8 @@ layout: default
 
 ### Professional networks
 - **2022--** External Fellow, [Centre for Private Equity and MBO Research](https://www.nottingham.ac.uk/business/who-we-are/centres-and-institutes/cmbor/index.aspx)
-- **2017--** Member, [The Labor and Finance Working Group](https://sites.google.com/site/laborandfinancegroup/)
-- **2013--** Member, [The Firms, Organizations, and Markets Working Group](https://sites.google.com/site/uscfom/finance-organizations-and-markets-fom-research-group)
+- **2017--** Member, [Labor and Finance Working Group](https://sites.google.com/site/laborandfinancegroup/)
+- **2013--** Member, [Firms, Organizations, and Markets Working Group](https://sites.google.com/site/uscfom/finance-organizations-and-markets-fom-research-group)
 
 
 ## Degrees
