@@ -16,7 +16,7 @@ Sweden
 
 ### E-mail
 
-joacim.tag(at)ifn.se
+[joacim.tag@ifn.se](mailto:joacim.tag@ifn.se)
 
 ### Twitter
 

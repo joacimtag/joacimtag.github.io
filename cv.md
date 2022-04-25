@@ -148,6 +148,7 @@ layout: default
 
 ### Invited presentations
 
+* **2022** Örebro University (scheduled), IFN (scheduled)
 * **2021** Jönköping International Business School, Stockholm School of Economics House of Innovation, University of Memphis, The Australian National University, IFN
 * **2019** Aalto University, Lund University
 * **2018** CSEF, Örebro University, Ministry of Finance 
