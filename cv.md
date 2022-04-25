@@ -7,7 +7,7 @@ layout: default
 
 ## Contact
 - **Mail:** Research Institute of Industrial Economics, Box 55665, SE-102 15 Stockholm, Sweden<br>
-- **Phone:** +46 (0)8 665 4524<br>
+- **Phone:** +46 73 033 7977<br>
 - **E-mail:** [joacim.tag@ifn.se](mailto: joacim.tag@ifn.se)<br>
 - **Web:** [www.joacimtag.se](https://www.joacimtag.se) <br>
 
