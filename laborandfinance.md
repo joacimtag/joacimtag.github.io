@@ -16,5 +16,5 @@ Labor and Finance and is a field that gathers academics working at the intersect
 You can check out the [Labor and Finance Online Seminar](https://sites.google.com/view/lfos) or the [past conferences](https://sites.google.com/site/laborandfinancegroup/home/past-conferences) of the Labor and Finance Group. Here are also links to a few recent conferences:
 
 * **2022** [CSEF Conference on Finance, Labor and Inequality](https://csef.it/2022/conference-on-finance-labor-and-inequality-capri-17-18-june-2022/)
-* **2022** [Labor and Finance Group Conference at Olin Business School] (https://event.olin.wustl.edu/labor-and-finance-conference/pages/programme)
+* **2022** [Labor and Finance Group Conference at Olin Business School](https://event.olin.wustl.edu/labor-and-finance-conference/pages/programme)
 * **2019** [Labor and Finance Group Conference at Booth](https://research.chicagobooth.edu/famamiller/labor-and-finance-group-conference)
