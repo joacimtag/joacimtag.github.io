@@ -5,7 +5,7 @@ layout: default
 
 <p style="font-size:150%;" align="center"><b>Technological Change</b></p>
 
-### Automation and Globalisation
+### Automation and Globalization
 
 1. Hellmann, Thomas F., Alexander Montag, and Joacim Tåg. 2019. “Foreign Investors and Domestic Company Growth: Evidence from US Venture Capital Investments in Sweden.” *SSRN Electronic Journal*, April. [https://doi.org/10.2139/ssrn.3372976](https://doi.org/10.2139/ssrn.3372976).
 
@@ -19,7 +19,7 @@ layout: default
 
 1. Tåg, Joacim. 2013. “Production Hierarchies in Sweden.” *Economics Letters* 121 (2): 210–13. [https://doi.org/10.1016/j.econlet.2013.08.001](https://doi.org/10.1016/j.econlet.2013.08.001).
 
-### Founders and Startups
+### Startups, Founders, and Ecosystems
 
 1. Rider, Christopher I., Peter Thompson, Aleksandra Kacperczyk, and Joacim Tåg. 2019. “Experience and Entrepreneurship: A Career Transition Perspective.” *ILR Review* 72 (5): 1149–81. [https://doi.org/10.1177/0019793919852919](https://doi.org/10.1177/0019793919852919).
 
@@ -55,8 +55,7 @@ layout: default
 
 1. Tåg, Joacim. 2009. “Essays on Platforms: Business Strategies, Regulation and Policy in Telecommunications, Media and Technology Industries.” Helsinki: Hanken School of Economics. [http://urn.fi/URN:ISBN:978-952-232-009-4](http://urn.fi/URN:ISBN:978-952-232-009-4).
 
-
-<p style="font-size:150%;" align="center"><b>Corporate Ownership and Governance</b></p>
+<p style="font-size:150%;" align="center"><b>Corporate Ownership and Control</b></p>
 
 ### CEOs and Managers
 
@@ -65,7 +64,6 @@ layout: default
 1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. 2022. “What Prevents Women from Reaching the Top?” *Financial Management*, 1–28. [https://doi.org/10.1111/fima.12390](https://doi.org/10.1111/fima.12390).
 
 1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. 2021. “CEO Health” *SSRN Electronic Journal*, November. [https://doi.org/10.2139/ssrn.3560071](https://doi.org/10.2139/ssrn.3560071). Revise and resubmit at *The Leadership Quarterly*.
-
 
 ### Private Equity Buyouts
 
