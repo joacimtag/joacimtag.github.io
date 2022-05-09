@@ -105,6 +105,8 @@ layout: default
 
 ### Other
 
+1. Coraggio, Luca, Marco Pagano, Annalisa Scognamiglio, and Joacim Tåg. 2022. “The Matching Between Workers and Jobs Explains Productivity Differentials Across Firms.” VoxEU.org (blog). May 9, 2022. [Link](https://voxeu.org/article/matching-between-workers-and-jobs-explains-productivity-differentials-across-firms).
+
 1. Hellmann, Thomas, Alexander Montag, and Joacim Tåg. 2019. “Foreign Investors and Domestic Company Growth: Evidence from US Venture Capital Investments in Sweden.” *Tuck Center Forum for PE & VC*, April 11.
 
 1. Norbäck, Pehr-Johan, Lars Persson, and Joacim Tåg. 2019. “Private Equity Buyouts: Anti- or Pro-Competitive?” *Tuck Center Forum for PE & VC*, June.
@@ -187,6 +189,7 @@ layout: default
 * **2005** FDPE Microeconomics and IO Workshop 
 
 ### Conference discussions or attendance
+* **2022** The CSEF and RCFS Conference on Labor, Finance, and Inequality
 * **2021** NFN Young Scholar Webinar
 * **2020** Labor and Finance Group Conference, EEA, FOM Working Group Conference
 * **2019** KWC Conference on Entrepreneurial Finance, BI Corporate Governance Conference, SEF Conference on Finance, Labor and Inquality
