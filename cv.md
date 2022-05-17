@@ -132,16 +132,20 @@ layout: default
 ## Grants and Awards
 
 ### Grants
+* **2022** Jan Wallanders och Tom Hedelius stiftelse (PI)
 * **2020** Torsten Söderbergs Stiftelse (PI)
 * **2020** Marianne and Marcus Wallenberg Foundation (participant)
 * **2019** CEIBS Cathay Cross-border Private Equity Research Fund (participant)
 * **2018** Torsten Söderbergs Stiftelse (PI)
 * **2016** Marianne and Marcus Wallenberg Foundation (participant)
 * **2015** Svenska Fondhandlare-föreningens Understödsfond (participant)
-* **2011** Vinnova (participant), Marianne and Marcus Wallenberg Foundation (participant), Jan Wallander and Tom Hedelius Foundation (participant)
+* **2011** Vinnova (participant)
+* **2011** Marianne and Marcus Wallenberg Foundation (participant)
+* **2011** Jan Wallander and Tom Hedelius Foundation (participant)
 * **2009** OMX Nasdaq Foundation (participant)
 * **2008** NET Institute (PI)
-* **2006** Hanken Foundation (PI), ASLA-Fulbright (PI)
+* **2006** Hanken Foundation (PI)
+* **2006** ASLA-Fulbright (PI)
 
 ### Awards
 
