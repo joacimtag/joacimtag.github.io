@@ -156,7 +156,7 @@ layout: default
 
 ### Invited presentations
 
-* **2022** Örebro University (scheduled), Ratio (scheduled) IFN
+* **2022** Örebro University (scheduled), Ratio (scheduled), IFN
 * **2021** Jönköping International Business School, Stockholm School of Economics House of Innovation, University of Memphis, The Australian National University, IFN
 * **2019** Aalto University, Lund University
 * **2018** CSEF, Örebro University, Ministry of Finance 
@@ -174,7 +174,7 @@ layout: default
 ### Conference presentations
 
 * **2023** AFA (scheduled)
-* **2022** AFA
+* **2022** AFA, Swedish Conference in Economics (scheduled)
 * **2021** AFA, EFA
 * **2020** EFA, IFN Workshop on Firms and Labor Markets
 * **2019** 2nd Joint BOE/FED/ECB Conference on Gender and Career Progression, Labor and Finance Group Conference at Chicago Booth, 2nd Nordic Initiative in Corporate Economics Conference, IFN Workshop of Firms and Labor Markets
@@ -194,7 +194,7 @@ layout: default
 * **2005** FDPE Microeconomics and IO Workshop 
 
 ### Conference discussions or attendance
-* **2022** The CSEF and RCFS Conference on Labor, Finance, and Inequality (scheduled)
+* **2022** The CSEF and RCFS Conference on Labor, Finance, and Inequality
 * **2021** NFN Young Scholar Webinar
 * **2020** Labor and Finance Group Conference, EEA, FOM Working Group Conference
 * **2019** KWC Conference on Entrepreneurial Finance, BI Corporate Governance Conference, SEF Conference on Finance, Labor and Inquality
