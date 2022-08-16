@@ -14,6 +14,7 @@ layout: default
 ## Positions
 
 ### Current
+- **2022--** Professor, Hanken School of Economics, Helsinki
 - **2011--** [Program Director](https://www.ifn.se/en/researchers/ifn-researcher/joacim-tag/), Research Institute of Industrial Economics (IFN), Stockholm
 - **2008--** Research Fellow, Research Institute of Industrial Economics (IFN), Stockholm
 
@@ -36,6 +37,8 @@ layout: default
 ## Publications
 
 ### Working papers
+
+1. Keloharju, Matti, Samuli Knüpfer, Dagmar Müller, and Joacim Tåg. 2022. "PhD studies hurt mental health, but less than you think" *SSRN Electronic Journal*, August. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4190289](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4190289)
 
 1. Coraggio, Luca, Marco Pagano, Annalisa Scognamiglio and Joacim Tåg. 2022. "JAQ of All Trades: Job Mismatch, Firm Productivity and Managerial Quality" *SSRN Electronic Journal*, March. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4069721](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4069721).
 
@@ -254,17 +257,19 @@ layout: default
 
 ## Teaching
 
+### Hanken School of Economics
+* **2023** Empirical Methods in Economics (Lecturer, MSc level, scheduled)
+* **2022** Economics of New Ventures and Innovation (Lecturer, MSc level, scheduled)
+* **2008** Economics of Strategy (TA), Strategic Competition (TA)
+* **2007** Microeconomic Analysis (TA), Strategic Competition (TA)
+* **2006** Economics of Strategy (TA)
+* **2004** Principles of Economics (TA)
+
 ### Lund University
 * **2013** IO and Corporate Finance Theory (Lecturer, PhD level course)
 
 ###  Stockholm School of Economics
 * **2010** Corporate Finance Theory (Lecturer, MSc level course)
-
-### Hanken School of Economics
-* **2008** Economics of Strategy (TA), Strategic Competition (TA)
-* **2007** Microeconomic Analysis (TA), Strategic Competition (TA)
-* **2006** Economics of Strategy (TA)
-* **2004** Principles of Economics (TA)
 
 ## Media
 
