@@ -97,7 +97,7 @@ layout: default
 
 ### Venture Capital
 
-1. 1. Norbäck, Pehr-Johan, Lars Persson, and Joacim Tåg. 2022. “Risky Business: Venture Capital, Pivoting and Scaling”, May. Revise and resubmit at *Journal of Business Venturing*.
+1. Norbäck, Pehr-Johan, Lars Persson, and Joacim Tåg. 2022. “Risky Business: Venture Capital, Pivoting and Scaling”, May. Revise and resubmit at *Journal of Business Venturing*.
 
 1. Hellmann, Thomas F., Alexander Montag, and Joacim Tåg. 2019. “Foreign Investors and Domestic Company Growth: Evidence from US Venture Capital Investments in Sweden.” *SSRN Electronic Journal*, April. [https://doi.org/10.2139/ssrn.3372976](https://doi.org/10.2139/ssrn.3372976).
 
