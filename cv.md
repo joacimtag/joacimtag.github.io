@@ -14,7 +14,7 @@ layout: default
 ## Positions
 
 ### Current
-- **2022--** Professor, Hanken School of Economics, Helsinki
+- **2022--** Professor of Economics, [Hanken School of Economics](https://www.hanken.fi), Helsinki
 - **2011--** [Program Director](https://www.ifn.se/en/researchers/ifn-researcher/joacim-tag/), Research Institute of Industrial Economics (IFN), Stockholm
 - **2008--** Research Fellow, Research Institute of Industrial Economics (IFN), Stockholm
 
