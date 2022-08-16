@@ -19,7 +19,7 @@ layout: default
 
 ### Startups, Founders, and Ecosystems
 
-1. 1. Norbäck, Pehr-Johan, Lars Persson, and Joacim Tåg. 2022. “Risky Business: Venture Capital, Pivoting and Scaling”, May. Revise and resubmit at *Journal of Business Venturing*.
+1. Norbäck, Pehr-Johan, Lars Persson, and Joacim Tåg. 2022. “Risky Business: Venture Capital, Pivoting and Scaling”, May. Revise and resubmit at *Journal of Business Venturing*.
 
 1. Rider, Christopher I., Peter Thompson, Aleksandra Kacperczyk, and Joacim Tåg. 2019. “Experience and Entrepreneurship: A Career Transition Perspective.” *ILR Review* 72 (5): 1149–81. [https://doi.org/10.1177/0019793919852919](https://doi.org/10.1177/0019793919852919).
 
