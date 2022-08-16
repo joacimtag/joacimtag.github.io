@@ -17,9 +17,9 @@ layout: default
 
 1. Baziki, Selva Bahar, Pehr-Johan Norbäck, Lars Persson, and Joacim Tåg. 2017. “Cross-Border Acquisitions and Restructuring: Multinational Enterprises and Private Equity-Firms.” *European Economic Review* 94 (May): 166–84. [https://doi.org/10.1016/j.euroecorev.2017.02.012](https://doi.org/10.1016/j.euroecorev.2017.02.012).
 
-1. Tåg, Joacim. 2013. “Production Hierarchies in Sweden.” *Economics Letters* 121 (2): 210–13. [https://doi.org/10.1016/j.econlet.2013.08.001](https://doi.org/10.1016/j.econlet.2013.08.001).
-
 ### Startups, Founders, and Ecosystems
+
+1. 1. Norbäck, Pehr-Johan, Lars Persson, and Joacim Tåg. 2022. “Risky Business: Venture Capital, Pivoting and Scaling”, May. Revise and resubmit at *Journal of Business Venturing*.
 
 1. Rider, Christopher I., Peter Thompson, Aleksandra Kacperczyk, and Joacim Tåg. 2019. “Experience and Entrepreneurship: A Career Transition Perspective.” *ILR Review* 72 (5): 1149–81. [https://doi.org/10.1177/0019793919852919](https://doi.org/10.1177/0019793919852919).
 
@@ -97,8 +97,17 @@ layout: default
 
 ### Venture Capital
 
+1. 1. Norbäck, Pehr-Johan, Lars Persson, and Joacim Tåg. 2022. “Risky Business: Venture Capital, Pivoting and Scaling”, May. Revise and resubmit at *Journal of Business Venturing*.
+
 1. Hellmann, Thomas F., Alexander Montag, and Joacim Tåg. 2019. “Foreign Investors and Domestic Company Growth: Evidence from US Venture Capital Investments in Sweden.” *SSRN Electronic Journal*, April. [https://doi.org/10.2139/ssrn.3372976](https://doi.org/10.2139/ssrn.3372976).
 
 1. Lerner, J., and J. Tåg. 2013. “Institutions and Venture Capital.” *Industrial and Corporate Change* 22 (1): 153–82. [https://doi.org/10.1093/icc/dts050](https://doi.org/10.1093/icc/dts050).
 
 1. Tåg, Joacim. 2013. “Riskkapital till entreprenörer: Vilken roll spelar finansmarknaderna, skattepolitiken och arbetsmarknadsregleringarna?” *Swedish Economic Forum Report 2013: Institutioner och Incitament för Innovation*, edited by Pontus Braunerhjelm, 121–43. Stockholm: Entreprenörskapsforum. [PDF](/assets/pdfs/Tag2013.pdf)
+
+
+<p style="font-size:150%;" align="center"><b>Labor and Human Capital</b></p>
+
+1. Keloharju, Matti, Samuli Knüpfer, Dagmar Müller, and Joacim Tåg. 2022. "PhD studies hurt mental health, but less than you think" *SSRN Electronic Journal*, August. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4190289](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4190289)
+
+1. Tåg, Joacim. 2013. “Production Hierarchies in Sweden.” *Economics Letters* 121 (2): 210–13. [https://doi.org/10.1016/j.econlet.2013.08.001](https://doi.org/10.1016/j.econlet.2013.08.001).
