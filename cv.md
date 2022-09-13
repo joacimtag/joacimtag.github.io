@@ -304,6 +304,7 @@ layout: default
 
 ### Some interviews and research mentions
 
+1. Gustafsson, Jessica. 2022. "Veckans kollega: Joacim Tåg" *Hanken Intra*, September 13, 2022.
 1. Yapp, Robin. 2021. “‘Slowbalisation’: Why Swedish Companies Are Moving Back Home.” *The Local*, August 5, 2021. 
 1. Folkesson, Malin. 2020. “Ett annorlunda år.” *Plastnet*, December 10, 2020.
 1. Cardona Cervantes, Gabriel. 2020. “Synsam bara först i raden – nu flyttar industrierna hem.” *fPlus, Arbetsmarknadsnytt*, December 3, 2020.
