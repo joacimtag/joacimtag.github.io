@@ -151,7 +151,7 @@ layout: default
 * **2006** ASLA-Fulbright (PI)
 
 ### Awards
-
+* **2022** Top 1 paper in Fall Issue 2022 of *Financial Management* for "What Prevents Women From Reaching the Top?"
 * **2009** Society of Swedish Literature in Finland prize for PhD Thesis
 * **2005** Yrjö Jahnsson Foundation Master’s Thesis Award
 
@@ -220,7 +220,7 @@ layout: default
 * **2017-** Journal of Business Venturing (FT50 journal)
 
 ### Referee reports
-* Canadian Journal of Economics, Economic Inquiry, Economic Journal, Games and Economic Behavior, Information Economics and Policy, Information Systems Research, International Journal of Industrial Organization, Journal of Business Venturing, Journal of Economic Behaviour and Organization, Journal of Economic Geography, Journal of Economics & Management Strategy, Journal of the European Economic Association, Journal of Labor Economics, Journal of Media Economics, Management Science, Review of Network Economics, Small Business Economics, Strategic Entrepreneurship Journal, Strategic Management Journal, Telecommunications Policy, Quarterly Journal of Economics. 
+* Canadian Journal of Economics, Economic Inquiry, Economic Journal, Games and Economic Behavior, Information Economics and Policy, Information Systems Research, International Journal of Industrial Organization, Journal of Business Venturing, Journal of Corporate Finance, Journal of Economic Behaviour and Organization, Journal of Economic Geography, Journal of Economics & Management Strategy, Journal of the European Economic Association, Journal of Labor Economics, Journal of Media Economics, Management Science, Review of Network Economics, Small Business Economics, Strategic Entrepreneurship Journal, Strategic Management Journal, Telecommunications Policy, Quarterly Journal of Economics. 
 
 ### Grant evaluations
 * **2021-** Swedish Research Council for Health, Working Life and Welfare (FORTE)
@@ -259,7 +259,8 @@ layout: default
 
 ### Hanken School of Economics
 * **2023** Empirical Methods in Economics (Lecturer, MSc level, scheduled)
-* **2022** Economics of New Ventures and Innovation (Lecturer, MSc level, scheduled)
+* **2022** Research Seminar in Economics (Lecturer, MSc level)
+* **2022** Economics of New Ventures and Innovation (Lecturer, MSc level)
 * **2008** Economics of Strategy (TA), Strategic Competition (TA)
 * **2007** Microeconomic Analysis (TA), Strategic Competition (TA)
 * **2006** Economics of Strategy (TA)
