@@ -61,7 +61,7 @@ layout: default
 
 1. Coraggio, Luca, Marco Pagano, Annalisa Scognamiglio and Joacim Tåg. 2022. "JAQ of All Trades: Job Mismatch, Firm Productivity and Managerial Quality" *SSRN Electronic Journal*, March. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4069721](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4069721).
 
-1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. 2022. “What Prevents Women from Reaching the Top?” *Financial Management (Lead Article)*, 51(3):711-738. [https://doi.org/10.1111/fima.12390](https://doi.org/10.1111/fima.12390).
+1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. 2022. “What Prevents Women from Reaching the Top?” *Financial Management (Lead Article and Selected Top 1 paper in Fall Issue)*, 51(3):711-738. [https://doi.org/10.1111/fima.12390](https://doi.org/10.1111/fima.12390).
 
 1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. 2021. “CEO Health” *SSRN Electronic Journal*, November. [https://doi.org/10.2139/ssrn.3560071](https://doi.org/10.2139/ssrn.3560071). Conditionally accepted at *The Leadership Quarterly*.
 
