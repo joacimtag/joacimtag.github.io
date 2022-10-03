@@ -305,6 +305,8 @@ layout: default
 
 ### Some interviews and research mentions
 
+1. Hammarkrantz, Sara. 2022. “Svenska vd:ar mår allt bättre – hälsa en faktor vid chefsrekryteringar.” *Tidningen Chef*, September 29, 2022.
+1. Holmkvist, Leif. 2022. “Hur mår chefen - egentligen?” *Arbetarskydd*, September 28, 2022.
 1. Gustafsson, Jessica. 2022. "Veckans kollega: Joacim Tåg" *Hanken Intra*, September 13, 2022.
 1. Yapp, Robin. 2021. “‘Slowbalisation’: Why Swedish Companies Are Moving Back Home.” *The Local*, August 5, 2021. 
 1. Folkesson, Malin. 2020. “Ett annorlunda år.” *Plastnet*, December 10, 2020.

@@ -26,7 +26,7 @@ Olsson, M, and J. Tåg. 2021."[What Is the Cost of Privatization for Workers?](h
 
 Keloharju, M., S. Knüpfer, and J. Tåg. 2021. "[CEO Health](http://ssrn.com/abstract=3560071)" Conditionally accepted at *The Leadership Quarterly*.
 * We document that CEOs are in much better health than the population and on par with other high-skill professionals. We explore three channels which could account for CEOs’ robust health. First, we find health predicts appointment to a CEO position. Second, the CEO position has no discernible impact on the health of its holder. Third, poor health is associated with greater CEO turnover. These results are consistent with boards appointing CEOs with health robust enough to withstand the pressures of the job, correcting mismatches occurring at the time of appointment, and responding expediently to health shocks. Poor CEO mental health also affects corporate performance, suggesting that board oversight has enough friction for CEO health to affect performance.
-* <em>Media coverage</em>: fPlus, VD Tidningen, Vaasa Insider. 
+* <em>Media coverage</em>: Arbetarskydd, fPlus, VD Tidningen, Tidningen Chef, Vaasa Insider. 
 * <em>Presentations</em>: Aalto, AFA, Bologna, BI, EFA, FEIBS, Hannover, HU-Berlin, IFN, JIBS, KI, LFG Workshop at Booth, LU, Memphis, SSE House of Innovation, Southampton, and TSE.
 
 Colonnelli, E., J. Tåg, M. Webb, and S. Wolter. 2018. “[A Cross-Country Comparison of Dynamics in the Large Firm Wage Premium](https://doi.org/10.1257/pandp.20181067).” *AEA Papers and Proceedings* 108 (May): 323–27.
