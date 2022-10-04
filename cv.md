@@ -305,6 +305,7 @@ layout: default
 
 ### Some interviews and research mentions
 
+1. Hjerpe, Annika. 2022. “Svenska vd:ar mår bättre än genomsnittssvensken.” *Dagens PS*, March 10, 2022.
 1. Hammarkrantz, Sara. 2022. “Svenska vd:ar mår allt bättre – hälsa en faktor vid chefsrekryteringar.” *Tidningen Chef*, September 29, 2022.
 1. Holmkvist, Leif. 2022. “Hur mår chefen - egentligen?” *Arbetarskydd*, September 28, 2022.
 1. Gustafsson, Jessica. 2022. "Veckans kollega: Joacim Tåg" *Hanken Intra*, September 13, 2022.
