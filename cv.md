@@ -151,6 +151,7 @@ layout: default
 * **2006** ASLA-Fulbright (PI)
 
 ### Awards
+* **2022** Pearson Prize (runner-up) for best paper 2020-2022 in *Financial Management* for "What Prevents Women From Reaching the Top?"
 * **2022** Top 1 paper in Fall Issue 2022 of *Financial Management* for "What Prevents Women From Reaching the Top?"
 * **2009** Society of Swedish Literature in Finland prize for PhD Thesis
 * **2005** Yrjö Jahnsson Foundation Master’s Thesis Award
