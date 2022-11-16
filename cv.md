@@ -88,6 +88,12 @@ layout: default
 
 1. Tåg, Joacim. 2009. “Competing Platforms and Third Party Application Developers.” *Communications & Strategies* 74 (2): 95–114. [PDF](/assets/pdfs/Tag2009.pdf)
 
+### Book chapters
+
+1. Economides, Nicholas, and Joacim Tåg. 2013. “Network Neutrality and Network Management Regulation: Quality of Service, Price Discrimination, and Exclusive Contracts.” In *Research Handbook on Governance of the Internet*, edited by Ian Brown, 121–43. Cheltenham: Edward Elgar. [SSRN](https://dx.doi.org/10.2139/ssrn.2045623)
+
+1. Tåg, Joacim. 2012. “Real Effects of Private Equity.” In *The Oxford Handbook of Private Equity*, edited by Douglas Cumming, 269–99. Oxford: Oxford University Press. [SSRN](https://dx.doi.org/10.2139/ssrn.1674759)
+
 ### In Swedish
 
 1. Tåg, Joacim. 2021. "Forskningsprogrammet Globaliseringen och företagen." Stockholm: IFN. [PDF](/assets/pdfs/Tag2021.pdf)
@@ -122,11 +128,7 @@ layout: default
 
 1. Olsson, Martin, and Joacim Tåg. 2015. “Private Equity: Transformation or Tax Evasion?” *IFN Newsletter*, January.
 
-1. Economides, Nicholas, and Joacim Tåg. 2013. “Network Neutrality and Network Management Regulation: Quality of Service, Price Discrimination, and Exclusive Contracts.” In *Research Handbook on Governance of the Internet*, edited by Ian Brown, 121–43. Cheltenham: Edward Elgar. [SSRN](https://dx.doi.org/10.2139/ssrn.2045623)
-
 1. Economides, Nicholas, and Joacim Tåg. 2012. “Modelling the Welfare Effects of Network Neutrality Regulation: A Response to Caves’s Comment.” *Information Economics and Policy* 24 (3–4): 293. [https://doi.org/10.1016/j.infoecopol.2012.08.004](https://doi.org/10.1016/j.infoecopol.2012.08.004).
-
-1. Tåg, Joacim. 2012. “Real Effects of Private Equity.” In *The Oxford Handbook of Private Equity*, edited by Douglas Cumming, 269–99. Oxford: Oxford University Press. [SSRN](https://dx.doi.org/10.2139/ssrn.1674759)
 
 1. Persson, Lars, and Joacim Tåg. 2010. “Book Review: Antitrust and Regulation in the EU and US: Legal and Economic Perspectives.” *Journal of Economic Literature* 48 (4): 1028–59. [https://doi.org/10.1257/jel.48.4.1028](https://doi.org/10.1257/jel.48.4.1028).
 
