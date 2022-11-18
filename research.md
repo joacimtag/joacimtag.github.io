@@ -19,7 +19,7 @@ layout: default
 
 ### Startups, Founders, and Ecosystems
 
-1. Norbäck, Pehr-Johan, Lars Persson, and Joacim Tåg. 2022. “Risky Business: Venture Capital, Pivoting and Scaling”, May. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280389](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280389). Revise and resubmit at *Journal of Business Venturing*.
+1. Norbäck, Pehr-Johan, Lars Persson, and Joacim Tåg. 2022. “Risky Business: Venture Capital, Pivoting and Scaling”, November. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280389](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280389). Revise and resubmit at *Journal of Business Venturing*.
 
 1. Rider, Christopher I., Peter Thompson, Aleksandra Kacperczyk, and Joacim Tåg. 2019. “Experience and Entrepreneurship: A Career Transition Perspective.” *ILR Review* 72 (5): 1149–81. [https://doi.org/10.1177/0019793919852919](https://doi.org/10.1177/0019793919852919).
 
@@ -59,11 +59,11 @@ layout: default
 
 ### CEOs and Managers
 
-1. Coraggio, Luca, Marco Pagano, Annalisa Scognamiglio and Joacim Tåg. 2022. "JAQ of All Trades: Job Mismatch, Firm Productivity and Managerial Quality" *SSRN Electronic Journal*, March. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4069721](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4069721).
+1. Coraggio, Luca, Marco Pagano, Annalisa Scognamiglio and Joacim Tåg. 2022. "JAQ of All Trades: Job Mismatch, Firm Productivity and Managerial Quality" *SSRN Electronic Journal*, October. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4069721](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4069721).
+
+1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. 2022. “CEO Health” *SSRN Electronic Journal*, November. [https://doi.org/10.2139/ssrn.3560071](https://doi.org/10.2139/ssrn.3560071). Conditionally accepted at *The Leadership Quarterly*.
 
 1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. 2022. “What Prevents Women from Reaching the Top?” *Financial Management (Lead Article and Selected Top 1 paper in Fall Issue)*, 51(3):711-738. [https://doi.org/10.1111/fima.12390](https://doi.org/10.1111/fima.12390).
-
-1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. 2021. “CEO Health” *SSRN Electronic Journal*, November. [https://doi.org/10.2139/ssrn.3560071](https://doi.org/10.2139/ssrn.3560071). Conditionally accepted at *The Leadership Quarterly*.
 
 ### Private Equity Buyouts
 
@@ -97,7 +97,7 @@ layout: default
 
 ### Venture Capital
 
-1. Norbäck, Pehr-Johan, Lars Persson, and Joacim Tåg. 2022. “Risky Business: Venture Capital, Pivoting and Scaling”, May. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280389](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280389). Revise and resubmit at *Journal of Business Venturing*.
+1. Norbäck, Pehr-Johan, Lars Persson, and Joacim Tåg. 2022. “Risky Business: Venture Capital, Pivoting and Scaling”, November. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280389](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280389). Revise and resubmit at *Journal of Business Venturing*.
 
 1. Hellmann, Thomas F., Alexander Montag, and Joacim Tåg. 2019. “Foreign Investors and Domestic Company Growth: Evidence from US Venture Capital Investments in Sweden.” *SSRN Electronic Journal*, April. [https://doi.org/10.2139/ssrn.3372976](https://doi.org/10.2139/ssrn.3372976).
 
