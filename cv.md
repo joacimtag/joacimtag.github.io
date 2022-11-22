@@ -285,6 +285,7 @@ layout: default
 * **2012** Riskkapital och Beskattning, IFN
 
 ### Policy seminar presentations
+* **2022** Kryptovalutor, blockkedjeteknik och Web3, Svea Fanfar, Stockholm
 * **2022** Hur påverkar kryptotillgångar fondbranschen?, Fondbolagens förening, Stockholm
 * **2019** IIES/SNS International Policy Talks: Könsskillnader på arbetsmarknaden – hur kan glastaket förklaras?, SNS, Stockholm
 * **2017** Så får du kapital till din affärsidé, Entreprenör/Fplus, Stockholm
