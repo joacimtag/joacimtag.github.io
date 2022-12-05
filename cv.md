@@ -163,7 +163,7 @@ layout: default
 ### Invited presentations
 
 * **2023** Helsinki GSE (scheduled)
-* **2022** Örebro University (scheduled), Ratio, IFN
+* **2022** Örebro University (scheduled), Ratio, IFN, Hanken School of Economics (scheduled)
 * **2021** Jönköping International Business School, Stockholm School of Economics House of Innovation, University of Memphis, The Australian National University, IFN
 * **2019** Aalto University, Lund University
 * **2018** CSEF, Örebro University, Ministry of Finance 
