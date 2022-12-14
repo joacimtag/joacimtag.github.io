@@ -38,11 +38,11 @@ layout: default
 
 ### Working papers
 
-1. Norbäck, Pehr-Johan, Lars Persson, and Joacim Tåg. 2022. “Risky Business: Venture Capital, Pivoting and Scaling”, November. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280389](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280389). Revise and resubmit at *Journal of Business Venturing*.
-
 1. Coraggio, Luca, Marco Pagano, Annalisa Scognamiglio and Joacim Tåg. 2022. "JAQ of All Trades: Job Mismatch, Firm Productivity and Managerial Quality" *SSRN Electronic Journal*, October. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4069721](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4069721). 
 
 1. Keloharju, Matti, Samuli Knüpfer, Dagmar Müller, and Joacim Tåg. 2022. "PhD studies hurt mental health, but less than you think" *SSRN Electronic Journal*, August. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4190289](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4190289)
+
+1. Norbäck, Pehr-Johan, Lars Persson, and Joacim Tåg. 2022. “Risky Business: Venture Capital, Pivoting and Scaling”, November. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280389](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4280389). Revise and resubmit at *Journal of Business Venturing*.
 
 1. Olsson, Martin, and Joacim Tåg. 2021. “What Is the Cost of Privatization for Workers?” *SSRN Electronic Journal*, February. [https://doi.org/10.2139/ssrn.3134462](https://doi.org/10.2139/ssrn.3134462). Revise and resubmit at *The Journal of Finance*.
 
