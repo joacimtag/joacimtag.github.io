@@ -50,7 +50,7 @@ layout: default
 
 ### Peer-reviewed international journals
 
-1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. Forthcoming. “CEO Health.” *The Leadership Quarterly*. [https://doi.org/10.2139/ssrn.3560071](https://doi.org/10.2139/ssrn.3560071). 
+1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. 2023. “CEO Health.” *The Leadership Quarterly*. [https://doi.org/10.2139/ssrn.3560071](https://doi.org/10.2139/ssrn.3560071). 
 
 1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. 2022. “What Prevents Women from Reaching the Top?” *Financial Management (Lead Article and Selected Top 1 paper in Fall Issue)*, 51(3):711-738. [https://doi.org/10.1111/fima.12390](https://doi.org/10.1111/fima.12390).
 
