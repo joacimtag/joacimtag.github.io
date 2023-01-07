@@ -163,7 +163,7 @@ layout: default
 ### Invited presentations
 
 * **2023** Helsinki GSE (scheduled)
-* **2022** Örebro University (scheduled), Ratio, IFN, Hanken School of Economics (scheduled)
+* **2022** Örebro University, Ratio, IFN, Hanken School of Economics
 * **2021** Jönköping International Business School, Stockholm School of Economics House of Innovation, University of Memphis, The Australian National University, IFN
 * **2019** Aalto University, Lund University
 * **2018** CSEF, Örebro University, Ministry of Finance 
@@ -180,7 +180,7 @@ layout: default
 
 ### Conference presentations
 
-* **2023** AFA (scheduled)
+* **2023** AFA
 * **2022** AFA, Swedish Conference in Economics
 * **2021** AFA, EFA
 * **2020** EFA, IFN Workshop on Firms and Labor Markets
