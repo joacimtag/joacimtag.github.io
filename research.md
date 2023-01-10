@@ -108,6 +108,6 @@ layout: default
 
 <p style="font-size:150%;" align="center"><b>Labor and Human Capital</b></p>
 
-1. Keloharju, Matti, Samuli Knüpfer, Dagmar Müller, and Joacim Tåg. 2022. "PhD studies hurt mental health, but less than you think" *SSRN Electronic Journal*, August. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4190289](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4190289)
+1. Keloharju, Matti, Samuli Knüpfer, Dagmar Müller, and Joacim Tåg. 2022. "PhD Studies Hurt Mental Health, But Less Yhan You Think" *SSRN Electronic Journal*, August. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4190289](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4190289).
 
 1. Tåg, Joacim. 2013. “Production Hierarchies in Sweden.” *Economics Letters* 121 (2): 210–13. [https://doi.org/10.1016/j.econlet.2013.08.001](https://doi.org/10.1016/j.econlet.2013.08.001).
