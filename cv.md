@@ -240,6 +240,7 @@ layout: default
 * **2009** [IFN Stockholm Conference on the Economics of Ownership, Organization, and Industrial Development](https://www.ifn.se/eng/events/vaxholm/past-conferences/ownership), Stockholm
 
 ### Conference scientific committee memberships
+* **2023** The CSEF and RCFS Conference on Labor, Finance, and Inequality
 * **2022** The CSEF and RCFS Conference on Labor, Finance, and Inequality
 * **2021** The 2022 Midwest Finance Association Meetings
 * **2020** The 2021 Midwest Finance Association Meetings
