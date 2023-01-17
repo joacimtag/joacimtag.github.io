@@ -240,16 +240,17 @@ layout: default
 * **2009** [IFN Stockholm Conference on the Economics of Ownership, Organization, and Industrial Development](https://www.ifn.se/eng/events/vaxholm/past-conferences/ownership), Stockholm
 
 ### Conference scientific committee memberships
+* **2023** Fifth ZEW Conference on the Dynamics of Entrepreneurship (CoDE)
 * **2023** The CSEF and RCFS Conference on Labor, Finance, and Inequality
 * **2022** The CSEF and RCFS Conference on Labor, Finance, and Inequality
 * **2021** The 2022 Midwest Finance Association Meetings
 * **2020** The 2021 Midwest Finance Association Meetings
-* **2019** [CSEF and RCFS Conference on Labor, Finance, and Inequality](http://www.csef.it/Conference-on-Finance-Labor-and)
+* **2019** The CSEF and RCFS Conference on Labor, Finance, and Inequality
 * **2018** SBS Conference on Board Diversity Quotas
-* **2018** Fourth International ZEW Conference on the Dynamics of Entrepreneurship
+* **2018** Fourth ZEW Conference on the Dynamics of Entrepreneurship (CoDE)
 * **2017** FMA European Conference
-* **2016** Third International ZEW Conference on the Dynamics of Entrepreneurship
-* **2011** [European Finance Association Annual Meeting](http://efa2011.efa-online.org/fisher.osu.edu/blogs/efa2011/index.html)
+* **2016** Third ZEW Conference on the Dynamics of Entrepreneurship (CoDE)
+* **2011** European Finance Association Annual Meeting
 
 ### Dissertation reviews
 * **2020** Johan Mellberg (NHH, doctorate)
