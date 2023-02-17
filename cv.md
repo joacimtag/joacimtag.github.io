@@ -264,9 +264,10 @@ layout: default
 ## Teaching
 
 ### Hanken School of Economics
-* **2023** Research Seminar in Economics (Lecturer, MSc level, scheduled)
-* **2023** Empirical Methods in Economics (Lecturer, MSc level, scheduled)
-* **2022** Research Seminar in Economics (Lecturer, MSc level)
+* **2023** Research Seminar in Economics (Advisor, MSc level)
+* **2023** Bachelor Thesis Seminar (Advisor, BSc level)
+* **2023** Empirical Methods in Economics (Lecturer, MSc level)
+* **2022** Research Seminar in Economics (Advisor, MSc level)
 * **2022** Economics of New Ventures and Innovation (Lecturer, MSc level)
 * **2008** Economics of Strategy (TA), Strategic Competition (TA)
 * **2007** Microeconomic Analysis (TA), Strategic Competition (TA)
@@ -404,8 +405,8 @@ layout: default
 - **2009-2011** Seminar series organizer
 
 ### Internal Presentations
-
-- **2020** Research presentation for the board, Stockholm
+- **2023** Research presentation for the board of IFN, Stockholm
+- **2020** Research presentation for the board of IFN, Stockholm
 - **2019** Research presentation for Tillväxtanalys, Stockholm
 - **2019** Research presentation at Karolinska Institutet, Stockholm
 - **2019** Roundtable with a team from the French Embassy, Stockholm
