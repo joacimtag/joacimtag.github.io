@@ -180,7 +180,7 @@ layout: default
 
 ### Conference presentations
 
-* **2023** AFA
+* **2023** AFA, Nordic Initiative in Corporate Economics Conference (scheduled)
 * **2022** AFA, Swedish Conference in Economics
 * **2021** AFA, EFA
 * **2020** EFA, IFN Workshop on Firms and Labor Markets
@@ -264,11 +264,8 @@ layout: default
 ## Teaching
 
 ### Hanken School of Economics
-* **2023** Research Seminar in Economics (Advisor, MSc level)
-* **2023** Bachelor Thesis Seminar (Advisor, BSc level)
-* **2023** Empirical Methods in Economics (Lecturer, MSc level)
-* **2022** Research Seminar in Economics (Advisor, MSc level)
-* **2022** Economics of New Ventures and Innovation (Lecturer, MSc level)
+* **2023** Empirical Methods in Economics (Lecturer, MSc level), Research Seminar in Economics (Advisor, MSc level), Bachelor Thesis Seminar (Advisor, BSc level)
+* **2022** Economics of New Ventures and Innovation (Lecturer, MSc level), Research Seminar in Economics (Advisor, MSc level)
 * **2008** Economics of Strategy (TA), Strategic Competition (TA)
 * **2007** Microeconomic Analysis (TA), Strategic Competition (TA)
 * **2006** Economics of Strategy (TA)
