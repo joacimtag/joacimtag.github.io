@@ -26,7 +26,7 @@ layout: default
 ### Professional networks
 - **2022--** External Fellow, [Centre for Private Equity and MBO Research](https://www.nottingham.ac.uk/business/who-we-are/centres-and-institutes/cmbor/index.aspx)
 - **2017--** Member, [Labor and Finance Working Group](https://sites.google.com/site/laborandfinancegroup/)
-- **2013--** Member, [Firms, Organizations, and Markets Working Group](https://sites.google.com/site/uscfom/finance-organizations-and-markets-fom-research-group)
+- **2013--** Member, [Firms, Organizations, and Markets Working Group](https://sites.google.com/site/uscfom/finance-organizations-and-markets-fom-research-group)'
 
 
 ## Degrees
@@ -260,6 +260,9 @@ layout: default
 
 ### Grading comittee membership
 * **2020** Niklas Blomqvist (Stockholm University, doctorate), Polina Knutsson (Lund University, doctorate)
+
+### Steering group membership
+- **2022--** [Nordic Microdata Initiative](https://neic.no/nordic-microdata-database/)
 
 ## Teaching
 
