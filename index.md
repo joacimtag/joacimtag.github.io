@@ -26,6 +26,11 @@ Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. 2023. “CEO Health.” *The
 * <em>Media coverage</em>: Arbetarskydd, fPlus, VD Tidningen, Tidningen Chef, Vaasa Insider. 
 * <em>Presentations</em>: Aalto, AFA, Bologna, BI, EFA, FEIBS, Hannover, HU-Berlin, IFN, JIBS, KI, LFG Workshop at Booth, LU, Memphis, SSE House of Innovation, Southampton, and TSE.
 
+Keloharju, M., S. Knüpfer, and J. Tåg. 2022. [What Prevents Women from Reaching the Top?](https://doi.org/10.1111/fima.12390)" *Financial Management (Lead Article and Selected Top 1 paper in Fall Issue)*, 51(3):711-738.
+* We use rich data on all business, economics, and engineering graduates in Sweden to study the lack of women among chief executive officers (CEOs). A comprehensive battery of graduates’ characteristics explains 40% of the gender gaps in CEO appointments and 60% among graduates with children. The explanatory power mostly comes from absences and unemployment, which are about twice as likely for women as men. These gender differences increase following childbirth, and they persist in the long run. The large contribution of labor market attachment to the explained share suggests work–family trade-offs are an important part of the story.
+* <em>Media coverage</em>: Dagens Nyheter, Dagens Samhälle, Expressen, HBS Working Knowledge, Helsingin Sanomat, Huvudstadsbladet, Iltalehti, Nordic Business Report, Svenska Dagbladet, Talouselämä, Yle.
+* <em>Presentations</em>: BI, BC, BU, City, CSEF, HBS, HKBU, HKU, IFN, LNU, NU, NHH, SBS, SHOF, SU, MoF, UoB, Exeter, UMass, HSG, UU, ORU, AFA, NCSE, and SOLE.
+
 Colonnelli, E., J. Tåg, M. Webb, and S. Wolter. 2018. “[A Cross-Country Comparison of Dynamics in the Large Firm Wage Premium](https://doi.org/10.1257/pandp.20181067).” *AEA Papers and Proceedings* 108 (May): 323–27.
 * We provide stylized facts on the existence and dynamics over time of the large firm wage premium for Brazil, Germany, Sweden, and the United Kingdom. The large firm premium exists in all these countries. However, we uncover substantial differences among them in the evolution of the wage premium over time and no evidence of common cross-country industry trends.
 * <em>Presentations</em>: ASSA, IFN.
