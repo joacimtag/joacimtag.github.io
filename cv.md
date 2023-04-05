@@ -406,6 +406,7 @@ layout: default
 - **2009-2011** Seminar series organizer
 
 ### Internal Presentations
+- **2023** ChatGPT in Research, Stockholm
 - **2023** Research presentation for the board of IFN, Stockholm
 - **2020** Research presentation for the board of IFN, Stockholm
 - **2019** Research presentation for Tillväxtanalys, Stockholm
