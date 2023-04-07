@@ -7,6 +7,8 @@ layout: default
 
 ### Automation and Globalization
 
+1. Gardberg, Malin, Fredrik Heyman and Joacim Tåg. 2023. "Importing Automation and Wage Inequality Through Foreign Acquisitions" *IFN Working Paper No. 1457*, [https://ssrn.com/abstract=4412153](https://ssrn.com/abstract=4412153).
+
 1. Hellmann, Thomas F., Alexander Montag, and Joacim Tåg. 2019. “Foreign Investors and Domestic Company Growth: Evidence from US Venture Capital Investments in Sweden.” *SSRN Electronic Journal*, April. [https://doi.org/10.2139/ssrn.3372976](https://doi.org/10.2139/ssrn.3372976).
 
 1. Colonnelli, Emanuele, Joacim Tåg, Michael Webb, and Stefanie Wolter. 2018. “A Cross-Country Comparison of Dynamics in the Large Firm Wage Premium.” *AEA Papers and Proceedings* 108 (May): 323–27. [https://doi.org/10.1257/pandp.20181067](https://doi.org/10.1257/pandp.20181067).
@@ -65,6 +67,16 @@ layout: default
 
 1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. 2022. “What Prevents Women from Reaching the Top?” *Financial Management (Lead Article and Selected Top 1 paper in Fall Issue)*, 51(3):711-738. [https://doi.org/10.1111/fima.12390](https://doi.org/10.1111/fima.12390).
 
+### Foreign Acquisitions
+
+1. Gardberg, Malin, Fredrik Heyman and Joacim Tåg. 2023. "Importing Automation and Wage Inequality Through Foreign Acquisitions" *IFN Working Paper No. 1457*, [https://ssrn.com/abstract=4412153](https://ssrn.com/abstract=4412153).
+
+1. Hellmann, Thomas F., Alexander Montag, and Joacim Tåg. 2019. “Foreign Investors and Domestic Company Growth: Evidence from US Venture Capital Investments in Sweden.” *SSRN Electronic Journal*, April. [https://doi.org/10.2139/ssrn.3372976](https://doi.org/10.2139/ssrn.3372976).
+
+1. Olsson, Martin, and Joacim Tåg. 2018. “Are Foreign Private Equity Buyouts Bad for Workers?” *Economics Letters* 172 (November): 1–4. [https://doi.org/10.1016/j.econlet.2018.08.002](https://doi.org/10.1016/j.econlet.2018.08.002).
+
+1. Baziki, Selva Bahar, Pehr-Johan Norbäck, Lars Persson, and Joacim Tåg. 2017. “Cross-Border Acquisitions and Restructuring: Multinational Enterprises and Private Equity-Firms.” *European Economic Review* 94 (May): 166–84. [https://doi.org/10.1016/j.euroecorev.2017.02.012](https://doi.org/10.1016/j.euroecorev.2017.02.012).
+
 ### Private Equity Buyouts
 
 1. Norbäck, Pehr-Johan, Lars Persson, and Joacim Tåg. 2018. “Private Equity Buyouts: Anti- or Pro-Competitive?” *CPI Antitrust Chronicle* 1 (January): 31–36. [https://doi.org/10.2139/ssrn.3128858](https://doi.org/10.2139/ssrn.3128858).
@@ -83,10 +95,6 @@ layout: default
 
 1. Tåg, Joacim. 2012. “Real Effects of Private Equity.” In *The Oxford Handbook of Private Equity*, edited by Douglas Cumming, 269–99. Oxford: Oxford University Press. [SSRN](https://dx.doi.org/10.2139/ssrn.1674759)
 
-### State-owned Enterprises
-
-1. Olsson, Martin, and Joacim Tåg. 2021. “What Is the Cost of Privatization for Workers?” *SSRN Electronic Journal*, February. [https://doi.org/10.2139/ssrn.3134462](https://doi.org/10.2139/ssrn.3134462).
-
 ### Public versus Private Firms
 
 1. Koptyug, Nikita, Lars Persson, and Joacim Tåg. 2020. “Should We Worry About the Decline of the Public Corporation? A Brief Survey of the Economics and External Effects of the Stock Market.” *The North American Journal of Economics and Finance*, no. 51: 101061. [https://doi.org/10.1016/j.najef.2019.101061](https://doi.org/10.1016/j.najef.2019.101061).
@@ -94,6 +102,10 @@ layout: default
 1. Ljungqvist, Alexander, Lars Persson, and Joacim Tåg. 2018. “The Incredible Shrinking Stock Market: On the Political Economy Consequences of Excessive Delistings.” *European Corporate Governance Institute (ECGI)*, February. [https://doi.org/10.2139/ssrn.2714916](https://doi.org/10.2139/ssrn.2714916).
 
 1. Koptyug, Nikita, Lars Persson, Roger Svensson, and Joacim Tåg. 2017. “Aktiemarknadens betydelse för näringslivet och samhällsekonomin.” *Ekonomisk Debatt* 7: 6–17. [PDF](https://www.nationalekonomi.se/sites/default/files/NEFfiler/45-7-nklprsjt.pdf)
+
+### State-owned Enterprises
+
+1. Olsson, Martin, and Joacim Tåg. 2021. “What Is the Cost of Privatization for Workers?” *SSRN Electronic Journal*, February. [https://doi.org/10.2139/ssrn.3134462](https://doi.org/10.2139/ssrn.3134462).
 
 ### Venture Capital
 

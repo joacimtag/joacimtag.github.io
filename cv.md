@@ -38,6 +38,8 @@ layout: default
 
 ### Working papers
 
+1. Gardberg, Malin, Fredrik Heyman and Joacim Tåg. 2023. "Importing Automation and Wage Inequality Through Foreign Acquisitions" *IFN Working Paper No. 1457*, [https://ssrn.com/abstract=4412153](https://ssrn.com/abstract=4412153).
+
 1. Coraggio, Luca, Marco Pagano, Annalisa Scognamiglio and Joacim Tåg. 2022. "JAQ of All Trades: Job Mismatch, Firm Productivity and Managerial Quality" *SSRN Electronic Journal*, October. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4069721](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4069721). 
 
 1. Keloharju, Matti, Samuli Knüpfer, Dagmar Müller, and Joacim Tåg. 2022. "PhD Studies Hurt Mental Health, But Less Yhan You Think" *SSRN Electronic Journal*, August. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4190289](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4190289).
