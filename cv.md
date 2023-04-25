@@ -165,7 +165,7 @@ layout: default
 
 ### Invited presentations
 
-* **2023** Helsinki GSE (scheduled)
+* **2023** Helsinki GSE
 * **2022** Örebro University, Ratio, IFN, Hanken School of Economics
 * **2021** Jönköping International Business School, Stockholm School of Economics House of Innovation, University of Memphis, The Australian National University, IFN
 * **2019** Aalto University, Lund University
@@ -283,14 +283,16 @@ layout: default
 ###  Stockholm School of Economics
 * **2010** Corporate Finance Theory (Lecturer, MSc level course)
 
-## Media
+## Policy and Media
 
 ### Policy seminars organized
+* **2023** Deglobalisering och svensk ekonomi, IFN
 * **2019** What Prevents Women from Reaching the Top? - A Seminar for All-China Women's Federation, IFN
 * **2017** Könskvotering och kvinnor i ledningsgrupper — vad säger forskningen?, IFN
 * **2012** Riskkapital och Beskattning, IFN
 
 ### Policy seminar presentations
+* **2023** Vad säger forskningen om hur man bör främja entreprenörskap?, Finansdepartementet/Kommittén om förenklad beskattning av ägare till fåmansföretag, Stockholm
 * **2022** Kryptovalutor, blockkedjeteknik och Web3, Svea Fanfar, Stockholm
 * **2022** Hur påverkar kryptotillgångar fondbranschen?, Fondbolagens förening, Stockholm
 * **2019** IIES/SNS International Policy Talks: Könsskillnader på arbetsmarknaden – hur kan glastaket förklaras?, SNS, Stockholm
@@ -302,7 +304,6 @@ layout: default
 * **2013** Riskkapitalet i praktiken – så påverkas företag och samhälle, SNS Måndagsklubb, Stockholm
 
 ### Op-eds
-
 1. Tåg, Joacim. "Vi behöver fler utländska investerare." *Vaasa Insider*, 4 March 2022.
 1. Tåg, Joacim. “Sverige behöver en blockkedjestrategi.” *Svenska Dagbladet*, January 17, 2022.
 1. Tåg, Joacim. “Så kan Österbotten attrahera ﬂer internationella företag.” *Vaasa Insider*, December 7, 2021.
@@ -315,8 +316,7 @@ layout: default
 1. Guo, Hong, Hsing K Cheng, Scott Holladay, Joacim Tåg, and Subhajyoti Bandyopadhyay. “Building a Better Net?” *Politico*, September 22, 2010.
 1. Henrekson, Magnus, and Joacim Tåg. “Henrekson & Tåg vill höja teveavgiften.” *Arena*, November 2009.
 
-### Some interviews and research mentions
-
+### Selected interviews and research mentions
 1. Hjerpe, Annika. 2022. “Svenska vd:ar mår bättre än genomsnittssvensken.” *Dagens PS*, March 10, 2022.
 1. Hammarkrantz, Sara. 2022. “Svenska vd:ar mår allt bättre – hälsa en faktor vid chefsrekryteringar.” *Tidningen Chef*, September 29, 2022.
 1. Holmkvist, Leif. 2022. “Hur mår chefen - egentligen?” *Arbetarskydd*, September 28, 2022.
