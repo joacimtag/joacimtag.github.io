@@ -184,7 +184,7 @@ layout: default
 
 ### Conference presentations
 
-* **2023** AFA, Nordic Initiative in Corporate Economics Conference (scheduled)
+* **2023** AFA, CSEF-RCFS Conference on Finance, Labor and Inequality (scheduled), Nordic Initiative in Corporate Economics Conference (scheduled)
 * **2022** AFA, Swedish Conference in Economics
 * **2021** AFA, EFA
 * **2020** EFA, IFN Workshop on Firms and Labor Markets
