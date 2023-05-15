@@ -14,11 +14,12 @@ layout: default
 ## Positions
 
 ### Current
-- **2022--** Professor of Economics, [Hanken School of Economics](https://www.hanken.fi), Helsinki
+- **2023--** Visiting Professor of Economics, [Hanken School of Economics](https://www.hanken.fi), Helsinki
 - **2011--** [Program Director](https://www.ifn.se/en/researchers/ifn-researcher/joacim-tag/), Research Institute of Industrial Economics (IFN), Stockholm
 - **2008--** Research Fellow, Research Institute of Industrial Economics (IFN), Stockholm
 
 ### Past
+- **2022--2023** Professor of Economics, [Hanken School of Economics](https://www.hanken.fi), Helsinki
 - **2006--2008** Graduate School Fellow, Finnish Doctoral Program in Economics, Helsinki
 - **2006--2007** Visiting Scholar, Stern School of Business, New York University, New York
 - **2005--2005** Teaching Assistant, Hanken School of Economics, Helsinki
