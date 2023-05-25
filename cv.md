@@ -53,11 +53,11 @@ layout: default
 
 ### Peer-reviewed international journals
 
-1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. 2023. “CEO Health.” *The Leadership Quarterly*. [https://doi.org/10.1016/j.leaqua.2022.101672](https://doi.org/10.1016/j.leaqua.2022.101672).
+1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. 2023. “CEO Health.” *The Leadership Quarterly* 34(3): 101672. [https://doi.org/10.1016/j.leaqua.2022.101672](https://doi.org/10.1016/j.leaqua.2022.101672).
 
-1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. 2022. “What Prevents Women from Reaching the Top?” *Financial Management (Lead Article and Selected Top 1 paper in Fall Issue)*, 51(3):711-738. [https://doi.org/10.1111/fima.12390](https://doi.org/10.1111/fima.12390).
+1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. 2022. “What Prevents Women from Reaching the Top?” *Financial Management (Lead Article and Selected Top 1 paper in Fall Issue)* 51(3): 711-738. [https://doi.org/10.1111/fima.12390](https://doi.org/10.1111/fima.12390).
 
-1. Koptyug, Nikita, Lars Persson, and Joacim Tåg. 2020. “Should We Worry About the Decline of the Public Corporation? A Brief Survey of the Economics and External Effects of the Stock Market.” *The North American Journal of Economics and Finance*, no. 51: 101061. [https://doi.org/10.1016/j.najef.2019.101061](https://doi.org/10.1016/j.najef.2019.101061).
+1. Koptyug, Nikita, Lars Persson, and Joacim Tåg. 2020. “Should We Worry About the Decline of the Public Corporation? A Brief Survey of the Economics and External Effects of the Stock Market.” *The North American Journal of Economics and Finance* 51: 101061. [https://doi.org/10.1016/j.najef.2019.101061](https://doi.org/10.1016/j.najef.2019.101061).
 
 1. Rider, Christopher I., Peter Thompson, Aleksandra Kacperczyk, and Joacim Tåg. 2019. “Experience and Entrepreneurship: A Career Transition Perspective.” *ILR Review* 72 (5): 1149–81. [https://doi.org/10.1177/0019793919852919](https://doi.org/10.1177/0019793919852919).
 
