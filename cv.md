@@ -49,8 +49,6 @@ layout: default
 
 1. Olsson, Martin, and Joacim Tåg. 2021. “What Is the Cost of Privatization for Workers?” *SSRN Electronic Journal*, February. [https://doi.org/10.2139/ssrn.3134462](https://doi.org/10.2139/ssrn.3134462). Revise and resubmit at *The Journal of Finance*.
 
-1. Hellmann, Thomas F., Alexander Montag, and Joacim Tåg. 2019. “Foreign Investors and Domestic Company Growth: Evidence from US Venture Capital Investments in Sweden.” *SSRN Electronic Journal*, April. [https://doi.org/10.2139/ssrn.3372976](https://doi.org/10.2139/ssrn.3372976).
-
 ### Peer-reviewed international journals
 
 1. Keloharju, Matti, Samuli Knüpfer, and Joacim Tåg. 2023. “CEO Health.” *The Leadership Quarterly* 34(3): 101672. [https://doi.org/10.1016/j.leaqua.2022.101672](https://doi.org/10.1016/j.leaqua.2022.101672).
@@ -118,6 +116,8 @@ layout: default
 ### Other
 
 1. Coraggio, Luca, Marco Pagano, Annalisa Scognamiglio, and Joacim Tåg. 2022. “The Matching Between Workers and Jobs Explains Productivity Differentials Across Firms.” VoxEU.org (blog). May 9, 2022. [Link](https://voxeu.org/article/matching-between-workers-and-jobs-explains-productivity-differentials-across-firms).
+
+1. Hellmann, Thomas F., Alexander Montag, and Joacim Tåg. 2019. “Foreign Investors and Domestic Company Growth: Evidence from US Venture Capital Investments in Sweden.” *SSRN Electronic Journal*, April. [https://doi.org/10.2139/ssrn.3372976](https://doi.org/10.2139/ssrn.3372976).
 
 1. Hellmann, Thomas, Alexander Montag, and Joacim Tåg. 2019. “Foreign Investors and Domestic Company Growth: Evidence from US Venture Capital Investments in Sweden.” *Tuck Center Forum for PE & VC*, April 11.
 
