@@ -305,7 +305,8 @@ layout: default
 * **2013** Riskkapitalet i praktiken – så påverkas företag och samhälle, SNS Måndagsklubb, Stockholm
 
 ### Op-eds
-1. Tåg, Joacim. "Vi behöver fler utländska investerare." *Vaasa Insider*, 4 March 2022.
+1. Tåg, Joacim. “Hur mår din VD?” *Hanken Magazine*, May 30, 2023.
+1. Tåg, Joacim. "Vi behöver fler utländska investerare." *Vaasa Insider*, March 4, 2022.
 1. Tåg, Joacim. “Sverige behöver en blockkedjestrategi.” *Svenska Dagbladet*, January 17, 2022.
 1. Tåg, Joacim. “Så kan Österbotten attrahera ﬂer internationella företag.” *Vaasa Insider*, December 7, 2021.
 1. Tåg, Joacim. “Dessa egenskaper har toppchefer.” *Botnia Insider*, November 28, 2019.
@@ -409,6 +410,7 @@ layout: default
 - **2009-2011** Seminar series organizer
 
 ### Internal Presentations
+- **2023** Research presentation for the board of Helsinki GSE, Helsinki
 - **2023** ChatGPT in Research, Stockholm
 - **2023** Research presentation for the board of IFN, Stockholm
 - **2020** Research presentation for the board of IFN, Stockholm
