@@ -57,7 +57,7 @@ layout: default
 
 1. Tåg, Joacim. 2009. “Essays on Platforms: Business Strategies, Regulation and Policy in Telecommunications, Media and Technology Industries.” Helsinki: Hanken School of Economics. [http://urn.fi/URN:ISBN:978-952-232-009-4](http://urn.fi/URN:ISBN:978-952-232-009-4).
 
-<p style="font-size:150%;" align="center"><b>Corporate Ownership and Control</b></p>
+<p style="font-size:150%;" align="center"><b>Corporate Control</b></p>
 
 ### CEOs and Managers
 
