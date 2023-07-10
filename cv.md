@@ -39,7 +39,7 @@ layout: default
 
 ### Working papers
 
-1. Coraggio, Luca, Marco Pagano, Annalisa Scognamiglio and Joacim Tåg. 2023. "JAQ of All Trades: Job Mismatch, Firm Productivity and Managerial Quality" *SSRN Electronic Journal*, October. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4069721](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4069721). 
+1. Coraggio, Luca, Marco Pagano, Annalisa Scognamiglio and Joacim Tåg. 2023. "JAQ of All Trades: Job Mismatch, Firm Productivity and Managerial Quality" *SSRN Electronic Journal*, October. [https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4069721](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4069721). Revise and resubmit at *Journal of Financial Economics*.
 
 1. Gardberg, Malin, Fredrik Heyman and Joacim Tåg. 2023. "Importing Automation and Wage Inequality Through Foreign Acquisitions" *IFN Working Paper No. 1457*, [https://ssrn.com/abstract=4412153](https://ssrn.com/abstract=4412153).
 

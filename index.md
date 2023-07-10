@@ -10,7 +10,7 @@ His research is focused on technological change, startups, corporate ownership a
 
 ### Selected Research
 
-Coraggio, L, M. Pagano, A. Scognamiglio and J. Tåg. 2023."[JAQ of All Trades: Job Mismatch, Firm Productivity and Managerial Quality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4069721)" 
+Coraggio, L, M. Pagano, A. Scognamiglio and J. Tåg. 2023."[JAQ of All Trades: Job Mismatch, Firm Productivity and Managerial Quality](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4069721)" Revise and resubmit at *Journal of Financial Economics*.
 * We present a novel measure of job-worker allocation quality (JAQ) by exploiting employer-employee data with machine learning techniques and validate it in various ways. Our measure correlates positively with earnings and negatively with separations over individual workers' careers. At firm level, it increases with competition, non-family firm status, workers’ human capital and has a robust correlation with productivity. The quality of rank-and-file workers' job matches responds positively to improvements in management quality. JAQ can be constructed for any employer-employee data including workers' occupations, and used to explore research questions in organization and labor economics, as well as in corporate finance. 
 * <em>Presentations</em>: AFA, Bristol-Exeter-Lancaster, Brucchi Luchino, Ca’ Foscari University, CSEF, EFA, EIEF, ESWM, IFN, Hanken School of Economics, Helsinki GSE, NICE 2023 (scheduled), Ratio, Swedish Conference in Economics, UNC Kenan-Flagler, WFC and Örebro University.
 
