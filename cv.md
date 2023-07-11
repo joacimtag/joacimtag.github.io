@@ -184,7 +184,7 @@ layout: default
 
 ### Conference presentations
 
-* **2023** AFA, CEPR IMO-ENT Conference (scheduled), CSEF-RCFS Conference on Finance, Labor and Inequality (scheduled), Nordic Initiative in Corporate Economics Conference (scheduled)
+* **2023** AFA, CEPR IMO-ENT Conference (scheduled), CSEF-RCFS Conference on Finance, Labor and Inequality, Nordic Initiative in Corporate Economics Conference
 * **2022** AFA, Swedish Conference in Economics
 * **2021** AFA, EFA
 * **2020** EFA, IFN Workshop on Firms and Labor Markets
@@ -231,7 +231,7 @@ layout: default
 * Economic Journal, Information Systems Research, International Journal of Industrial Organization, Journal of Business Venturing, Journal of Economic Behaviour and Organization, Journal of Economic Geography, Journal of Economics & Management Strategy, Journal of the European Economic Association, Journal of Finance, Journal of Labor Economics, Journal of Public Economics, Management Science, Research Policy, Strategic Entrepreneurship Journal, Strategic Management Journal, Quarterly Journal of Economics and numerous other journals.
 
 ### Grant evaluations
-* **2021-** Swedish Research Council for Health, Working Life and Welfare (FORTE)
+* **2021-2023** Swedish Research Council for Health, Working Life and Welfare (FORTE)
 * **2016** European Research Council
 * **2009** National Science Foundation 
 
